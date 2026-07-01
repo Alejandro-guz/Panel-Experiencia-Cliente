@@ -1,0 +1,1999 @@
+encuesta_id,cliente_id,canal_id,fecha_id,score_nps,categoria,comentario,producto,fecha_envio
+1,380,1,20250101,9,Promotor,Necesito más sucursales,Tarjeta crédito,2025-01-01T09:43:00
+2,217,1,20250119,9,Promotor,Tardaron mucho,Tarjeta crédito,2025-01-19T11:32:00
+3,102,3,20250118,9,Promotor,Mejorar tiempos,Tarjeta crédito,2025-01-18T15:37:00
+4,446,1,20250126,10,Promotor,Excelente app,CDT,2025-01-26T13:17:00
+5,491,3,20250107,9,Promotor,Tardaron mucho,Cuenta corriente,2025-01-07T14:06:00
+6,177,2,20250128,10,Promotor,Muy buena atención,CDT,2025-01-28T16:07:00
+7,283,1,20250103,10,Promotor,Muy fácil de usar,Nómina,2025-01-03T11:45:00
+8,339,1,20250102,9,Promotor,Sin comentario,Cuenta corriente,2025-01-02T11:55:00
+9,143,2,20250113,9,Promotor,Muy fácil de usar,Tarjeta crédito,2025-01-13T13:22:00
+10,137,3,20250122,9,Promotor,Tardaron mucho,Nómina,2025-01-22T18:10:00
+11,237,1,20250106,9,Promotor,Necesito más sucursales,Préstamo personal,2025-01-06T08:14:00
+12,162,2,20250126,9,Promotor,Tardaron mucho,Tarjeta crédito,2025-01-26T17:56:00
+13,336,2,20250107,10,Promotor,Perfecto,Tarjeta crédito,2025-01-07T12:08:00
+14,288,2,20250124,9,Promotor,Mejorar tiempos,Nómina,2025-01-24T14:23:00
+15,261,2,20250105,9,Promotor,Muy buena atención,Cuenta corriente,2025-01-05T10:40:00
+16,349,2,20250126,9,Promotor,Tardaron mucho,CDT,2025-01-26T14:38:00
+17,129,4,20250117,10,Promotor,Muy buena atención,Cuenta corriente,2025-01-17T18:56:00
+18,329,1,20250125,10,Promotor,Sin comentario,CDT,2025-01-25T10:29:00
+19,370,4,20250131,9,Promotor,Sin comentario,Nómina,2025-01-31T10:32:00
+20,321,1,20250128,9,Promotor,Necesito más sucursales,Tarjeta crédito,2025-01-28T13:48:00
+21,489,3,20250118,9,Promotor,Muy buena atención,Nómina,2025-01-18T13:31:00
+22,476,1,20250104,9,Promotor,Sin comentario,Tarjeta crédito,2025-01-04T08:15:00
+23,375,2,20250103,9,Promotor,Tardaron mucho,Nómina,2025-01-03T10:08:00
+24,282,1,20250131,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-01-31T16:48:00
+25,160,2,20250123,9,Promotor,Muy fácil de usar,CDT,2025-01-23T16:28:00
+26,116,1,20250108,9,Promotor,Muy buena atención,Nómina,2025-01-08T16:14:00
+27,37,3,20250101,9,Promotor,Muy buena atención,Tarjeta crédito,2025-01-01T09:57:00
+28,170,1,20250128,9,Promotor,Necesito más sucursales,Préstamo personal,2025-01-28T18:31:00
+29,68,3,20250118,9,Promotor,Perfecto,Tarjeta crédito,2025-01-18T15:51:00
+30,49,1,20250107,10,Promotor,Mejorar tiempos,Préstamo personal,2025-01-07T14:26:00
+31,374,1,20250128,10,Promotor,Tardaron mucho,Cuenta corriente,2025-01-28T14:46:00
+32,442,1,20250126,10,Promotor,Necesito más sucursales,Tarjeta crédito,2025-01-26T16:28:00
+33,94,1,20250114,9,Promotor,Necesito más sucursales,Cuenta corriente,2025-01-14T15:51:00
+34,334,4,20250102,9,Promotor,Muy buena atención,Cuenta corriente,2025-01-02T11:10:00
+35,247,1,20250116,10,Promotor,Mejorar tiempos,Cuenta corriente,2025-01-16T10:24:00
+36,136,4,20250113,9,Promotor,Perfecto,Préstamo personal,2025-01-13T14:44:00
+37,98,1,20250105,10,Promotor,Muy buena atención,Nómina,2025-01-05T16:03:00
+38,26,2,20250102,10,Promotor,Excelente app,Cuenta corriente,2025-01-02T16:05:00
+39,305,1,20250103,9,Promotor,Necesito más sucursales,CDT,2025-01-03T09:56:00
+40,305,1,20250119,9,Promotor,Tardaron mucho,CDT,2025-01-19T18:37:00
+41,134,1,20250130,10,Promotor,Muy fácil de usar,Tarjeta crédito,2025-01-30T12:25:00
+42,331,1,20250122,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-01-22T08:29:00
+43,276,1,20250103,9,Promotor,Sin comentario,Tarjeta crédito,2025-01-03T13:56:00
+44,126,1,20250129,9,Promotor,Excelente app,CDT,2025-01-29T16:45:00
+45,414,2,20250120,10,Promotor,Muy buena atención,Nómina,2025-01-20T12:59:00
+46,450,1,20250131,9,Promotor,Tardaron mucho,Cuenta corriente,2025-01-31T16:09:00
+47,310,1,20250110,10,Promotor,Muy fácil de usar,Tarjeta crédito,2025-01-10T18:40:00
+48,251,1,20250117,10,Promotor,Muy buena atención,Cuenta corriente,2025-01-17T18:27:00
+49,2,1,20250102,10,Promotor,Excelente app,Préstamo personal,2025-01-02T10:47:00
+50,362,2,20250118,10,Promotor,Muy buena atención,Cuenta corriente,2025-01-18T09:56:00
+51,19,3,20250118,9,Promotor,Excelente app,CDT,2025-01-18T10:02:00
+52,461,4,20250112,10,Promotor,Muy buena atención,Préstamo personal,2025-01-12T11:43:00
+53,53,1,20250122,9,Promotor,Mejorar tiempos,Nómina,2025-01-22T10:59:00
+54,84,4,20250128,9,Promotor,Excelente app,CDT,2025-01-28T08:11:00
+55,477,2,20250126,10,Promotor,Necesito más sucursales,Préstamo personal,2025-01-26T10:50:00
+56,447,1,20250113,9,Promotor,Perfecto,Tarjeta crédito,2025-01-13T11:52:00
+57,157,3,20250112,10,Promotor,Necesito más sucursales,Tarjeta crédito,2025-01-12T08:42:00
+58,169,1,20250113,9,Promotor,Tardaron mucho,Préstamo personal,2025-01-13T13:41:00
+59,432,2,20250122,10,Promotor,Muy buena atención,Cuenta corriente,2025-01-22T12:11:00
+60,56,2,20250102,10,Promotor,Muy fácil de usar,Préstamo personal,2025-01-02T14:38:00
+61,461,2,20250113,9,Promotor,Sin comentario,Cuenta corriente,2025-01-13T14:00:00
+62,221,1,20250112,9,Promotor,Muy fácil de usar,Nómina,2025-01-12T13:42:00
+63,461,1,20250124,9,Promotor,Sin comentario,CDT,2025-01-24T13:25:00
+64,66,1,20250118,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-01-18T17:36:00
+65,281,3,20250113,10,Promotor,Sin comentario,Préstamo personal,2025-01-13T11:27:00
+66,227,2,20250115,10,Promotor,Necesito más sucursales,Nómina,2025-01-15T15:50:00
+67,44,1,20250122,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-01-22T11:43:00
+68,413,1,20250108,10,Promotor,Muy buena atención,Cuenta corriente,2025-01-08T11:30:00
+69,213,4,20250115,9,Promotor,Necesito más sucursales,CDT,2025-01-15T15:25:00
+70,336,3,20250105,9,Promotor,Tardaron mucho,CDT,2025-01-05T11:11:00
+71,286,1,20250102,10,Promotor,Tardaron mucho,CDT,2025-01-02T10:51:00
+72,272,4,20250122,10,Promotor,Muy fácil de usar,CDT,2025-01-22T17:52:00
+73,465,2,20250127,10,Promotor,Excelente app,CDT,2025-01-27T15:16:00
+74,327,1,20250127,9,Promotor,Perfecto,Tarjeta crédito,2025-01-27T12:28:00
+75,147,1,20250123,9,Promotor,Muy fácil de usar,Préstamo personal,2025-01-23T16:05:00
+76,119,2,20250105,9,Promotor,Excelente app,Tarjeta crédito,2025-01-05T09:26:00
+77,278,2,20250111,10,Promotor,Muy buena atención,Tarjeta crédito,2025-01-11T14:24:00
+78,451,3,20250128,9,Promotor,Mejorar tiempos,CDT,2025-01-28T08:22:00
+79,200,4,20250125,10,Promotor,Mejorar tiempos,Nómina,2025-01-25T16:51:00
+80,113,1,20250116,9,Promotor,Perfecto,Cuenta corriente,2025-01-16T14:21:00
+81,85,3,20250124,10,Promotor,Excelente app,Nómina,2025-01-24T16:01:00
+82,289,2,20250119,10,Promotor,Tardaron mucho,CDT,2025-01-19T10:55:00
+83,26,1,20250106,10,Promotor,Muy fácil de usar,Tarjeta crédito,2025-01-06T15:20:00
+84,451,1,20250125,10,Promotor,Mejorar tiempos,Préstamo personal,2025-01-25T09:30:00
+85,277,1,20250124,9,Promotor,Muy fácil de usar,Tarjeta crédito,2025-01-24T18:04:00
+86,16,4,20250125,9,Promotor,Necesito más sucursales,Cuenta corriente,2025-01-25T17:09:00
+87,243,2,20250105,9,Promotor,Necesito más sucursales,CDT,2025-01-05T12:49:00
+88,311,2,20250106,10,Promotor,Tardaron mucho,Tarjeta crédito,2025-01-06T12:06:00
+89,160,2,20250130,9,Promotor,Mejorar tiempos,CDT,2025-01-30T11:04:00
+90,357,3,20250104,9,Promotor,Tardaron mucho,Nómina,2025-01-04T08:22:00
+91,190,1,20250122,10,Promotor,Muy fácil de usar,Cuenta corriente,2025-01-22T14:52:00
+92,222,4,20250104,10,Promotor,Perfecto,Tarjeta crédito,2025-01-04T14:11:00
+93,414,4,20250120,10,Promotor,Perfecto,CDT,2025-01-20T14:52:00
+94,437,1,20250111,10,Promotor,Tardaron mucho,Préstamo personal,2025-01-11T15:15:00
+95,313,2,20250119,10,Promotor,Muy fácil de usar,Cuenta corriente,2025-01-19T15:54:00
+96,250,1,20250106,10,Promotor,Sin comentario,Préstamo personal,2025-01-06T12:56:00
+97,6,2,20250118,10,Promotor,Necesito más sucursales,Cuenta corriente,2025-01-18T11:46:00
+98,285,3,20250116,10,Promotor,Perfecto,CDT,2025-01-16T15:50:00
+99,151,1,20250103,9,Promotor,Necesito más sucursales,Préstamo personal,2025-01-03T18:37:00
+100,284,2,20250116,10,Promotor,Mejorar tiempos,Nómina,2025-01-16T13:22:00
+101,157,1,20250109,10,Promotor,Tardaron mucho,Tarjeta crédito,2025-01-09T13:07:00
+102,111,3,20250107,9,Promotor,Sin comentario,Nómina,2025-01-07T16:38:00
+103,427,1,20250104,10,Promotor,Necesito más sucursales,Préstamo personal,2025-01-04T10:19:00
+104,274,1,20250123,9,Promotor,Muy buena atención,Cuenta corriente,2025-01-23T16:18:00
+105,445,3,20250121,9,Promotor,Tardaron mucho,Cuenta corriente,2025-01-21T17:18:00
+106,226,1,20250116,10,Promotor,Muy buena atención,Préstamo personal,2025-01-16T15:07:00
+107,252,1,20250113,9,Promotor,Muy buena atención,Tarjeta crédito,2025-01-13T10:51:00
+108,128,1,20250103,10,Promotor,Mejorar tiempos,Nómina,2025-01-03T17:50:00
+109,268,2,20250125,9,Promotor,Perfecto,Préstamo personal,2025-01-25T17:27:00
+110,318,1,20250119,10,Promotor,Tardaron mucho,Tarjeta crédito,2025-01-19T18:13:00
+111,42,1,20250122,10,Promotor,Excelente app,Nómina,2025-01-22T09:10:00
+112,231,3,20250114,9,Promotor,Perfecto,Préstamo personal,2025-01-14T08:14:00
+113,145,3,20250123,10,Promotor,Perfecto,Cuenta corriente,2025-01-23T18:14:00
+114,406,2,20250126,10,Promotor,Necesito más sucursales,CDT,2025-01-26T09:34:00
+115,77,4,20250121,9,Promotor,Excelente app,Cuenta corriente,2025-01-21T08:10:00
+116,384,3,20250120,10,Promotor,Sin comentario,CDT,2025-01-20T09:29:00
+117,207,4,20250123,10,Promotor,Perfecto,CDT,2025-01-23T09:38:00
+118,222,3,20250129,9,Promotor,Sin comentario,Cuenta corriente,2025-01-29T09:14:00
+119,345,3,20250125,9,Promotor,Muy buena atención,Tarjeta crédito,2025-01-25T15:33:00
+120,143,1,20250130,10,Promotor,Mejorar tiempos,CDT,2025-01-30T09:30:00
+121,171,1,20250114,10,Promotor,Tardaron mucho,Tarjeta crédito,2025-01-14T13:26:00
+122,340,4,20250110,10,Promotor,Muy buena atención,CDT,2025-01-10T09:20:00
+123,60,4,20250111,10,Promotor,Mejorar tiempos,Nómina,2025-01-11T08:42:00
+124,28,1,20250114,10,Promotor,Muy fácil de usar,Nómina,2025-01-14T15:40:00
+125,27,1,20250125,10,Promotor,Excelente app,Préstamo personal,2025-01-25T15:56:00
+126,15,4,20250104,10,Promotor,Necesito más sucursales,Tarjeta crédito,2025-01-04T12:35:00
+127,209,1,20250118,9,Promotor,Tardaron mucho,CDT,2025-01-18T09:41:00
+128,478,3,20250116,9,Promotor,Sin comentario,CDT,2025-01-16T15:30:00
+129,283,1,20250115,9,Promotor,Necesito más sucursales,Nómina,2025-01-15T16:47:00
+130,36,1,20250128,9,Promotor,Mejorar tiempos,Préstamo personal,2025-01-28T16:17:00
+131,372,1,20250110,9,Promotor,Perfecto,Tarjeta crédito,2025-01-10T15:34:00
+132,171,2,20250112,10,Promotor,Mejorar tiempos,CDT,2025-01-12T13:55:00
+133,123,2,20250123,9,Promotor,Necesito más sucursales,CDT,2025-01-23T08:20:00
+134,468,3,20250123,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-01-23T15:02:00
+135,495,2,20250117,9,Promotor,Tardaron mucho,CDT,2025-01-17T09:33:00
+136,370,1,20250101,10,Promotor,Excelente app,Cuenta corriente,2025-01-01T15:50:00
+137,320,3,20250111,10,Promotor,Tardaron mucho,Préstamo personal,2025-01-11T18:54:00
+138,163,2,20250131,10,Promotor,Perfecto,Nómina,2025-01-31T08:39:00
+139,324,3,20250108,9,Promotor,Sin comentario,Tarjeta crédito,2025-01-08T09:27:00
+140,325,3,20250125,9,Promotor,Tardaron mucho,CDT,2025-01-25T10:44:00
+141,15,1,20250129,10,Promotor,Muy buena atención,Préstamo personal,2025-01-29T13:23:00
+142,126,2,20250105,10,Promotor,Excelente app,Tarjeta crédito,2025-01-05T10:05:00
+143,350,1,20250120,10,Promotor,Excelente app,Tarjeta crédito,2025-01-20T15:40:00
+144,131,2,20250115,10,Promotor,Perfecto,Préstamo personal,2025-01-15T18:34:00
+145,227,4,20250103,9,Promotor,Sin comentario,CDT,2025-01-03T12:29:00
+146,197,4,20250107,10,Promotor,Tardaron mucho,Tarjeta crédito,2025-01-07T14:36:00
+147,152,4,20250119,10,Promotor,Sin comentario,Cuenta corriente,2025-01-19T18:25:00
+148,290,4,20250101,10,Promotor,Muy buena atención,Nómina,2025-01-01T15:53:00
+149,410,1,20250125,10,Promotor,Muy fácil de usar,Tarjeta crédito,2025-01-25T18:12:00
+150,387,3,20250122,10,Promotor,Excelente app,Cuenta corriente,2025-01-22T18:41:00
+151,404,2,20250110,9,Promotor,Muy fácil de usar,Tarjeta crédito,2025-01-10T09:58:00
+152,383,2,20250111,10,Promotor,Necesito más sucursales,Tarjeta crédito,2025-01-11T16:56:00
+153,257,4,20250117,10,Promotor,Excelente app,Préstamo personal,2025-01-17T15:51:00
+154,446,1,20250124,10,Promotor,Tardaron mucho,CDT,2025-01-24T09:09:00
+155,347,3,20250128,9,Promotor,Mejorar tiempos,Nómina,2025-01-28T13:05:00
+156,136,2,20250101,10,Promotor,Perfecto,Préstamo personal,2025-01-01T18:47:00
+157,196,3,20250119,10,Promotor,Muy fácil de usar,Cuenta corriente,2025-01-19T18:14:00
+158,318,4,20250101,10,Promotor,Muy fácil de usar,Nómina,2025-01-01T11:41:00
+159,422,2,20250121,9,Promotor,Sin comentario,CDT,2025-01-21T09:08:00
+160,20,1,20250131,9,Promotor,Perfecto,Cuenta corriente,2025-01-31T09:15:00
+161,233,1,20250113,9,Promotor,Mejorar tiempos,Nómina,2025-01-13T10:56:00
+162,51,3,20250121,10,Promotor,Mejorar tiempos,Préstamo personal,2025-01-21T08:44:00
+163,228,2,20250107,10,Promotor,Necesito más sucursales,Préstamo personal,2025-01-07T09:43:00
+164,462,4,20250118,10,Promotor,Muy fácil de usar,Cuenta corriente,2025-01-18T14:17:00
+165,63,4,20250131,9,Promotor,Perfecto,Cuenta corriente,2025-01-31T18:13:00
+166,403,1,20250102,9,Promotor,Excelente app,Nómina,2025-01-02T11:04:00
+167,111,3,20250119,9,Promotor,Necesito más sucursales,Préstamo personal,2025-01-19T10:50:00
+168,440,4,20250109,9,Promotor,Excelente app,Nómina,2025-01-09T12:51:00
+169,339,4,20250104,9,Promotor,Excelente app,Cuenta corriente,2025-01-04T13:50:00
+170,166,1,20250119,9,Promotor,Sin comentario,Cuenta corriente,2025-01-19T10:47:00
+171,59,3,20250117,10,Promotor,Perfecto,CDT,2025-01-17T13:32:00
+172,258,1,20250115,9,Promotor,Muy buena atención,Nómina,2025-01-15T12:29:00
+173,246,3,20250102,9,Promotor,Mejorar tiempos,Cuenta corriente,2025-01-02T15:45:00
+174,461,1,20250103,10,Promotor,Excelente app,Cuenta corriente,2025-01-03T10:17:00
+175,306,2,20250113,10,Promotor,Perfecto,Nómina,2025-01-13T17:27:00
+176,360,1,20250126,9,Promotor,Necesito más sucursales,CDT,2025-01-26T15:56:00
+177,174,3,20250114,9,Promotor,Mejorar tiempos,CDT,2025-01-14T09:20:00
+178,341,1,20250111,10,Promotor,Excelente app,CDT,2025-01-11T09:05:00
+179,222,1,20250103,9,Promotor,Muy fácil de usar,Tarjeta crédito,2025-01-03T16:03:00
+180,63,2,20250122,10,Promotor,Mejorar tiempos,Cuenta corriente,2025-01-22T12:38:00
+181,54,2,20250112,10,Promotor,Necesito más sucursales,Tarjeta crédito,2025-01-12T18:30:00
+182,56,1,20250128,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-01-28T12:36:00
+183,220,3,20250126,9,Promotor,Muy buena atención,Nómina,2025-01-26T18:53:00
+184,93,1,20250101,10,Promotor,Sin comentario,Préstamo personal,2025-01-01T13:00:00
+185,74,2,20250128,9,Promotor,Mejorar tiempos,Cuenta corriente,2025-01-28T10:47:00
+186,383,2,20250103,9,Promotor,Mejorar tiempos,CDT,2025-01-03T15:21:00
+187,160,3,20250112,9,Promotor,Tardaron mucho,Cuenta corriente,2025-01-12T10:10:00
+188,42,1,20250122,9,Promotor,Mejorar tiempos,CDT,2025-01-22T17:28:00
+189,111,3,20250109,10,Promotor,Tardaron mucho,Préstamo personal,2025-01-09T14:07:00
+190,348,2,20250122,10,Promotor,Sin comentario,Cuenta corriente,2025-01-22T11:25:00
+191,105,1,20250101,9,Promotor,Necesito más sucursales,Tarjeta crédito,2025-01-01T12:18:00
+192,4,2,20250104,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-01-04T10:24:00
+193,287,3,20250117,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-01-17T14:55:00
+194,10,2,20250114,9,Promotor,Tardaron mucho,Préstamo personal,2025-01-14T17:27:00
+195,328,2,20250123,10,Promotor,Tardaron mucho,CDT,2025-01-23T08:20:00
+196,486,2,20250126,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-01-26T14:54:00
+197,224,2,20250108,9,Promotor,Tardaron mucho,CDT,2025-01-08T12:47:00
+198,171,3,20250108,10,Promotor,Tardaron mucho,Nómina,2025-01-08T18:07:00
+199,398,1,20250129,9,Promotor,Excelente app,Tarjeta crédito,2025-01-29T09:09:00
+200,89,2,20250107,10,Promotor,Tardaron mucho,Tarjeta crédito,2025-01-07T18:31:00
+201,289,3,20250125,10,Promotor,Perfecto,Nómina,2025-01-25T18:40:00
+202,498,2,20250128,10,Promotor,Excelente app,CDT,2025-01-28T09:30:00
+203,156,3,20250121,10,Promotor,Muy buena atención,Préstamo personal,2025-01-21T16:04:00
+204,232,1,20250115,10,Promotor,Muy fácil de usar,Préstamo personal,2025-01-15T09:41:00
+205,305,2,20250120,9,Promotor,Perfecto,Nómina,2025-01-20T16:50:00
+206,466,3,20250115,9,Promotor,Necesito más sucursales,Préstamo personal,2025-01-15T17:30:00
+207,32,2,20250131,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-01-31T16:41:00
+208,127,3,20250102,9,Promotor,Perfecto,Nómina,2025-01-02T16:39:00
+209,191,4,20250112,9,Promotor,Mejorar tiempos,CDT,2025-01-12T13:43:00
+210,324,2,20250126,9,Promotor,Tardaron mucho,Préstamo personal,2025-01-26T09:35:00
+211,130,3,20250110,10,Promotor,Excelente app,Préstamo personal,2025-01-10T09:37:00
+212,180,1,20250130,9,Promotor,Mejorar tiempos,Tarjeta crédito,2025-01-30T17:45:00
+213,287,1,20250110,9,Promotor,Muy fácil de usar,Tarjeta crédito,2025-01-10T18:44:00
+214,344,2,20250121,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-01-21T13:19:00
+215,110,1,20250131,9,Promotor,Perfecto,Tarjeta crédito,2025-01-31T11:08:00
+216,152,3,20250103,7,Pasivo,Tardaron mucho,Nómina,2025-01-03T16:53:00
+217,173,4,20250122,7,Pasivo,Excelente app,Nómina,2025-01-22T14:09:00
+218,426,3,20250106,7,Pasivo,Excelente app,CDT,2025-01-06T08:26:00
+219,369,1,20250122,8,Pasivo,Perfecto,Nómina,2025-01-22T12:48:00
+220,274,1,20250108,8,Pasivo,Perfecto,Tarjeta crédito,2025-01-08T13:43:00
+221,394,1,20250115,8,Pasivo,Mejorar tiempos,Nómina,2025-01-15T16:26:00
+222,103,3,20250127,7,Pasivo,Excelente app,Préstamo personal,2025-01-27T08:41:00
+223,191,2,20250128,8,Pasivo,Tardaron mucho,Nómina,2025-01-28T09:18:00
+224,83,1,20250125,7,Pasivo,Excelente app,CDT,2025-01-25T09:58:00
+225,231,4,20250127,7,Pasivo,Muy buena atención,CDT,2025-01-27T08:25:00
+226,198,4,20250108,8,Pasivo,Muy fácil de usar,Tarjeta crédito,2025-01-08T08:20:00
+227,366,2,20250127,7,Pasivo,Excelente app,Tarjeta crédito,2025-01-27T08:18:00
+228,426,1,20250123,8,Pasivo,Perfecto,CDT,2025-01-23T17:00:00
+229,132,1,20250101,7,Pasivo,Excelente app,Nómina,2025-01-01T17:33:00
+230,398,1,20250104,8,Pasivo,Sin comentario,Cuenta corriente,2025-01-04T08:15:00
+231,407,2,20250121,8,Pasivo,Tardaron mucho,Cuenta corriente,2025-01-21T15:38:00
+232,264,2,20250121,7,Pasivo,Excelente app,Préstamo personal,2025-01-21T14:00:00
+233,293,2,20250108,8,Pasivo,Tardaron mucho,Nómina,2025-01-08T13:04:00
+234,448,2,20250113,7,Pasivo,Mejorar tiempos,Préstamo personal,2025-01-13T12:47:00
+235,404,1,20250112,7,Pasivo,Necesito más sucursales,Cuenta corriente,2025-01-12T17:47:00
+236,23,1,20250105,8,Pasivo,Muy fácil de usar,Tarjeta crédito,2025-01-05T18:29:00
+237,94,3,20250121,8,Pasivo,Tardaron mucho,CDT,2025-01-21T08:18:00
+238,406,1,20250102,7,Pasivo,Muy buena atención,Préstamo personal,2025-01-02T12:32:00
+239,279,2,20250127,8,Pasivo,Muy buena atención,Tarjeta crédito,2025-01-27T12:22:00
+240,336,1,20250128,7,Pasivo,Tardaron mucho,Préstamo personal,2025-01-28T14:56:00
+241,226,4,20250124,8,Pasivo,Mejorar tiempos,Préstamo personal,2025-01-24T10:31:00
+242,474,3,20250112,8,Pasivo,Sin comentario,Cuenta corriente,2025-01-12T14:05:00
+243,422,1,20250120,8,Pasivo,Sin comentario,Préstamo personal,2025-01-20T09:05:00
+244,152,1,20250122,8,Pasivo,Mejorar tiempos,Tarjeta crédito,2025-01-22T15:22:00
+245,373,4,20250102,8,Pasivo,Muy fácil de usar,Nómina,2025-01-02T14:17:00
+246,344,2,20250103,7,Pasivo,Muy fácil de usar,Nómina,2025-01-03T18:10:00
+247,435,2,20250105,7,Pasivo,Perfecto,Cuenta corriente,2025-01-05T10:04:00
+248,331,1,20250125,7,Pasivo,Mejorar tiempos,Nómina,2025-01-25T08:38:00
+249,231,4,20250122,7,Pasivo,Muy fácil de usar,CDT,2025-01-22T09:36:00
+250,188,2,20250117,7,Pasivo,Sin comentario,Tarjeta crédito,2025-01-17T09:01:00
+251,266,2,20250116,7,Pasivo,Tardaron mucho,Préstamo personal,2025-01-16T12:45:00
+252,314,1,20250107,8,Pasivo,Perfecto,Tarjeta crédito,2025-01-07T09:08:00
+253,89,4,20250115,7,Pasivo,Perfecto,Cuenta corriente,2025-01-15T18:54:00
+254,178,3,20250122,8,Pasivo,Sin comentario,Préstamo personal,2025-01-22T10:45:00
+255,186,2,20250126,7,Pasivo,Tardaron mucho,Tarjeta crédito,2025-01-26T10:15:00
+256,185,2,20250101,8,Pasivo,Muy fácil de usar,CDT,2025-01-01T16:08:00
+257,159,2,20250103,7,Pasivo,Perfecto,Nómina,2025-01-03T14:49:00
+258,295,1,20250127,8,Pasivo,Muy fácil de usar,Cuenta corriente,2025-01-27T15:29:00
+259,450,3,20250105,8,Pasivo,Excelente app,Tarjeta crédito,2025-01-05T14:32:00
+260,64,2,20250127,7,Pasivo,Sin comentario,Tarjeta crédito,2025-01-27T10:20:00
+261,486,4,20250112,7,Pasivo,Sin comentario,Cuenta corriente,2025-01-12T12:12:00
+262,321,1,20250105,8,Pasivo,Tardaron mucho,Nómina,2025-01-05T18:10:00
+263,338,2,20250106,7,Pasivo,Muy fácil de usar,Nómina,2025-01-06T08:52:00
+264,24,4,20250103,7,Pasivo,Sin comentario,Tarjeta crédito,2025-01-03T17:26:00
+265,456,2,20250116,7,Pasivo,Sin comentario,Préstamo personal,2025-01-16T15:15:00
+266,233,1,20250110,8,Pasivo,Muy buena atención,Tarjeta crédito,2025-01-10T15:26:00
+267,105,1,20250115,8,Pasivo,Excelente app,Préstamo personal,2025-01-15T13:46:00
+268,67,3,20250113,8,Pasivo,Tardaron mucho,Préstamo personal,2025-01-13T11:29:00
+269,231,1,20250109,7,Pasivo,Tardaron mucho,Cuenta corriente,2025-01-09T12:24:00
+270,493,4,20250108,8,Pasivo,Excelente app,Préstamo personal,2025-01-08T17:46:00
+271,391,1,20250107,8,Pasivo,Perfecto,CDT,2025-01-07T12:31:00
+272,484,2,20250103,7,Pasivo,Perfecto,Tarjeta crédito,2025-01-03T11:37:00
+273,26,1,20250102,8,Pasivo,Perfecto,Préstamo personal,2025-01-02T16:00:00
+274,69,4,20250114,7,Pasivo,Muy fácil de usar,CDT,2025-01-14T13:02:00
+275,292,2,20250102,8,Pasivo,Muy fácil de usar,Nómina,2025-01-02T12:04:00
+276,231,3,20250117,8,Pasivo,Sin comentario,Nómina,2025-01-17T18:39:00
+277,500,1,20250105,7,Pasivo,Muy fácil de usar,Préstamo personal,2025-01-05T16:23:00
+278,309,2,20250107,7,Pasivo,Muy buena atención,Cuenta corriente,2025-01-07T08:08:00
+279,243,2,20250126,8,Pasivo,Excelente app,Nómina,2025-01-26T16:08:00
+280,314,1,20250130,8,Pasivo,Mejorar tiempos,Nómina,2025-01-30T12:37:00
+281,425,2,20250117,8,Pasivo,Perfecto,Nómina,2025-01-17T12:30:00
+282,170,3,20250112,7,Pasivo,Mejorar tiempos,Nómina,2025-01-12T12:50:00
+283,243,1,20250120,7,Pasivo,Necesito más sucursales,Cuenta corriente,2025-01-20T17:30:00
+284,323,3,20250117,7,Pasivo,Mejorar tiempos,Tarjeta crédito,2025-01-17T18:15:00
+285,486,3,20250119,7,Pasivo,Necesito más sucursales,Cuenta corriente,2025-01-19T15:20:00
+286,212,3,20250105,8,Pasivo,Mejorar tiempos,Nómina,2025-01-05T17:58:00
+287,435,3,20250128,8,Pasivo,Muy buena atención,Tarjeta crédito,2025-01-28T16:13:00
+288,245,2,20250122,8,Pasivo,Muy fácil de usar,Tarjeta crédito,2025-01-22T15:58:00
+289,182,3,20250118,8,Pasivo,Sin comentario,Nómina,2025-01-18T15:12:00
+290,286,1,20250109,7,Pasivo,Sin comentario,Préstamo personal,2025-01-09T11:44:00
+291,246,1,20250111,8,Pasivo,Sin comentario,Préstamo personal,2025-01-11T09:36:00
+292,203,3,20250129,8,Pasivo,Excelente app,Préstamo personal,2025-01-29T08:18:00
+293,474,2,20250112,7,Pasivo,Sin comentario,CDT,2025-01-12T11:12:00
+294,288,3,20250130,8,Pasivo,Excelente app,Cuenta corriente,2025-01-30T17:47:00
+295,26,2,20250108,7,Pasivo,Necesito más sucursales,Tarjeta crédito,2025-01-08T08:06:00
+296,368,2,20250111,8,Pasivo,Excelente app,Cuenta corriente,2025-01-11T16:59:00
+297,335,4,20250114,7,Pasivo,Perfecto,CDT,2025-01-14T18:12:00
+298,147,2,20250111,8,Pasivo,Tardaron mucho,Nómina,2025-01-11T11:34:00
+299,472,1,20250130,7,Pasivo,Excelente app,Cuenta corriente,2025-01-30T14:50:00
+300,480,3,20250106,8,Pasivo,Sin comentario,Cuenta corriente,2025-01-06T08:19:00
+301,55,4,20250120,4,Detractor,Muy fácil de usar,Préstamo personal,2025-01-20T15:41:00
+302,253,4,20250117,4,Detractor,Excelente app,Nómina,2025-01-17T15:17:00
+303,58,1,20250126,1,Detractor,Perfecto,Préstamo personal,2025-01-26T10:00:00
+304,405,1,20250111,5,Detractor,Necesito más sucursales,Tarjeta crédito,2025-01-11T17:54:00
+305,208,3,20250129,5,Detractor,Muy fácil de usar,Cuenta corriente,2025-01-29T14:42:00
+306,72,2,20250106,0,Detractor,Necesito más sucursales,Cuenta corriente,2025-01-06T12:24:00
+307,386,1,20250115,1,Detractor,Muy fácil de usar,Préstamo personal,2025-01-15T17:46:00
+308,134,2,20250101,4,Detractor,Necesito más sucursales,Cuenta corriente,2025-01-01T18:07:00
+309,82,2,20250110,3,Detractor,Sin comentario,Cuenta corriente,2025-01-10T18:58:00
+310,315,1,20250112,2,Detractor,Excelente app,CDT,2025-01-12T10:29:00
+311,192,2,20250120,5,Detractor,Perfecto,Nómina,2025-01-20T18:52:00
+312,127,3,20250125,1,Detractor,Tardaron mucho,Nómina,2025-01-25T15:33:00
+313,40,4,20250112,5,Detractor,Tardaron mucho,Cuenta corriente,2025-01-12T16:57:00
+314,294,2,20250107,4,Detractor,Excelente app,Préstamo personal,2025-01-07T16:28:00
+315,106,3,20250122,0,Detractor,Perfecto,Cuenta corriente,2025-01-22T16:28:00
+316,233,1,20250102,6,Detractor,Mejorar tiempos,CDT,2025-01-02T17:03:00
+317,345,3,20250115,4,Detractor,Muy buena atención,CDT,2025-01-15T12:52:00
+318,112,2,20250124,0,Detractor,Muy buena atención,CDT,2025-01-24T13:44:00
+319,31,4,20250118,0,Detractor,Tardaron mucho,CDT,2025-01-18T08:18:00
+320,394,1,20250106,3,Detractor,Mejorar tiempos,Préstamo personal,2025-01-06T14:28:00
+321,465,1,20250130,6,Detractor,Tardaron mucho,Nómina,2025-01-30T10:41:00
+322,61,1,20250112,6,Detractor,Mejorar tiempos,Nómina,2025-01-12T10:46:00
+323,2,3,20250127,1,Detractor,Sin comentario,CDT,2025-01-27T18:46:00
+324,273,1,20250114,4,Detractor,Necesito más sucursales,Tarjeta crédito,2025-01-14T15:22:00
+325,97,4,20250109,1,Detractor,Tardaron mucho,Cuenta corriente,2025-01-09T18:26:00
+326,480,4,20250125,4,Detractor,Muy buena atención,Tarjeta crédito,2025-01-25T11:04:00
+327,18,2,20250120,0,Detractor,Muy buena atención,Tarjeta crédito,2025-01-20T08:25:00
+328,277,1,20250108,3,Detractor,Muy buena atención,Tarjeta crédito,2025-01-08T16:18:00
+329,470,3,20250127,1,Detractor,Muy fácil de usar,Nómina,2025-01-27T17:49:00
+330,165,1,20250127,5,Detractor,Excelente app,Nómina,2025-01-27T11:26:00
+331,32,2,20250109,2,Detractor,Excelente app,CDT,2025-01-09T16:31:00
+332,483,2,20250112,0,Detractor,Mejorar tiempos,Nómina,2025-01-12T13:44:00
+333,77,1,20250114,3,Detractor,Excelente app,Nómina,2025-01-14T15:15:00
+334,440,3,20250210,9,Promotor,Perfecto,Cuenta corriente,2025-02-10T16:26:00
+335,272,1,20250218,10,Promotor,Necesito más sucursales,Préstamo personal,2025-02-18T11:21:00
+336,434,1,20250215,9,Promotor,Necesito más sucursales,Cuenta corriente,2025-02-15T12:24:00
+337,38,1,20250228,9,Promotor,Necesito más sucursales,CDT,2025-02-28T11:55:00
+338,490,4,20250210,10,Promotor,Necesito más sucursales,Tarjeta crédito,2025-02-10T09:47:00
+339,357,2,20250208,10,Promotor,Necesito más sucursales,CDT,2025-02-08T11:35:00
+340,145,2,20250225,10,Promotor,Muy fácil de usar,Préstamo personal,2025-02-25T12:23:00
+341,51,3,20250215,10,Promotor,Perfecto,Préstamo personal,2025-02-15T11:23:00
+342,24,2,20250214,10,Promotor,Necesito más sucursales,Tarjeta crédito,2025-02-14T08:16:00
+343,79,1,20250210,10,Promotor,Necesito más sucursales,CDT,2025-02-10T17:53:00
+344,282,2,20250216,9,Promotor,Muy fácil de usar,Préstamo personal,2025-02-16T15:46:00
+345,87,3,20250215,10,Promotor,Muy fácil de usar,Tarjeta crédito,2025-02-15T10:46:00
+346,470,4,20250206,10,Promotor,Muy buena atención,Nómina,2025-02-06T08:53:00
+347,343,1,20250227,9,Promotor,Muy buena atención,CDT,2025-02-27T10:53:00
+348,363,1,20250203,9,Promotor,Necesito más sucursales,Nómina,2025-02-03T15:23:00
+349,327,2,20250220,9,Promotor,Perfecto,CDT,2025-02-20T08:00:00
+350,9,2,20250201,10,Promotor,Sin comentario,Nómina,2025-02-01T12:01:00
+351,482,4,20250226,10,Promotor,Tardaron mucho,Cuenta corriente,2025-02-26T16:09:00
+352,318,2,20250207,9,Promotor,Muy fácil de usar,Préstamo personal,2025-02-07T14:05:00
+353,236,2,20250213,10,Promotor,Necesito más sucursales,Préstamo personal,2025-02-13T18:52:00
+354,440,2,20250221,9,Promotor,Muy buena atención,Cuenta corriente,2025-02-21T14:24:00
+355,244,1,20250218,10,Promotor,Muy buena atención,Tarjeta crédito,2025-02-18T09:31:00
+356,402,1,20250221,10,Promotor,Tardaron mucho,Nómina,2025-02-21T08:14:00
+357,355,4,20250228,9,Promotor,Perfecto,Préstamo personal,2025-02-28T08:59:00
+358,474,1,20250222,9,Promotor,Muy buena atención,Tarjeta crédito,2025-02-22T13:01:00
+359,74,3,20250219,9,Promotor,Mejorar tiempos,Cuenta corriente,2025-02-19T12:10:00
+360,428,3,20250219,9,Promotor,Muy fácil de usar,CDT,2025-02-19T10:50:00
+361,382,4,20250217,9,Promotor,Muy buena atención,Cuenta corriente,2025-02-17T14:14:00
+362,310,3,20250211,9,Promotor,Mejorar tiempos,Préstamo personal,2025-02-11T08:40:00
+363,231,2,20250226,10,Promotor,Muy fácil de usar,Nómina,2025-02-26T14:27:00
+364,300,2,20250222,9,Promotor,Tardaron mucho,Nómina,2025-02-22T12:51:00
+365,38,1,20250223,9,Promotor,Excelente app,CDT,2025-02-23T18:09:00
+366,185,1,20250211,10,Promotor,Muy buena atención,Préstamo personal,2025-02-11T15:23:00
+367,68,1,20250204,10,Promotor,Mejorar tiempos,CDT,2025-02-04T16:35:00
+368,14,1,20250204,10,Promotor,Tardaron mucho,Nómina,2025-02-04T17:50:00
+369,198,1,20250228,10,Promotor,Mejorar tiempos,CDT,2025-02-28T09:46:00
+370,267,1,20250219,9,Promotor,Mejorar tiempos,Tarjeta crédito,2025-02-19T10:17:00
+371,253,1,20250209,10,Promotor,Excelente app,CDT,2025-02-09T12:26:00
+372,401,1,20250216,10,Promotor,Sin comentario,Tarjeta crédito,2025-02-16T18:31:00
+373,55,1,20250215,9,Promotor,Muy buena atención,CDT,2025-02-15T13:53:00
+374,442,1,20250226,10,Promotor,Muy fácil de usar,CDT,2025-02-26T18:38:00
+375,165,2,20250210,9,Promotor,Necesito más sucursales,CDT,2025-02-10T13:11:00
+376,150,3,20250211,10,Promotor,Perfecto,Nómina,2025-02-11T11:20:00
+377,419,3,20250209,10,Promotor,Muy fácil de usar,Cuenta corriente,2025-02-09T17:12:00
+378,394,2,20250222,9,Promotor,Perfecto,Tarjeta crédito,2025-02-22T15:51:00
+379,355,1,20250227,10,Promotor,Mejorar tiempos,CDT,2025-02-27T10:40:00
+380,130,2,20250208,10,Promotor,Mejorar tiempos,CDT,2025-02-08T09:28:00
+381,206,2,20250219,10,Promotor,Mejorar tiempos,Nómina,2025-02-19T08:50:00
+382,459,3,20250223,10,Promotor,Tardaron mucho,Cuenta corriente,2025-02-23T11:42:00
+383,332,2,20250206,10,Promotor,Mejorar tiempos,Préstamo personal,2025-02-06T14:06:00
+384,133,1,20250204,9,Promotor,Necesito más sucursales,CDT,2025-02-04T13:25:00
+385,348,2,20250225,10,Promotor,Excelente app,Préstamo personal,2025-02-25T08:30:00
+386,213,4,20250210,9,Promotor,Tardaron mucho,Cuenta corriente,2025-02-10T10:22:00
+387,234,3,20250211,10,Promotor,Perfecto,Préstamo personal,2025-02-11T15:06:00
+388,357,2,20250224,10,Promotor,Tardaron mucho,Préstamo personal,2025-02-24T08:51:00
+389,435,1,20250201,9,Promotor,Tardaron mucho,Tarjeta crédito,2025-02-01T11:33:00
+390,82,1,20250218,9,Promotor,Mejorar tiempos,CDT,2025-02-18T11:51:00
+391,95,1,20250221,10,Promotor,Mejorar tiempos,CDT,2025-02-21T08:47:00
+392,304,2,20250215,9,Promotor,Muy buena atención,Tarjeta crédito,2025-02-15T11:17:00
+393,53,3,20250219,9,Promotor,Excelente app,Préstamo personal,2025-02-19T13:12:00
+394,135,3,20250204,10,Promotor,Perfecto,Nómina,2025-02-04T18:20:00
+395,201,2,20250220,10,Promotor,Muy fácil de usar,Préstamo personal,2025-02-20T15:39:00
+396,345,3,20250227,9,Promotor,Sin comentario,Nómina,2025-02-27T17:05:00
+397,61,1,20250211,9,Promotor,Tardaron mucho,Tarjeta crédito,2025-02-11T13:44:00
+398,199,2,20250217,9,Promotor,Excelente app,Nómina,2025-02-17T14:27:00
+399,326,2,20250216,9,Promotor,Excelente app,Nómina,2025-02-16T10:31:00
+400,96,1,20250205,10,Promotor,Perfecto,Nómina,2025-02-05T08:55:00
+401,249,1,20250201,10,Promotor,Mejorar tiempos,Nómina,2025-02-01T16:41:00
+402,351,2,20250214,10,Promotor,Perfecto,CDT,2025-02-14T10:05:00
+403,390,1,20250226,9,Promotor,Muy buena atención,Préstamo personal,2025-02-26T11:34:00
+404,400,2,20250206,10,Promotor,Perfecto,Nómina,2025-02-06T16:07:00
+405,397,2,20250209,9,Promotor,Muy fácil de usar,Nómina,2025-02-09T08:48:00
+406,112,4,20250218,10,Promotor,Tardaron mucho,Tarjeta crédito,2025-02-18T12:55:00
+407,135,1,20250215,9,Promotor,Tardaron mucho,CDT,2025-02-15T09:49:00
+408,416,3,20250207,9,Promotor,Muy fácil de usar,Nómina,2025-02-07T18:27:00
+409,72,3,20250220,9,Promotor,Necesito más sucursales,Cuenta corriente,2025-02-20T17:22:00
+410,276,1,20250220,10,Promotor,Sin comentario,Préstamo personal,2025-02-20T17:17:00
+411,493,3,20250205,9,Promotor,Mejorar tiempos,Cuenta corriente,2025-02-05T12:55:00
+412,444,1,20250223,9,Promotor,Excelente app,Préstamo personal,2025-02-23T11:48:00
+413,73,2,20250216,10,Promotor,Sin comentario,CDT,2025-02-16T14:28:00
+414,407,4,20250221,9,Promotor,Tardaron mucho,CDT,2025-02-21T16:47:00
+415,480,4,20250223,10,Promotor,Perfecto,CDT,2025-02-23T13:37:00
+416,397,3,20250228,9,Promotor,Tardaron mucho,CDT,2025-02-28T18:42:00
+417,33,3,20250228,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-02-28T14:52:00
+418,138,1,20250216,9,Promotor,Sin comentario,Préstamo personal,2025-02-16T16:36:00
+419,437,2,20250219,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-02-19T08:06:00
+420,64,4,20250201,10,Promotor,Excelente app,CDT,2025-02-01T15:00:00
+421,353,4,20250207,10,Promotor,Sin comentario,Tarjeta crédito,2025-02-07T12:05:00
+422,43,1,20250209,10,Promotor,Excelente app,Cuenta corriente,2025-02-09T14:40:00
+423,359,3,20250224,10,Promotor,Mejorar tiempos,Cuenta corriente,2025-02-24T09:00:00
+424,40,1,20250216,9,Promotor,Necesito más sucursales,Nómina,2025-02-16T18:28:00
+425,357,1,20250201,9,Promotor,Tardaron mucho,CDT,2025-02-01T10:30:00
+426,197,1,20250208,9,Promotor,Tardaron mucho,Cuenta corriente,2025-02-08T13:23:00
+427,196,3,20250205,10,Promotor,Excelente app,Tarjeta crédito,2025-02-05T09:33:00
+428,333,1,20250220,9,Promotor,Muy fácil de usar,Tarjeta crédito,2025-02-20T18:47:00
+429,316,3,20250214,9,Promotor,Necesito más sucursales,Cuenta corriente,2025-02-14T09:08:00
+430,374,2,20250219,9,Promotor,Mejorar tiempos,Préstamo personal,2025-02-19T10:15:00
+431,44,1,20250221,10,Promotor,Sin comentario,Cuenta corriente,2025-02-21T18:56:00
+432,266,2,20250207,10,Promotor,Necesito más sucursales,CDT,2025-02-07T12:41:00
+433,460,3,20250226,9,Promotor,Necesito más sucursales,CDT,2025-02-26T14:07:00
+434,327,2,20250216,9,Promotor,Muy buena atención,Préstamo personal,2025-02-16T13:08:00
+435,430,2,20250228,10,Promotor,Muy fácil de usar,Nómina,2025-02-28T18:11:00
+436,38,1,20250225,10,Promotor,Tardaron mucho,Cuenta corriente,2025-02-25T12:13:00
+437,486,3,20250202,9,Promotor,Sin comentario,Nómina,2025-02-02T14:27:00
+438,328,2,20250203,10,Promotor,Excelente app,Préstamo personal,2025-02-03T09:19:00
+439,472,1,20250217,9,Promotor,Excelente app,Nómina,2025-02-17T13:25:00
+440,358,2,20250210,9,Promotor,Necesito más sucursales,Cuenta corriente,2025-02-10T11:05:00
+441,233,2,20250204,10,Promotor,Muy buena atención,Préstamo personal,2025-02-04T18:47:00
+442,7,3,20250204,9,Promotor,Muy buena atención,Tarjeta crédito,2025-02-04T15:22:00
+443,191,1,20250206,10,Promotor,Sin comentario,Cuenta corriente,2025-02-06T08:21:00
+444,269,1,20250209,10,Promotor,Tardaron mucho,CDT,2025-02-09T15:32:00
+445,256,4,20250202,10,Promotor,Excelente app,Préstamo personal,2025-02-02T10:16:00
+446,346,3,20250219,9,Promotor,Necesito más sucursales,Nómina,2025-02-19T08:02:00
+447,24,2,20250208,9,Promotor,Mejorar tiempos,Tarjeta crédito,2025-02-08T10:59:00
+448,412,4,20250218,9,Promotor,Mejorar tiempos,Tarjeta crédito,2025-02-18T13:15:00
+449,164,1,20250224,10,Promotor,Tardaron mucho,Nómina,2025-02-24T13:07:00
+450,115,3,20250206,9,Promotor,Muy buena atención,CDT,2025-02-06T09:56:00
+451,145,3,20250228,10,Promotor,Sin comentario,Préstamo personal,2025-02-28T09:35:00
+452,189,1,20250201,10,Promotor,Sin comentario,Nómina,2025-02-01T11:29:00
+453,498,2,20250219,10,Promotor,Necesito más sucursales,Nómina,2025-02-19T11:09:00
+454,13,1,20250214,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-02-14T13:00:00
+455,378,3,20250228,10,Promotor,Tardaron mucho,Tarjeta crédito,2025-02-28T16:15:00
+456,493,1,20250216,10,Promotor,Excelente app,Préstamo personal,2025-02-16T09:02:00
+457,267,2,20250228,9,Promotor,Muy fácil de usar,CDT,2025-02-28T09:37:00
+458,69,2,20250217,9,Promotor,Mejorar tiempos,Cuenta corriente,2025-02-17T17:36:00
+459,340,4,20250214,9,Promotor,Necesito más sucursales,Préstamo personal,2025-02-14T12:54:00
+460,202,3,20250226,10,Promotor,Muy fácil de usar,Préstamo personal,2025-02-26T15:17:00
+461,484,1,20250203,9,Promotor,Tardaron mucho,Tarjeta crédito,2025-02-03T09:10:00
+462,161,2,20250215,10,Promotor,Muy fácil de usar,Tarjeta crédito,2025-02-15T15:19:00
+463,437,1,20250209,10,Promotor,Excelente app,Préstamo personal,2025-02-09T17:02:00
+464,439,1,20250227,9,Promotor,Tardaron mucho,Tarjeta crédito,2025-02-27T13:25:00
+465,154,1,20250222,9,Promotor,Excelente app,Cuenta corriente,2025-02-22T14:54:00
+466,384,2,20250218,10,Promotor,Tardaron mucho,CDT,2025-02-18T09:51:00
+467,7,1,20250204,9,Promotor,Necesito más sucursales,Tarjeta crédito,2025-02-04T11:52:00
+468,352,2,20250212,10,Promotor,Tardaron mucho,Nómina,2025-02-12T17:16:00
+469,34,1,20250201,9,Promotor,Perfecto,Tarjeta crédito,2025-02-01T09:57:00
+470,22,4,20250204,10,Promotor,Muy buena atención,Tarjeta crédito,2025-02-04T17:27:00
+471,16,2,20250216,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-02-16T13:13:00
+472,144,2,20250209,9,Promotor,Excelente app,Cuenta corriente,2025-02-09T17:39:00
+473,152,2,20250221,9,Promotor,Perfecto,Cuenta corriente,2025-02-21T09:17:00
+474,215,1,20250205,10,Promotor,Necesito más sucursales,Nómina,2025-02-05T08:24:00
+475,279,3,20250216,10,Promotor,Muy fácil de usar,Nómina,2025-02-16T16:20:00
+476,93,1,20250209,10,Promotor,Necesito más sucursales,Cuenta corriente,2025-02-09T12:03:00
+477,184,3,20250217,10,Promotor,Necesito más sucursales,Tarjeta crédito,2025-02-17T09:15:00
+478,274,3,20250209,9,Promotor,Muy buena atención,Tarjeta crédito,2025-02-09T17:54:00
+479,479,3,20250212,10,Promotor,Excelente app,Tarjeta crédito,2025-02-12T11:37:00
+480,378,3,20250226,10,Promotor,Muy buena atención,Préstamo personal,2025-02-26T17:36:00
+481,486,1,20250219,9,Promotor,Perfecto,Nómina,2025-02-19T12:11:00
+482,47,1,20250202,10,Promotor,Necesito más sucursales,Cuenta corriente,2025-02-02T16:30:00
+483,470,2,20250211,9,Promotor,Excelente app,Préstamo personal,2025-02-11T10:58:00
+484,12,1,20250202,10,Promotor,Excelente app,Cuenta corriente,2025-02-02T16:55:00
+485,192,3,20250203,10,Promotor,Mejorar tiempos,Nómina,2025-02-03T09:21:00
+486,70,4,20250211,10,Promotor,Mejorar tiempos,CDT,2025-02-11T18:20:00
+487,496,2,20250223,9,Promotor,Muy fácil de usar,Tarjeta crédito,2025-02-23T18:37:00
+488,158,3,20250213,9,Promotor,Sin comentario,Tarjeta crédito,2025-02-13T10:46:00
+489,486,2,20250223,9,Promotor,Muy buena atención,Tarjeta crédito,2025-02-23T17:20:00
+490,290,1,20250221,9,Promotor,Perfecto,Tarjeta crédito,2025-02-21T13:47:00
+491,178,4,20250208,9,Promotor,Excelente app,Cuenta corriente,2025-02-08T18:40:00
+492,6,1,20250215,10,Promotor,Necesito más sucursales,Cuenta corriente,2025-02-15T13:16:00
+493,1,1,20250224,9,Promotor,Perfecto,CDT,2025-02-24T10:56:00
+494,452,1,20250216,10,Promotor,Mejorar tiempos,Cuenta corriente,2025-02-16T15:50:00
+495,232,1,20250206,9,Promotor,Muy buena atención,Préstamo personal,2025-02-06T08:20:00
+496,38,1,20250204,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-02-04T09:35:00
+497,305,4,20250211,9,Promotor,Perfecto,Cuenta corriente,2025-02-11T14:41:00
+498,456,2,20250220,9,Promotor,Muy buena atención,Cuenta corriente,2025-02-20T13:13:00
+499,357,2,20250214,9,Promotor,Sin comentario,Préstamo personal,2025-02-14T12:15:00
+500,202,2,20250202,9,Promotor,Perfecto,Tarjeta crédito,2025-02-02T08:23:00
+501,45,1,20250214,9,Promotor,Perfecto,Tarjeta crédito,2025-02-14T09:01:00
+502,327,1,20250206,9,Promotor,Tardaron mucho,CDT,2025-02-06T09:19:00
+503,251,4,20250216,10,Promotor,Sin comentario,Cuenta corriente,2025-02-16T18:34:00
+504,190,4,20250206,10,Promotor,Muy fácil de usar,Tarjeta crédito,2025-02-06T15:02:00
+505,239,1,20250215,10,Promotor,Sin comentario,Nómina,2025-02-15T08:09:00
+506,343,1,20250203,9,Promotor,Mejorar tiempos,Nómina,2025-02-03T11:35:00
+507,199,3,20250227,9,Promotor,Mejorar tiempos,Nómina,2025-02-27T18:55:00
+508,452,1,20250219,10,Promotor,Sin comentario,Cuenta corriente,2025-02-19T14:57:00
+509,293,4,20250217,9,Promotor,Excelente app,Cuenta corriente,2025-02-17T15:11:00
+510,414,1,20250207,9,Promotor,Muy buena atención,CDT,2025-02-07T09:43:00
+511,422,2,20250207,10,Promotor,Sin comentario,Préstamo personal,2025-02-07T09:05:00
+512,204,2,20250218,10,Promotor,Sin comentario,Nómina,2025-02-18T15:58:00
+513,359,2,20250226,9,Promotor,Mejorar tiempos,Cuenta corriente,2025-02-26T14:09:00
+514,302,2,20250219,9,Promotor,Tardaron mucho,Cuenta corriente,2025-02-19T17:49:00
+515,147,4,20250226,9,Promotor,Muy fácil de usar,CDT,2025-02-26T12:24:00
+516,312,2,20250219,10,Promotor,Excelente app,Préstamo personal,2025-02-19T14:09:00
+517,203,4,20250202,10,Promotor,Muy fácil de usar,Tarjeta crédito,2025-02-02T08:47:00
+518,460,1,20250209,10,Promotor,Muy fácil de usar,Préstamo personal,2025-02-09T12:17:00
+519,357,3,20250228,10,Promotor,Necesito más sucursales,Tarjeta crédito,2025-02-28T12:47:00
+520,423,1,20250225,10,Promotor,Mejorar tiempos,Nómina,2025-02-25T18:05:00
+521,109,4,20250215,9,Promotor,Mejorar tiempos,CDT,2025-02-15T16:55:00
+522,29,2,20250227,10,Promotor,Excelente app,Cuenta corriente,2025-02-27T12:45:00
+523,400,4,20250205,10,Promotor,Muy buena atención,Tarjeta crédito,2025-02-05T11:56:00
+524,30,1,20250227,9,Promotor,Perfecto,Cuenta corriente,2025-02-27T13:45:00
+525,189,3,20250209,9,Promotor,Mejorar tiempos,Cuenta corriente,2025-02-09T18:01:00
+526,251,2,20250212,9,Promotor,Excelente app,CDT,2025-02-12T17:35:00
+527,84,3,20250212,10,Promotor,Sin comentario,Cuenta corriente,2025-02-12T12:01:00
+528,84,4,20250202,10,Promotor,Necesito más sucursales,Tarjeta crédito,2025-02-02T18:14:00
+529,334,2,20250209,9,Promotor,Muy buena atención,Cuenta corriente,2025-02-09T15:58:00
+530,89,2,20250221,9,Promotor,Muy buena atención,Tarjeta crédito,2025-02-21T12:38:00
+531,496,3,20250223,10,Promotor,Sin comentario,CDT,2025-02-23T14:54:00
+532,130,1,20250215,10,Promotor,Sin comentario,Nómina,2025-02-15T17:25:00
+533,262,4,20250201,9,Promotor,Muy fácil de usar,Nómina,2025-02-01T18:38:00
+534,351,1,20250210,10,Promotor,Tardaron mucho,Préstamo personal,2025-02-10T12:40:00
+535,142,1,20250228,10,Promotor,Sin comentario,Tarjeta crédito,2025-02-28T10:33:00
+536,413,4,20250202,9,Promotor,Mejorar tiempos,Préstamo personal,2025-02-02T18:08:00
+537,255,4,20250221,9,Promotor,Sin comentario,CDT,2025-02-21T14:24:00
+538,363,4,20250219,9,Promotor,Necesito más sucursales,Préstamo personal,2025-02-19T11:43:00
+539,184,2,20250222,10,Promotor,Excelente app,Nómina,2025-02-22T10:18:00
+540,66,3,20250216,9,Promotor,Excelente app,Préstamo personal,2025-02-16T18:05:00
+541,115,3,20250212,9,Promotor,Sin comentario,CDT,2025-02-12T13:23:00
+542,151,2,20250219,10,Promotor,Tardaron mucho,CDT,2025-02-19T08:55:00
+543,456,1,20250216,9,Promotor,Tardaron mucho,CDT,2025-02-16T16:19:00
+544,446,4,20250202,10,Promotor,Excelente app,Tarjeta crédito,2025-02-02T13:26:00
+545,162,4,20250205,10,Promotor,Excelente app,Cuenta corriente,2025-02-05T15:21:00
+546,325,1,20250211,9,Promotor,Perfecto,Préstamo personal,2025-02-11T11:48:00
+547,392,1,20250219,9,Promotor,Tardaron mucho,Tarjeta crédito,2025-02-19T17:27:00
+548,220,4,20250213,10,Promotor,Mejorar tiempos,Cuenta corriente,2025-02-13T08:34:00
+549,192,4,20250224,9,Promotor,Muy fácil de usar,Nómina,2025-02-24T11:01:00
+550,376,1,20250221,9,Promotor,Muy fácil de usar,Préstamo personal,2025-02-21T10:06:00
+551,302,1,20250217,10,Promotor,Tardaron mucho,Cuenta corriente,2025-02-17T12:18:00
+552,267,2,20250224,10,Promotor,Muy fácil de usar,CDT,2025-02-24T18:08:00
+553,184,3,20250216,10,Promotor,Excelente app,CDT,2025-02-16T08:14:00
+554,68,1,20250224,9,Promotor,Muy buena atención,Nómina,2025-02-24T16:10:00
+555,365,2,20250212,9,Promotor,Muy buena atención,CDT,2025-02-12T18:16:00
+556,25,2,20250220,9,Promotor,Muy buena atención,Cuenta corriente,2025-02-20T09:26:00
+557,64,2,20250213,10,Promotor,Perfecto,Tarjeta crédito,2025-02-13T11:44:00
+558,216,2,20250210,9,Promotor,Sin comentario,Nómina,2025-02-10T17:44:00
+559,426,4,20250214,7,Pasivo,Tardaron mucho,Préstamo personal,2025-02-14T09:50:00
+560,102,2,20250216,7,Pasivo,Sin comentario,Nómina,2025-02-16T11:22:00
+561,83,1,20250210,8,Pasivo,Perfecto,Tarjeta crédito,2025-02-10T15:21:00
+562,7,3,20250201,7,Pasivo,Tardaron mucho,Nómina,2025-02-01T18:31:00
+563,400,2,20250203,7,Pasivo,Tardaron mucho,Préstamo personal,2025-02-03T18:14:00
+564,136,2,20250210,8,Pasivo,Tardaron mucho,Tarjeta crédito,2025-02-10T08:54:00
+565,411,3,20250212,8,Pasivo,Mejorar tiempos,Cuenta corriente,2025-02-12T09:54:00
+566,437,1,20250201,7,Pasivo,Excelente app,Préstamo personal,2025-02-01T13:57:00
+567,138,4,20250220,8,Pasivo,Tardaron mucho,Préstamo personal,2025-02-20T13:11:00
+568,205,4,20250213,7,Pasivo,Sin comentario,CDT,2025-02-13T15:51:00
+569,454,3,20250221,8,Pasivo,Tardaron mucho,Tarjeta crédito,2025-02-21T08:54:00
+570,214,4,20250204,7,Pasivo,Perfecto,Nómina,2025-02-04T18:28:00
+571,195,3,20250220,7,Pasivo,Muy buena atención,Tarjeta crédito,2025-02-20T15:58:00
+572,455,2,20250204,8,Pasivo,Muy buena atención,Cuenta corriente,2025-02-04T12:41:00
+573,361,4,20250201,8,Pasivo,Necesito más sucursales,Préstamo personal,2025-02-01T16:33:00
+574,339,3,20250214,7,Pasivo,Perfecto,Préstamo personal,2025-02-14T18:43:00
+575,430,3,20250205,8,Pasivo,Muy buena atención,Cuenta corriente,2025-02-05T18:59:00
+576,435,2,20250217,7,Pasivo,Perfecto,Tarjeta crédito,2025-02-17T09:48:00
+577,124,1,20250211,8,Pasivo,Sin comentario,Cuenta corriente,2025-02-11T16:14:00
+578,419,1,20250213,8,Pasivo,Perfecto,CDT,2025-02-13T17:28:00
+579,256,2,20250228,7,Pasivo,Tardaron mucho,CDT,2025-02-28T18:01:00
+580,212,1,20250213,7,Pasivo,Muy buena atención,Cuenta corriente,2025-02-13T17:39:00
+581,288,1,20250217,8,Pasivo,Perfecto,Préstamo personal,2025-02-17T13:52:00
+582,115,3,20250227,7,Pasivo,Muy fácil de usar,Nómina,2025-02-27T17:38:00
+583,337,1,20250223,8,Pasivo,Perfecto,Cuenta corriente,2025-02-23T09:48:00
+584,175,1,20250201,7,Pasivo,Sin comentario,Nómina,2025-02-01T16:23:00
+585,460,1,20250202,7,Pasivo,Excelente app,CDT,2025-02-02T09:16:00
+586,62,4,20250207,7,Pasivo,Mejorar tiempos,Tarjeta crédito,2025-02-07T15:52:00
+587,174,1,20250223,7,Pasivo,Mejorar tiempos,Cuenta corriente,2025-02-23T18:53:00
+588,457,2,20250225,7,Pasivo,Excelente app,CDT,2025-02-25T08:33:00
+589,479,2,20250218,7,Pasivo,Perfecto,Nómina,2025-02-18T10:44:00
+590,418,1,20250224,7,Pasivo,Mejorar tiempos,Nómina,2025-02-24T17:56:00
+591,452,2,20250217,8,Pasivo,Necesito más sucursales,Préstamo personal,2025-02-17T14:21:00
+592,413,1,20250215,8,Pasivo,Mejorar tiempos,Nómina,2025-02-15T16:19:00
+593,378,4,20250223,8,Pasivo,Necesito más sucursales,Tarjeta crédito,2025-02-23T11:39:00
+594,177,4,20250222,8,Pasivo,Excelente app,Tarjeta crédito,2025-02-22T16:34:00
+595,60,3,20250223,8,Pasivo,Perfecto,Nómina,2025-02-23T17:42:00
+596,383,4,20250222,8,Pasivo,Sin comentario,CDT,2025-02-22T08:33:00
+597,196,1,20250201,7,Pasivo,Muy buena atención,Tarjeta crédito,2025-02-01T12:48:00
+598,350,1,20250210,7,Pasivo,Muy buena atención,Préstamo personal,2025-02-10T11:48:00
+599,417,2,20250212,7,Pasivo,Necesito más sucursales,Nómina,2025-02-12T14:15:00
+600,341,1,20250223,8,Pasivo,Mejorar tiempos,CDT,2025-02-23T14:50:00
+601,28,1,20250218,8,Pasivo,Sin comentario,Tarjeta crédito,2025-02-18T17:55:00
+602,116,4,20250227,8,Pasivo,Muy fácil de usar,Nómina,2025-02-27T16:47:00
+603,372,4,20250225,7,Pasivo,Sin comentario,CDT,2025-02-25T10:43:00
+604,493,1,20250206,7,Pasivo,Tardaron mucho,CDT,2025-02-06T08:27:00
+605,136,1,20250218,8,Pasivo,Sin comentario,Cuenta corriente,2025-02-18T13:29:00
+606,79,4,20250202,7,Pasivo,Muy buena atención,Nómina,2025-02-02T18:19:00
+607,294,2,20250226,8,Pasivo,Tardaron mucho,Préstamo personal,2025-02-26T16:14:00
+608,35,3,20250217,7,Pasivo,Excelente app,CDT,2025-02-17T16:34:00
+609,179,1,20250203,8,Pasivo,Necesito más sucursales,Préstamo personal,2025-02-03T13:23:00
+610,487,3,20250207,8,Pasivo,Perfecto,Nómina,2025-02-07T18:00:00
+611,178,2,20250222,7,Pasivo,Necesito más sucursales,Cuenta corriente,2025-02-22T18:56:00
+612,469,3,20250213,8,Pasivo,Tardaron mucho,CDT,2025-02-13T12:34:00
+613,467,2,20250201,8,Pasivo,Muy fácil de usar,Nómina,2025-02-01T16:28:00
+614,152,4,20250202,8,Pasivo,Necesito más sucursales,Préstamo personal,2025-02-02T16:05:00
+615,498,4,20250206,7,Pasivo,Muy buena atención,Cuenta corriente,2025-02-06T11:42:00
+616,351,2,20250228,7,Pasivo,Tardaron mucho,Tarjeta crédito,2025-02-28T16:53:00
+617,419,4,20250221,8,Pasivo,Excelente app,Cuenta corriente,2025-02-21T15:45:00
+618,45,1,20250202,8,Pasivo,Excelente app,Préstamo personal,2025-02-02T16:04:00
+619,209,2,20250209,7,Pasivo,Mejorar tiempos,CDT,2025-02-09T13:01:00
+620,61,2,20250222,8,Pasivo,Tardaron mucho,Nómina,2025-02-22T08:44:00
+621,476,2,20250212,7,Pasivo,Sin comentario,Préstamo personal,2025-02-12T17:05:00
+622,475,2,20250225,8,Pasivo,Mejorar tiempos,Cuenta corriente,2025-02-25T15:10:00
+623,383,2,20250205,7,Pasivo,Sin comentario,Tarjeta crédito,2025-02-05T12:43:00
+624,284,4,20250201,8,Pasivo,Excelente app,Cuenta corriente,2025-02-01T08:00:00
+625,281,4,20250218,8,Pasivo,Sin comentario,Tarjeta crédito,2025-02-18T13:13:00
+626,436,2,20250221,8,Pasivo,Excelente app,Tarjeta crédito,2025-02-21T11:39:00
+627,59,1,20250207,8,Pasivo,Muy buena atención,Nómina,2025-02-07T15:41:00
+628,344,1,20250210,7,Pasivo,Tardaron mucho,Tarjeta crédito,2025-02-10T17:31:00
+629,66,3,20250212,8,Pasivo,Necesito más sucursales,Cuenta corriente,2025-02-12T12:39:00
+630,163,2,20250207,7,Pasivo,Muy fácil de usar,Nómina,2025-02-07T18:19:00
+631,291,1,20250219,7,Pasivo,Muy fácil de usar,CDT,2025-02-19T10:00:00
+632,403,1,20250208,8,Pasivo,Mejorar tiempos,Préstamo personal,2025-02-08T13:08:00
+633,237,2,20250216,8,Pasivo,Sin comentario,CDT,2025-02-16T16:06:00
+634,311,1,20250221,1,Detractor,Sin comentario,Tarjeta crédito,2025-02-21T16:12:00
+635,454,2,20250224,2,Detractor,Tardaron mucho,Cuenta corriente,2025-02-24T16:40:00
+636,298,2,20250227,0,Detractor,Necesito más sucursales,Cuenta corriente,2025-02-27T16:16:00
+637,242,2,20250218,4,Detractor,Excelente app,Préstamo personal,2025-02-18T14:14:00
+638,376,4,20250219,6,Detractor,Excelente app,CDT,2025-02-19T16:32:00
+639,187,2,20250213,0,Detractor,Necesito más sucursales,Nómina,2025-02-13T18:10:00
+640,72,2,20250217,6,Detractor,Excelente app,Nómina,2025-02-17T17:42:00
+641,377,3,20250205,6,Detractor,Muy fácil de usar,Cuenta corriente,2025-02-05T11:48:00
+642,33,1,20250208,3,Detractor,Necesito más sucursales,Cuenta corriente,2025-02-08T18:13:00
+643,185,2,20250226,4,Detractor,Perfecto,Cuenta corriente,2025-02-26T08:41:00
+644,361,4,20250204,2,Detractor,Sin comentario,Préstamo personal,2025-02-04T17:34:00
+645,193,2,20250206,4,Detractor,Muy fácil de usar,Nómina,2025-02-06T18:57:00
+646,265,1,20250203,6,Detractor,Necesito más sucursales,Nómina,2025-02-03T14:22:00
+647,177,2,20250228,6,Detractor,Perfecto,Nómina,2025-02-28T08:32:00
+648,85,1,20250215,1,Detractor,Sin comentario,Tarjeta crédito,2025-02-15T10:11:00
+649,309,3,20250212,1,Detractor,Tardaron mucho,Tarjeta crédito,2025-02-12T14:51:00
+650,59,2,20250224,2,Detractor,Perfecto,CDT,2025-02-24T11:37:00
+651,427,2,20250221,1,Detractor,Necesito más sucursales,Cuenta corriente,2025-02-21T10:36:00
+652,69,2,20250206,4,Detractor,Muy buena atención,Nómina,2025-02-06T10:03:00
+653,473,1,20250209,1,Detractor,Mejorar tiempos,Nómina,2025-02-09T17:40:00
+654,373,2,20250224,0,Detractor,Sin comentario,Cuenta corriente,2025-02-24T11:28:00
+655,445,2,20250216,4,Detractor,Necesito más sucursales,CDT,2025-02-16T17:09:00
+656,421,3,20250219,6,Detractor,Sin comentario,Tarjeta crédito,2025-02-19T18:21:00
+657,303,1,20250220,3,Detractor,Mejorar tiempos,CDT,2025-02-20T10:06:00
+658,268,4,20250207,0,Detractor,Mejorar tiempos,Tarjeta crédito,2025-02-07T17:06:00
+659,462,2,20250216,1,Detractor,Muy buena atención,Nómina,2025-02-16T16:48:00
+660,247,2,20250203,0,Detractor,Muy buena atención,CDT,2025-02-03T16:26:00
+661,23,3,20250228,2,Detractor,Mejorar tiempos,Tarjeta crédito,2025-02-28T15:50:00
+662,180,2,20250213,6,Detractor,Tardaron mucho,CDT,2025-02-13T10:16:00
+663,120,4,20250225,3,Detractor,Tardaron mucho,Préstamo personal,2025-02-25T17:56:00
+664,132,1,20250214,4,Detractor,Muy buena atención,Nómina,2025-02-14T16:07:00
+665,193,2,20250201,4,Detractor,Muy fácil de usar,CDT,2025-02-01T13:06:00
+666,334,2,20250214,1,Detractor,Sin comentario,Nómina,2025-02-14T14:36:00
+667,142,4,20250320,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-03-20T14:35:00
+668,190,2,20250306,10,Promotor,Perfecto,Préstamo personal,2025-03-06T12:36:00
+669,362,2,20250325,10,Promotor,Excelente app,Cuenta corriente,2025-03-25T11:28:00
+670,110,2,20250304,9,Promotor,Muy fácil de usar,Nómina,2025-03-04T17:44:00
+671,200,4,20250306,9,Promotor,Muy buena atención,Cuenta corriente,2025-03-06T10:30:00
+672,33,1,20250303,10,Promotor,Muy fácil de usar,Cuenta corriente,2025-03-03T17:02:00
+673,206,2,20250330,10,Promotor,Sin comentario,Nómina,2025-03-30T08:49:00
+674,254,2,20250321,9,Promotor,Necesito más sucursales,Nómina,2025-03-21T12:12:00
+675,307,2,20250326,9,Promotor,Necesito más sucursales,Nómina,2025-03-26T10:43:00
+676,123,2,20250312,9,Promotor,Excelente app,Cuenta corriente,2025-03-12T12:49:00
+677,343,2,20250312,10,Promotor,Necesito más sucursales,Nómina,2025-03-12T08:47:00
+678,47,2,20250330,9,Promotor,Muy fácil de usar,Préstamo personal,2025-03-30T12:14:00
+679,477,2,20250315,9,Promotor,Muy buena atención,Préstamo personal,2025-03-15T10:26:00
+680,38,2,20250318,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-03-18T16:16:00
+681,227,4,20250323,10,Promotor,Perfecto,Tarjeta crédito,2025-03-23T13:49:00
+682,236,4,20250322,10,Promotor,Muy buena atención,CDT,2025-03-22T09:16:00
+683,325,3,20250313,9,Promotor,Necesito más sucursales,Tarjeta crédito,2025-03-13T13:26:00
+684,275,1,20250317,10,Promotor,Sin comentario,Tarjeta crédito,2025-03-17T12:05:00
+685,384,3,20250322,10,Promotor,Tardaron mucho,Nómina,2025-03-22T10:30:00
+686,112,4,20250312,10,Promotor,Sin comentario,Tarjeta crédito,2025-03-12T18:59:00
+687,378,1,20250316,9,Promotor,Necesito más sucursales,Préstamo personal,2025-03-16T11:14:00
+688,128,3,20250327,9,Promotor,Muy fácil de usar,Tarjeta crédito,2025-03-27T09:07:00
+689,490,2,20250322,9,Promotor,Muy buena atención,Nómina,2025-03-22T08:54:00
+690,318,1,20250312,10,Promotor,Sin comentario,CDT,2025-03-12T10:48:00
+691,114,3,20250313,10,Promotor,Excelente app,Cuenta corriente,2025-03-13T16:51:00
+692,482,2,20250316,10,Promotor,Muy fácil de usar,CDT,2025-03-16T18:49:00
+693,500,1,20250315,9,Promotor,Perfecto,Préstamo personal,2025-03-15T08:00:00
+694,298,1,20250313,9,Promotor,Muy fácil de usar,Nómina,2025-03-13T12:11:00
+695,138,2,20250308,10,Promotor,Muy fácil de usar,Préstamo personal,2025-03-08T10:31:00
+696,215,3,20250307,10,Promotor,Muy fácil de usar,Préstamo personal,2025-03-07T14:17:00
+697,293,1,20250306,10,Promotor,Necesito más sucursales,Cuenta corriente,2025-03-06T12:51:00
+698,222,4,20250318,9,Promotor,Necesito más sucursales,Tarjeta crédito,2025-03-18T10:30:00
+699,216,2,20250306,9,Promotor,Muy fácil de usar,CDT,2025-03-06T12:16:00
+700,51,3,20250313,9,Promotor,Muy buena atención,Tarjeta crédito,2025-03-13T12:30:00
+701,382,1,20250315,9,Promotor,Muy fácil de usar,Préstamo personal,2025-03-15T16:35:00
+702,11,2,20250312,10,Promotor,Muy fácil de usar,Nómina,2025-03-12T11:36:00
+703,146,1,20250325,9,Promotor,Perfecto,CDT,2025-03-25T09:24:00
+704,324,4,20250315,10,Promotor,Excelente app,Préstamo personal,2025-03-15T14:40:00
+705,465,1,20250328,10,Promotor,Excelente app,Préstamo personal,2025-03-28T11:20:00
+706,150,3,20250321,10,Promotor,Mejorar tiempos,Préstamo personal,2025-03-21T15:49:00
+707,301,2,20250324,10,Promotor,Perfecto,CDT,2025-03-24T10:11:00
+708,373,1,20250305,9,Promotor,Sin comentario,Cuenta corriente,2025-03-05T11:10:00
+709,49,1,20250304,10,Promotor,Perfecto,Nómina,2025-03-04T08:01:00
+710,392,4,20250317,10,Promotor,Tardaron mucho,Préstamo personal,2025-03-17T17:09:00
+711,477,4,20250321,9,Promotor,Sin comentario,Tarjeta crédito,2025-03-21T11:47:00
+712,321,1,20250315,10,Promotor,Excelente app,Cuenta corriente,2025-03-15T08:42:00
+713,469,1,20250328,10,Promotor,Perfecto,CDT,2025-03-28T16:59:00
+714,228,1,20250318,10,Promotor,Excelente app,Nómina,2025-03-18T17:29:00
+715,328,2,20250317,10,Promotor,Sin comentario,Préstamo personal,2025-03-17T15:34:00
+716,46,2,20250326,9,Promotor,Muy fácil de usar,CDT,2025-03-26T12:09:00
+717,1,2,20250301,10,Promotor,Excelente app,Préstamo personal,2025-03-01T12:30:00
+718,473,2,20250323,9,Promotor,Perfecto,Préstamo personal,2025-03-23T08:49:00
+719,150,2,20250326,10,Promotor,Muy buena atención,Nómina,2025-03-26T13:12:00
+720,288,2,20250329,10,Promotor,Necesito más sucursales,Tarjeta crédito,2025-03-29T18:24:00
+721,135,1,20250308,10,Promotor,Necesito más sucursales,Nómina,2025-03-08T17:51:00
+722,333,3,20250310,10,Promotor,Sin comentario,CDT,2025-03-10T11:54:00
+723,70,1,20250306,9,Promotor,Perfecto,Nómina,2025-03-06T15:17:00
+724,165,1,20250307,10,Promotor,Muy buena atención,Nómina,2025-03-07T08:11:00
+725,138,1,20250310,9,Promotor,Perfecto,Cuenta corriente,2025-03-10T11:05:00
+726,253,1,20250301,9,Promotor,Mejorar tiempos,Préstamo personal,2025-03-01T15:23:00
+727,406,1,20250323,10,Promotor,Tardaron mucho,Tarjeta crédito,2025-03-23T08:17:00
+728,279,2,20250303,10,Promotor,Necesito más sucursales,Préstamo personal,2025-03-03T14:53:00
+729,499,3,20250304,9,Promotor,Necesito más sucursales,CDT,2025-03-04T15:15:00
+730,236,3,20250307,9,Promotor,Tardaron mucho,Nómina,2025-03-07T18:13:00
+731,349,4,20250313,10,Promotor,Muy fácil de usar,Tarjeta crédito,2025-03-13T18:46:00
+732,480,2,20250324,9,Promotor,Tardaron mucho,Préstamo personal,2025-03-24T15:40:00
+733,185,4,20250307,10,Promotor,Necesito más sucursales,Cuenta corriente,2025-03-07T11:40:00
+734,8,1,20250311,10,Promotor,Sin comentario,Nómina,2025-03-11T09:25:00
+735,497,1,20250301,9,Promotor,Perfecto,Nómina,2025-03-01T10:23:00
+736,81,2,20250308,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-03-08T08:22:00
+737,275,3,20250323,9,Promotor,Excelente app,CDT,2025-03-23T11:20:00
+738,457,2,20250326,10,Promotor,Necesito más sucursales,Cuenta corriente,2025-03-26T14:22:00
+739,461,1,20250309,9,Promotor,Perfecto,Nómina,2025-03-09T12:34:00
+740,291,1,20250307,10,Promotor,Muy fácil de usar,Préstamo personal,2025-03-07T15:17:00
+741,272,1,20250303,9,Promotor,Sin comentario,Préstamo personal,2025-03-03T16:23:00
+742,398,2,20250301,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-03-01T08:39:00
+743,318,1,20250325,10,Promotor,Tardaron mucho,Nómina,2025-03-25T14:12:00
+744,283,1,20250325,10,Promotor,Sin comentario,Préstamo personal,2025-03-25T14:41:00
+745,50,2,20250304,10,Promotor,Tardaron mucho,Cuenta corriente,2025-03-04T10:11:00
+746,55,2,20250307,9,Promotor,Tardaron mucho,Cuenta corriente,2025-03-07T17:41:00
+747,251,2,20250322,10,Promotor,Sin comentario,Cuenta corriente,2025-03-22T13:14:00
+748,477,4,20250301,9,Promotor,Perfecto,Cuenta corriente,2025-03-01T15:51:00
+749,286,3,20250312,9,Promotor,Mejorar tiempos,Préstamo personal,2025-03-12T08:52:00
+750,21,3,20250317,10,Promotor,Sin comentario,Cuenta corriente,2025-03-17T11:33:00
+751,372,1,20250304,9,Promotor,Mejorar tiempos,Tarjeta crédito,2025-03-04T11:33:00
+752,321,4,20250319,9,Promotor,Mejorar tiempos,Cuenta corriente,2025-03-19T18:36:00
+753,235,3,20250322,10,Promotor,Mejorar tiempos,Cuenta corriente,2025-03-22T10:50:00
+754,206,2,20250318,9,Promotor,Excelente app,Nómina,2025-03-18T17:28:00
+755,162,2,20250329,10,Promotor,Muy fácil de usar,Préstamo personal,2025-03-29T14:48:00
+756,372,1,20250327,10,Promotor,Necesito más sucursales,Nómina,2025-03-27T16:13:00
+757,282,4,20250325,10,Promotor,Sin comentario,Préstamo personal,2025-03-25T15:28:00
+758,372,1,20250301,10,Promotor,Sin comentario,Nómina,2025-03-01T08:33:00
+759,155,1,20250329,9,Promotor,Necesito más sucursales,Tarjeta crédito,2025-03-29T13:01:00
+760,284,2,20250330,10,Promotor,Excelente app,Cuenta corriente,2025-03-30T08:29:00
+761,71,1,20250305,10,Promotor,Necesito más sucursales,Tarjeta crédito,2025-03-05T12:51:00
+762,293,2,20250303,10,Promotor,Necesito más sucursales,Cuenta corriente,2025-03-03T13:50:00
+763,250,3,20250306,10,Promotor,Tardaron mucho,Nómina,2025-03-06T18:19:00
+764,414,2,20250324,9,Promotor,Tardaron mucho,Cuenta corriente,2025-03-24T13:22:00
+765,477,4,20250314,10,Promotor,Necesito más sucursales,Nómina,2025-03-14T08:40:00
+766,157,2,20250302,10,Promotor,Muy fácil de usar,Nómina,2025-03-02T17:09:00
+767,358,1,20250317,10,Promotor,Muy buena atención,CDT,2025-03-17T15:48:00
+768,222,1,20250308,9,Promotor,Mejorar tiempos,Tarjeta crédito,2025-03-08T10:21:00
+769,293,3,20250316,9,Promotor,Mejorar tiempos,Préstamo personal,2025-03-16T09:25:00
+770,358,1,20250325,10,Promotor,Excelente app,CDT,2025-03-25T16:12:00
+771,334,2,20250313,10,Promotor,Necesito más sucursales,Tarjeta crédito,2025-03-13T09:17:00
+772,351,4,20250311,10,Promotor,Tardaron mucho,Cuenta corriente,2025-03-11T18:26:00
+773,179,1,20250312,10,Promotor,Muy fácil de usar,Nómina,2025-03-12T18:01:00
+774,180,2,20250306,10,Promotor,Perfecto,Nómina,2025-03-06T10:28:00
+775,419,1,20250330,9,Promotor,Muy fácil de usar,Tarjeta crédito,2025-03-30T09:07:00
+776,486,2,20250308,9,Promotor,Excelente app,Préstamo personal,2025-03-08T08:21:00
+777,231,2,20250310,9,Promotor,Muy fácil de usar,Tarjeta crédito,2025-03-10T16:13:00
+778,268,3,20250318,9,Promotor,Perfecto,Nómina,2025-03-18T10:44:00
+779,299,4,20250313,9,Promotor,Muy buena atención,Préstamo personal,2025-03-13T10:03:00
+780,405,3,20250307,10,Promotor,Sin comentario,Cuenta corriente,2025-03-07T15:41:00
+781,199,2,20250303,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-03-03T08:18:00
+782,195,2,20250308,10,Promotor,Tardaron mucho,Préstamo personal,2025-03-08T15:55:00
+783,102,2,20250306,9,Promotor,Perfecto,Nómina,2025-03-06T08:02:00
+784,272,1,20250330,9,Promotor,Perfecto,CDT,2025-03-30T10:01:00
+785,181,1,20250322,10,Promotor,Sin comentario,Tarjeta crédito,2025-03-22T16:17:00
+786,132,4,20250321,9,Promotor,Muy buena atención,Nómina,2025-03-21T12:14:00
+787,460,2,20250311,9,Promotor,Excelente app,Cuenta corriente,2025-03-11T14:33:00
+788,124,2,20250314,9,Promotor,Mejorar tiempos,Préstamo personal,2025-03-14T17:21:00
+789,68,1,20250318,10,Promotor,Excelente app,Nómina,2025-03-18T16:43:00
+790,71,1,20250328,9,Promotor,Excelente app,CDT,2025-03-28T10:41:00
+791,35,2,20250311,9,Promotor,Tardaron mucho,Tarjeta crédito,2025-03-11T13:53:00
+792,16,3,20250324,9,Promotor,Mejorar tiempos,CDT,2025-03-24T12:28:00
+793,399,1,20250305,10,Promotor,Excelente app,Tarjeta crédito,2025-03-05T08:48:00
+794,291,2,20250320,10,Promotor,Necesito más sucursales,Tarjeta crédito,2025-03-20T18:01:00
+795,353,3,20250303,10,Promotor,Excelente app,Nómina,2025-03-03T17:30:00
+796,437,2,20250306,10,Promotor,Perfecto,Tarjeta crédito,2025-03-06T10:12:00
+797,210,3,20250302,9,Promotor,Muy buena atención,Préstamo personal,2025-03-02T14:14:00
+798,105,1,20250325,9,Promotor,Perfecto,Nómina,2025-03-25T15:44:00
+799,235,4,20250328,10,Promotor,Mejorar tiempos,CDT,2025-03-28T08:38:00
+800,161,2,20250324,10,Promotor,Muy buena atención,Nómina,2025-03-24T09:28:00
+801,450,1,20250327,10,Promotor,Necesito más sucursales,Nómina,2025-03-27T16:25:00
+802,199,2,20250318,9,Promotor,Muy buena atención,Tarjeta crédito,2025-03-18T12:28:00
+803,156,3,20250329,10,Promotor,Sin comentario,CDT,2025-03-29T10:27:00
+804,471,1,20250320,10,Promotor,Excelente app,CDT,2025-03-20T18:28:00
+805,257,1,20250324,9,Promotor,Excelente app,CDT,2025-03-24T14:20:00
+806,92,2,20250301,10,Promotor,Necesito más sucursales,CDT,2025-03-01T09:16:00
+807,333,4,20250323,10,Promotor,Excelente app,Cuenta corriente,2025-03-23T09:07:00
+808,186,1,20250321,10,Promotor,Mejorar tiempos,Nómina,2025-03-21T17:10:00
+809,195,1,20250318,10,Promotor,Excelente app,Préstamo personal,2025-03-18T17:55:00
+810,445,1,20250306,9,Promotor,Muy buena atención,CDT,2025-03-06T12:19:00
+811,321,1,20250310,10,Promotor,Excelente app,Tarjeta crédito,2025-03-10T08:39:00
+812,235,2,20250301,10,Promotor,Perfecto,Nómina,2025-03-01T08:38:00
+813,112,2,20250308,10,Promotor,Perfecto,CDT,2025-03-08T14:28:00
+814,308,1,20250320,9,Promotor,Sin comentario,Nómina,2025-03-20T18:35:00
+815,95,1,20250302,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-03-02T10:54:00
+816,296,3,20250322,9,Promotor,Sin comentario,Préstamo personal,2025-03-22T09:03:00
+817,92,1,20250314,9,Promotor,Sin comentario,Nómina,2025-03-14T18:44:00
+818,234,3,20250331,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-03-31T09:49:00
+819,189,4,20250311,10,Promotor,Tardaron mucho,CDT,2025-03-11T16:04:00
+820,69,1,20250316,10,Promotor,Sin comentario,Préstamo personal,2025-03-16T16:26:00
+821,108,2,20250323,9,Promotor,Tardaron mucho,Nómina,2025-03-23T18:33:00
+822,371,3,20250316,9,Promotor,Sin comentario,CDT,2025-03-16T17:54:00
+823,270,2,20250309,10,Promotor,Muy fácil de usar,Tarjeta crédito,2025-03-09T17:36:00
+824,374,2,20250317,10,Promotor,Perfecto,Tarjeta crédito,2025-03-17T17:14:00
+825,1,1,20250307,10,Promotor,Perfecto,Cuenta corriente,2025-03-07T11:51:00
+826,24,1,20250314,10,Promotor,Necesito más sucursales,Cuenta corriente,2025-03-14T18:12:00
+827,405,1,20250309,10,Promotor,Sin comentario,Nómina,2025-03-09T16:20:00
+828,352,1,20250304,9,Promotor,Mejorar tiempos,Nómina,2025-03-04T17:01:00
+829,170,3,20250307,9,Promotor,Perfecto,CDT,2025-03-07T08:41:00
+830,80,2,20250316,9,Promotor,Muy fácil de usar,CDT,2025-03-16T14:59:00
+831,267,1,20250327,9,Promotor,Muy fácil de usar,Nómina,2025-03-27T16:01:00
+832,351,1,20250319,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-03-19T10:17:00
+833,193,2,20250311,9,Promotor,Excelente app,Nómina,2025-03-11T17:24:00
+834,60,4,20250320,9,Promotor,Sin comentario,Préstamo personal,2025-03-20T08:17:00
+835,255,4,20250303,10,Promotor,Muy fácil de usar,CDT,2025-03-03T12:13:00
+836,58,1,20250306,10,Promotor,Muy buena atención,Tarjeta crédito,2025-03-06T09:28:00
+837,248,4,20250326,9,Promotor,Excelente app,Tarjeta crédito,2025-03-26T13:59:00
+838,448,2,20250324,10,Promotor,Muy fácil de usar,Tarjeta crédito,2025-03-24T09:52:00
+839,371,1,20250307,9,Promotor,Mejorar tiempos,Nómina,2025-03-07T09:00:00
+840,23,3,20250330,10,Promotor,Tardaron mucho,Préstamo personal,2025-03-30T15:56:00
+841,267,3,20250304,9,Promotor,Sin comentario,Cuenta corriente,2025-03-04T17:48:00
+842,457,1,20250321,10,Promotor,Necesito más sucursales,Tarjeta crédito,2025-03-21T12:17:00
+843,226,3,20250325,10,Promotor,Sin comentario,Tarjeta crédito,2025-03-25T10:17:00
+844,491,2,20250301,9,Promotor,Tardaron mucho,Tarjeta crédito,2025-03-01T16:22:00
+845,73,4,20250309,10,Promotor,Sin comentario,Nómina,2025-03-09T11:10:00
+846,314,4,20250310,9,Promotor,Perfecto,Cuenta corriente,2025-03-10T10:01:00
+847,346,1,20250329,10,Promotor,Mejorar tiempos,Cuenta corriente,2025-03-29T09:27:00
+848,361,2,20250306,10,Promotor,Perfecto,Nómina,2025-03-06T13:19:00
+849,102,3,20250327,10,Promotor,Tardaron mucho,CDT,2025-03-27T17:08:00
+850,411,4,20250327,9,Promotor,Perfecto,Cuenta corriente,2025-03-27T15:19:00
+851,119,4,20250316,10,Promotor,Excelente app,Nómina,2025-03-16T12:58:00
+852,94,3,20250313,10,Promotor,Muy fácil de usar,Préstamo personal,2025-03-13T15:31:00
+853,244,1,20250303,9,Promotor,Perfecto,CDT,2025-03-03T10:18:00
+854,295,1,20250320,10,Promotor,Tardaron mucho,CDT,2025-03-20T09:20:00
+855,155,2,20250326,9,Promotor,Mejorar tiempos,Nómina,2025-03-26T14:15:00
+856,82,4,20250318,9,Promotor,Mejorar tiempos,Cuenta corriente,2025-03-18T13:13:00
+857,223,2,20250326,10,Promotor,Muy fácil de usar,Nómina,2025-03-26T11:11:00
+858,477,3,20250324,9,Promotor,Perfecto,Cuenta corriente,2025-03-24T17:38:00
+859,285,1,20250311,10,Promotor,Perfecto,Tarjeta crédito,2025-03-11T12:25:00
+860,56,3,20250320,9,Promotor,Mejorar tiempos,Préstamo personal,2025-03-20T15:41:00
+861,112,3,20250303,9,Promotor,Muy buena atención,Tarjeta crédito,2025-03-03T18:09:00
+862,150,2,20250318,10,Promotor,Perfecto,Tarjeta crédito,2025-03-18T11:43:00
+863,292,3,20250310,10,Promotor,Sin comentario,CDT,2025-03-10T13:05:00
+864,262,2,20250320,9,Promotor,Excelente app,Préstamo personal,2025-03-20T08:23:00
+865,361,2,20250301,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-03-01T12:55:00
+866,222,3,20250308,9,Promotor,Mejorar tiempos,Préstamo personal,2025-03-08T14:25:00
+867,280,1,20250314,10,Promotor,Excelente app,CDT,2025-03-14T10:12:00
+868,474,1,20250327,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-03-27T12:55:00
+869,6,1,20250305,9,Promotor,Muy buena atención,Tarjeta crédito,2025-03-05T15:42:00
+870,44,1,20250305,10,Promotor,Mejorar tiempos,CDT,2025-03-05T17:59:00
+871,93,2,20250320,10,Promotor,Mejorar tiempos,Nómina,2025-03-20T15:24:00
+872,96,2,20250308,10,Promotor,Muy buena atención,Nómina,2025-03-08T15:54:00
+873,257,1,20250323,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-03-23T08:36:00
+874,189,1,20250323,10,Promotor,Perfecto,Cuenta corriente,2025-03-23T10:46:00
+875,265,1,20250315,10,Promotor,Tardaron mucho,Tarjeta crédito,2025-03-15T15:40:00
+876,325,2,20250322,9,Promotor,Sin comentario,Nómina,2025-03-22T08:57:00
+877,399,1,20250318,10,Promotor,Perfecto,Nómina,2025-03-18T15:36:00
+878,181,4,20250314,10,Promotor,Sin comentario,Préstamo personal,2025-03-14T10:02:00
+879,402,2,20250324,10,Promotor,Muy buena atención,CDT,2025-03-24T17:10:00
+880,150,3,20250322,9,Promotor,Muy buena atención,Préstamo personal,2025-03-22T15:05:00
+881,40,4,20250317,9,Promotor,Sin comentario,Préstamo personal,2025-03-17T10:39:00
+882,440,1,20250309,10,Promotor,Tardaron mucho,Nómina,2025-03-09T10:58:00
+883,229,1,20250322,9,Promotor,Excelente app,Préstamo personal,2025-03-22T11:31:00
+884,271,4,20250326,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-03-26T10:38:00
+885,254,3,20250327,9,Promotor,Mejorar tiempos,CDT,2025-03-27T11:42:00
+886,327,1,20250324,10,Promotor,Muy fácil de usar,Cuenta corriente,2025-03-24T18:16:00
+887,86,2,20250302,9,Promotor,Perfecto,Préstamo personal,2025-03-02T15:47:00
+888,350,3,20250313,9,Promotor,Perfecto,Préstamo personal,2025-03-13T10:33:00
+889,148,4,20250301,10,Promotor,Perfecto,CDT,2025-03-01T18:20:00
+890,470,2,20250304,9,Promotor,Muy fácil de usar,CDT,2025-03-04T17:58:00
+891,139,1,20250311,10,Promotor,Tardaron mucho,Préstamo personal,2025-03-11T18:37:00
+892,396,3,20250315,10,Promotor,Necesito más sucursales,Nómina,2025-03-15T11:33:00
+893,354,4,20250322,10,Promotor,Muy fácil de usar,Nómina,2025-03-22T08:43:00
+894,35,1,20250327,9,Promotor,Tardaron mucho,Nómina,2025-03-27T09:43:00
+895,113,3,20250312,10,Promotor,Sin comentario,Tarjeta crédito,2025-03-12T08:01:00
+896,481,2,20250302,9,Promotor,Necesito más sucursales,Nómina,2025-03-02T18:07:00
+897,439,2,20250303,9,Promotor,Mejorar tiempos,Nómina,2025-03-03T10:57:00
+898,95,1,20250323,9,Promotor,Perfecto,Cuenta corriente,2025-03-23T18:29:00
+899,219,3,20250325,10,Promotor,Muy fácil de usar,Préstamo personal,2025-03-25T10:49:00
+900,398,1,20250309,9,Promotor,Mejorar tiempos,Préstamo personal,2025-03-09T08:16:00
+901,226,1,20250306,10,Promotor,Necesito más sucursales,Nómina,2025-03-06T14:11:00
+902,74,2,20250304,8,Pasivo,Mejorar tiempos,Tarjeta crédito,2025-03-04T17:41:00
+903,227,3,20250330,7,Pasivo,Tardaron mucho,Cuenta corriente,2025-03-30T09:04:00
+904,229,1,20250325,8,Pasivo,Perfecto,Tarjeta crédito,2025-03-25T18:40:00
+905,20,2,20250330,7,Pasivo,Sin comentario,Tarjeta crédito,2025-03-30T13:57:00
+906,2,2,20250319,8,Pasivo,Perfecto,CDT,2025-03-19T14:25:00
+907,116,1,20250318,7,Pasivo,Perfecto,Cuenta corriente,2025-03-18T17:34:00
+908,350,1,20250311,8,Pasivo,Muy buena atención,Cuenta corriente,2025-03-11T13:34:00
+909,431,2,20250303,8,Pasivo,Sin comentario,Tarjeta crédito,2025-03-03T10:35:00
+910,197,2,20250331,7,Pasivo,Sin comentario,CDT,2025-03-31T09:40:00
+911,44,4,20250316,8,Pasivo,Perfecto,Tarjeta crédito,2025-03-16T10:02:00
+912,369,4,20250301,7,Pasivo,Necesito más sucursales,CDT,2025-03-01T14:04:00
+913,274,4,20250316,8,Pasivo,Perfecto,Cuenta corriente,2025-03-16T08:21:00
+914,404,3,20250311,7,Pasivo,Mejorar tiempos,Cuenta corriente,2025-03-11T11:51:00
+915,348,4,20250331,8,Pasivo,Excelente app,Nómina,2025-03-31T11:59:00
+916,377,1,20250302,7,Pasivo,Muy buena atención,CDT,2025-03-02T17:02:00
+917,333,1,20250323,7,Pasivo,Excelente app,Cuenta corriente,2025-03-23T12:52:00
+918,313,1,20250315,7,Pasivo,Tardaron mucho,Cuenta corriente,2025-03-15T09:31:00
+919,412,1,20250303,7,Pasivo,Muy fácil de usar,CDT,2025-03-03T13:07:00
+920,429,4,20250311,7,Pasivo,Necesito más sucursales,Cuenta corriente,2025-03-11T17:11:00
+921,62,1,20250303,8,Pasivo,Mejorar tiempos,Tarjeta crédito,2025-03-03T13:35:00
+922,125,4,20250315,7,Pasivo,Muy buena atención,Tarjeta crédito,2025-03-15T09:50:00
+923,81,1,20250325,8,Pasivo,Perfecto,Cuenta corriente,2025-03-25T08:00:00
+924,46,3,20250330,7,Pasivo,Sin comentario,CDT,2025-03-30T15:44:00
+925,74,2,20250307,7,Pasivo,Perfecto,CDT,2025-03-07T11:11:00
+926,93,3,20250320,7,Pasivo,Tardaron mucho,Préstamo personal,2025-03-20T13:26:00
+927,121,1,20250318,7,Pasivo,Tardaron mucho,Nómina,2025-03-18T13:55:00
+928,395,2,20250315,7,Pasivo,Necesito más sucursales,Préstamo personal,2025-03-15T08:12:00
+929,77,3,20250326,7,Pasivo,Perfecto,CDT,2025-03-26T10:10:00
+930,331,1,20250302,7,Pasivo,Necesito más sucursales,CDT,2025-03-02T12:21:00
+931,54,3,20250302,8,Pasivo,Excelente app,Tarjeta crédito,2025-03-02T08:31:00
+932,459,1,20250303,7,Pasivo,Perfecto,Nómina,2025-03-03T17:20:00
+933,383,3,20250307,8,Pasivo,Muy fácil de usar,Tarjeta crédito,2025-03-07T09:20:00
+934,122,3,20250304,7,Pasivo,Necesito más sucursales,CDT,2025-03-04T11:04:00
+935,249,1,20250319,8,Pasivo,Mejorar tiempos,Tarjeta crédito,2025-03-19T11:59:00
+936,199,1,20250306,8,Pasivo,Perfecto,Tarjeta crédito,2025-03-06T18:22:00
+937,172,1,20250307,8,Pasivo,Muy buena atención,Préstamo personal,2025-03-07T10:07:00
+938,215,1,20250315,8,Pasivo,Muy fácil de usar,Tarjeta crédito,2025-03-15T12:38:00
+939,407,2,20250326,7,Pasivo,Excelente app,Nómina,2025-03-26T16:54:00
+940,211,4,20250303,7,Pasivo,Perfecto,Tarjeta crédito,2025-03-03T17:30:00
+941,8,3,20250309,8,Pasivo,Necesito más sucursales,Tarjeta crédito,2025-03-09T13:27:00
+942,475,2,20250329,7,Pasivo,Excelente app,Nómina,2025-03-29T08:26:00
+943,241,3,20250302,7,Pasivo,Muy buena atención,CDT,2025-03-02T16:25:00
+944,409,3,20250326,8,Pasivo,Tardaron mucho,CDT,2025-03-26T15:15:00
+945,386,1,20250318,7,Pasivo,Mejorar tiempos,Tarjeta crédito,2025-03-18T10:22:00
+946,332,4,20250308,8,Pasivo,Muy buena atención,CDT,2025-03-08T18:19:00
+947,236,4,20250323,7,Pasivo,Muy buena atención,CDT,2025-03-23T15:49:00
+948,361,2,20250328,7,Pasivo,Muy fácil de usar,CDT,2025-03-28T18:00:00
+949,458,3,20250313,7,Pasivo,Muy buena atención,Préstamo personal,2025-03-13T14:48:00
+950,485,2,20250323,8,Pasivo,Necesito más sucursales,Cuenta corriente,2025-03-23T17:56:00
+951,478,1,20250324,8,Pasivo,Muy fácil de usar,Cuenta corriente,2025-03-24T09:24:00
+952,317,1,20250315,8,Pasivo,Muy fácil de usar,Tarjeta crédito,2025-03-15T18:35:00
+953,364,3,20250318,7,Pasivo,Excelente app,Préstamo personal,2025-03-18T11:34:00
+954,245,3,20250321,7,Pasivo,Necesito más sucursales,Tarjeta crédito,2025-03-21T13:22:00
+955,349,2,20250317,8,Pasivo,Muy buena atención,Cuenta corriente,2025-03-17T13:22:00
+956,257,2,20250316,8,Pasivo,Tardaron mucho,CDT,2025-03-16T16:43:00
+957,318,1,20250315,8,Pasivo,Tardaron mucho,Tarjeta crédito,2025-03-15T15:05:00
+958,460,1,20250313,7,Pasivo,Tardaron mucho,Cuenta corriente,2025-03-13T10:17:00
+959,76,2,20250323,7,Pasivo,Necesito más sucursales,Nómina,2025-03-23T18:01:00
+960,497,3,20250314,8,Pasivo,Excelente app,CDT,2025-03-14T13:26:00
+961,331,1,20250324,8,Pasivo,Necesito más sucursales,Cuenta corriente,2025-03-24T08:55:00
+962,486,2,20250327,7,Pasivo,Muy fácil de usar,CDT,2025-03-27T17:21:00
+963,304,2,20250316,8,Pasivo,Perfecto,CDT,2025-03-16T12:36:00
+964,405,1,20250329,7,Pasivo,Sin comentario,Tarjeta crédito,2025-03-29T15:23:00
+965,433,1,20250325,8,Pasivo,Muy fácil de usar,Préstamo personal,2025-03-25T15:10:00
+966,275,1,20250323,7,Pasivo,Excelente app,Tarjeta crédito,2025-03-23T10:15:00
+967,163,2,20250302,0,Detractor,Perfecto,Préstamo personal,2025-03-02T13:11:00
+968,363,1,20250318,1,Detractor,Muy fácil de usar,Préstamo personal,2025-03-18T10:23:00
+969,500,1,20250318,3,Detractor,Sin comentario,Cuenta corriente,2025-03-18T08:25:00
+970,75,4,20250325,3,Detractor,Muy fácil de usar,Tarjeta crédito,2025-03-25T08:47:00
+971,170,2,20250317,4,Detractor,Sin comentario,CDT,2025-03-17T12:48:00
+972,76,3,20250322,4,Detractor,Perfecto,Préstamo personal,2025-03-22T09:46:00
+973,21,1,20250329,3,Detractor,Tardaron mucho,Préstamo personal,2025-03-29T08:25:00
+974,113,2,20250327,4,Detractor,Tardaron mucho,Préstamo personal,2025-03-27T08:38:00
+975,299,2,20250307,5,Detractor,Sin comentario,Tarjeta crédito,2025-03-07T08:05:00
+976,229,3,20250328,4,Detractor,Tardaron mucho,Nómina,2025-03-28T14:12:00
+977,309,2,20250311,3,Detractor,Muy buena atención,Préstamo personal,2025-03-11T14:09:00
+978,219,1,20250328,5,Detractor,Muy fácil de usar,Cuenta corriente,2025-03-28T12:22:00
+979,229,4,20250310,2,Detractor,Tardaron mucho,Tarjeta crédito,2025-03-10T15:47:00
+980,227,1,20250326,3,Detractor,Mejorar tiempos,CDT,2025-03-26T10:53:00
+981,45,1,20250320,4,Detractor,Sin comentario,CDT,2025-03-20T16:21:00
+982,492,2,20250330,0,Detractor,Mejorar tiempos,Cuenta corriente,2025-03-30T08:26:00
+983,140,2,20250330,5,Detractor,Perfecto,Nómina,2025-03-30T10:12:00
+984,196,1,20250327,1,Detractor,Perfecto,Cuenta corriente,2025-03-27T12:53:00
+985,253,2,20250310,4,Detractor,Perfecto,Tarjeta crédito,2025-03-10T08:50:00
+986,135,1,20250305,0,Detractor,Perfecto,Cuenta corriente,2025-03-05T18:42:00
+987,92,2,20250314,2,Detractor,Necesito más sucursales,Cuenta corriente,2025-03-14T09:48:00
+988,497,1,20250316,2,Detractor,Muy fácil de usar,Nómina,2025-03-16T15:36:00
+989,133,2,20250328,3,Detractor,Perfecto,Cuenta corriente,2025-03-28T13:32:00
+990,9,3,20250319,5,Detractor,Excelente app,Nómina,2025-03-19T08:09:00
+991,450,3,20250315,2,Detractor,Muy fácil de usar,Tarjeta crédito,2025-03-15T08:17:00
+992,326,4,20250314,2,Detractor,Muy fácil de usar,Cuenta corriente,2025-03-14T12:18:00
+993,480,1,20250321,4,Detractor,Necesito más sucursales,Tarjeta crédito,2025-03-21T09:38:00
+994,279,1,20250306,6,Detractor,Muy fácil de usar,Préstamo personal,2025-03-06T12:43:00
+995,186,1,20250323,5,Detractor,Muy fácil de usar,Tarjeta crédito,2025-03-23T08:08:00
+996,191,3,20250310,4,Detractor,Mejorar tiempos,Préstamo personal,2025-03-10T10:06:00
+997,258,1,20250305,1,Detractor,Necesito más sucursales,Nómina,2025-03-05T17:44:00
+998,270,3,20250331,6,Detractor,Tardaron mucho,CDT,2025-03-31T15:58:00
+999,420,1,20250304,0,Detractor,Muy buena atención,CDT,2025-03-04T13:19:00
+1000,419,2,20250405,10,Promotor,Muy fácil de usar,Tarjeta crédito,2025-04-05T12:01:00
+1001,66,4,20250408,9,Promotor,Excelente app,Tarjeta crédito,2025-04-08T12:08:00
+1002,41,2,20250405,9,Promotor,Tardaron mucho,Cuenta corriente,2025-04-05T08:49:00
+1003,221,1,20250425,10,Promotor,Tardaron mucho,Cuenta corriente,2025-04-25T18:32:00
+1004,61,4,20250416,9,Promotor,Muy buena atención,Cuenta corriente,2025-04-16T12:42:00
+1005,50,3,20250425,9,Promotor,Necesito más sucursales,Nómina,2025-04-25T11:11:00
+1006,47,1,20250401,10,Promotor,Sin comentario,Nómina,2025-04-01T13:22:00
+1007,257,3,20250428,9,Promotor,Necesito más sucursales,Nómina,2025-04-28T17:04:00
+1008,297,3,20250427,9,Promotor,Necesito más sucursales,Tarjeta crédito,2025-04-27T12:10:00
+1009,51,4,20250424,9,Promotor,Perfecto,Préstamo personal,2025-04-24T17:11:00
+1010,491,1,20250422,10,Promotor,Muy fácil de usar,CDT,2025-04-22T14:13:00
+1011,58,3,20250414,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-04-14T15:07:00
+1012,391,1,20250416,9,Promotor,Sin comentario,Nómina,2025-04-16T08:05:00
+1013,60,2,20250416,10,Promotor,Perfecto,Nómina,2025-04-16T12:43:00
+1014,284,2,20250408,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-04-08T09:57:00
+1015,189,1,20250422,10,Promotor,Perfecto,Cuenta corriente,2025-04-22T14:28:00
+1016,74,2,20250404,9,Promotor,Tardaron mucho,Tarjeta crédito,2025-04-04T09:23:00
+1017,103,2,20250411,9,Promotor,Mejorar tiempos,Cuenta corriente,2025-04-11T11:53:00
+1018,256,1,20250424,10,Promotor,Sin comentario,CDT,2025-04-24T13:30:00
+1019,262,1,20250416,10,Promotor,Perfecto,Cuenta corriente,2025-04-16T09:16:00
+1020,119,2,20250416,10,Promotor,Excelente app,Cuenta corriente,2025-04-16T09:47:00
+1021,35,2,20250427,9,Promotor,Muy buena atención,Tarjeta crédito,2025-04-27T14:38:00
+1022,156,2,20250405,10,Promotor,Tardaron mucho,Cuenta corriente,2025-04-05T18:48:00
+1023,239,1,20250426,10,Promotor,Perfecto,CDT,2025-04-26T16:16:00
+1024,441,2,20250426,10,Promotor,Muy buena atención,Cuenta corriente,2025-04-26T14:56:00
+1025,231,1,20250413,9,Promotor,Mejorar tiempos,CDT,2025-04-13T15:02:00
+1026,286,2,20250406,9,Promotor,Sin comentario,Tarjeta crédito,2025-04-06T15:27:00
+1027,367,2,20250410,9,Promotor,Tardaron mucho,Nómina,2025-04-10T18:31:00
+1028,288,4,20250416,10,Promotor,Muy buena atención,CDT,2025-04-16T12:31:00
+1029,347,1,20250420,10,Promotor,Sin comentario,Préstamo personal,2025-04-20T08:01:00
+1030,429,1,20250405,9,Promotor,Muy buena atención,Préstamo personal,2025-04-05T14:06:00
+1031,183,2,20250412,10,Promotor,Muy buena atención,Tarjeta crédito,2025-04-12T11:15:00
+1032,44,4,20250419,10,Promotor,Tardaron mucho,Préstamo personal,2025-04-19T09:21:00
+1033,276,1,20250401,9,Promotor,Perfecto,CDT,2025-04-01T17:32:00
+1034,11,3,20250409,10,Promotor,Muy buena atención,Préstamo personal,2025-04-09T14:36:00
+1035,294,1,20250411,10,Promotor,Perfecto,Cuenta corriente,2025-04-11T18:13:00
+1036,258,3,20250416,10,Promotor,Muy fácil de usar,Tarjeta crédito,2025-04-16T17:19:00
+1037,104,2,20250414,10,Promotor,Tardaron mucho,Nómina,2025-04-14T11:18:00
+1038,153,4,20250402,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-04-02T17:47:00
+1039,433,2,20250423,9,Promotor,Muy fácil de usar,Préstamo personal,2025-04-23T09:36:00
+1040,108,1,20250414,10,Promotor,Tardaron mucho,Préstamo personal,2025-04-14T16:51:00
+1041,340,2,20250414,10,Promotor,Necesito más sucursales,CDT,2025-04-14T14:16:00
+1042,391,2,20250422,10,Promotor,Muy buena atención,Nómina,2025-04-22T10:36:00
+1043,339,4,20250407,10,Promotor,Perfecto,Préstamo personal,2025-04-07T18:34:00
+1044,290,3,20250430,10,Promotor,Muy buena atención,Nómina,2025-04-30T11:23:00
+1045,124,1,20250405,10,Promotor,Sin comentario,CDT,2025-04-05T14:20:00
+1046,105,3,20250421,9,Promotor,Sin comentario,Préstamo personal,2025-04-21T18:10:00
+1047,308,1,20250422,10,Promotor,Necesito más sucursales,Cuenta corriente,2025-04-22T10:12:00
+1048,409,3,20250408,9,Promotor,Perfecto,CDT,2025-04-08T16:27:00
+1049,464,1,20250421,10,Promotor,Excelente app,Préstamo personal,2025-04-21T10:01:00
+1050,412,1,20250426,10,Promotor,Excelente app,Cuenta corriente,2025-04-26T15:50:00
+1051,441,4,20250402,9,Promotor,Muy fácil de usar,Nómina,2025-04-02T12:55:00
+1052,490,2,20250429,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-04-29T14:53:00
+1053,58,2,20250408,9,Promotor,Tardaron mucho,Nómina,2025-04-08T18:53:00
+1054,453,1,20250416,10,Promotor,Tardaron mucho,Préstamo personal,2025-04-16T13:53:00
+1055,384,3,20250426,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-04-26T10:06:00
+1056,497,1,20250407,9,Promotor,Mejorar tiempos,Préstamo personal,2025-04-07T17:03:00
+1057,192,3,20250418,10,Promotor,Tardaron mucho,Préstamo personal,2025-04-18T16:27:00
+1058,127,4,20250422,10,Promotor,Excelente app,Préstamo personal,2025-04-22T15:45:00
+1059,158,1,20250427,10,Promotor,Muy buena atención,Cuenta corriente,2025-04-27T18:15:00
+1060,197,1,20250418,10,Promotor,Muy fácil de usar,Cuenta corriente,2025-04-18T16:55:00
+1061,227,2,20250428,9,Promotor,Mejorar tiempos,Préstamo personal,2025-04-28T12:05:00
+1062,108,4,20250410,9,Promotor,Excelente app,CDT,2025-04-10T18:20:00
+1063,18,1,20250426,10,Promotor,Tardaron mucho,CDT,2025-04-26T15:47:00
+1064,431,1,20250430,10,Promotor,Mejorar tiempos,Cuenta corriente,2025-04-30T10:44:00
+1065,34,1,20250417,10,Promotor,Muy fácil de usar,CDT,2025-04-17T08:48:00
+1066,329,1,20250421,9,Promotor,Perfecto,Tarjeta crédito,2025-04-21T08:25:00
+1067,157,1,20250421,9,Promotor,Tardaron mucho,Cuenta corriente,2025-04-21T10:15:00
+1068,305,3,20250428,9,Promotor,Muy fácil de usar,CDT,2025-04-28T15:55:00
+1069,89,3,20250409,9,Promotor,Muy fácil de usar,Préstamo personal,2025-04-09T11:05:00
+1070,94,2,20250412,10,Promotor,Mejorar tiempos,Nómina,2025-04-12T11:01:00
+1071,286,2,20250430,9,Promotor,Necesito más sucursales,Cuenta corriente,2025-04-30T15:12:00
+1072,437,1,20250423,10,Promotor,Mejorar tiempos,Nómina,2025-04-23T14:38:00
+1073,46,4,20250405,10,Promotor,Excelente app,Nómina,2025-04-05T09:00:00
+1074,472,4,20250425,10,Promotor,Perfecto,Cuenta corriente,2025-04-25T11:45:00
+1075,485,4,20250407,9,Promotor,Sin comentario,Préstamo personal,2025-04-07T15:24:00
+1076,439,1,20250414,9,Promotor,Necesito más sucursales,Préstamo personal,2025-04-14T18:12:00
+1077,210,3,20250406,10,Promotor,Muy buena atención,Préstamo personal,2025-04-06T12:15:00
+1078,128,1,20250430,10,Promotor,Perfecto,Cuenta corriente,2025-04-30T08:30:00
+1079,166,4,20250428,9,Promotor,Mejorar tiempos,Tarjeta crédito,2025-04-28T14:45:00
+1080,306,1,20250424,10,Promotor,Tardaron mucho,Nómina,2025-04-24T08:03:00
+1081,121,2,20250430,10,Promotor,Muy fácil de usar,Nómina,2025-04-30T18:51:00
+1082,130,2,20250401,9,Promotor,Mejorar tiempos,Préstamo personal,2025-04-01T14:42:00
+1083,496,4,20250405,10,Promotor,Muy buena atención,Nómina,2025-04-05T10:16:00
+1084,253,4,20250417,9,Promotor,Perfecto,Tarjeta crédito,2025-04-17T09:20:00
+1085,134,1,20250405,10,Promotor,Muy buena atención,Tarjeta crédito,2025-04-05T15:55:00
+1086,185,4,20250424,10,Promotor,Sin comentario,Préstamo personal,2025-04-24T17:53:00
+1087,161,2,20250417,10,Promotor,Excelente app,Préstamo personal,2025-04-17T15:48:00
+1088,437,4,20250418,9,Promotor,Perfecto,Cuenta corriente,2025-04-18T11:09:00
+1089,94,1,20250408,9,Promotor,Sin comentario,Tarjeta crédito,2025-04-08T15:27:00
+1090,475,2,20250429,9,Promotor,Perfecto,Préstamo personal,2025-04-29T16:31:00
+1091,58,3,20250416,10,Promotor,Excelente app,Cuenta corriente,2025-04-16T13:05:00
+1092,146,1,20250428,9,Promotor,Excelente app,Nómina,2025-04-28T12:36:00
+1093,498,1,20250419,9,Promotor,Excelente app,CDT,2025-04-19T09:15:00
+1094,49,4,20250422,10,Promotor,Muy buena atención,Préstamo personal,2025-04-22T18:43:00
+1095,192,2,20250413,9,Promotor,Tardaron mucho,Préstamo personal,2025-04-13T10:01:00
+1096,426,3,20250415,9,Promotor,Perfecto,CDT,2025-04-15T18:17:00
+1097,497,1,20250411,9,Promotor,Perfecto,Préstamo personal,2025-04-11T17:08:00
+1098,25,3,20250428,9,Promotor,Sin comentario,Préstamo personal,2025-04-28T08:47:00
+1099,488,2,20250418,9,Promotor,Tardaron mucho,CDT,2025-04-18T12:11:00
+1100,444,2,20250425,9,Promotor,Muy buena atención,Tarjeta crédito,2025-04-25T10:24:00
+1101,332,3,20250410,10,Promotor,Excelente app,Cuenta corriente,2025-04-10T12:31:00
+1102,413,4,20250424,10,Promotor,Excelente app,Préstamo personal,2025-04-24T18:06:00
+1103,103,2,20250417,10,Promotor,Mejorar tiempos,CDT,2025-04-17T12:36:00
+1104,388,2,20250403,10,Promotor,Muy fácil de usar,Nómina,2025-04-03T10:27:00
+1105,21,2,20250403,10,Promotor,Perfecto,Tarjeta crédito,2025-04-03T18:43:00
+1106,254,2,20250430,9,Promotor,Tardaron mucho,Préstamo personal,2025-04-30T15:27:00
+1107,411,2,20250430,9,Promotor,Excelente app,Tarjeta crédito,2025-04-30T18:57:00
+1108,128,2,20250427,10,Promotor,Sin comentario,Nómina,2025-04-27T08:35:00
+1109,24,2,20250430,9,Promotor,Mejorar tiempos,CDT,2025-04-30T09:29:00
+1110,131,2,20250412,10,Promotor,Muy buena atención,Cuenta corriente,2025-04-12T18:29:00
+1111,94,3,20250426,9,Promotor,Muy buena atención,Cuenta corriente,2025-04-26T14:56:00
+1112,301,3,20250411,10,Promotor,Perfecto,Nómina,2025-04-11T12:21:00
+1113,95,1,20250407,9,Promotor,Sin comentario,Cuenta corriente,2025-04-07T14:34:00
+1114,203,1,20250401,9,Promotor,Excelente app,CDT,2025-04-01T15:44:00
+1115,337,4,20250428,10,Promotor,Perfecto,Préstamo personal,2025-04-28T17:52:00
+1116,345,4,20250423,10,Promotor,Mejorar tiempos,Préstamo personal,2025-04-23T09:08:00
+1117,98,1,20250401,9,Promotor,Muy buena atención,Tarjeta crédito,2025-04-01T08:13:00
+1118,75,2,20250421,10,Promotor,Mejorar tiempos,Nómina,2025-04-21T11:05:00
+1119,238,1,20250425,10,Promotor,Mejorar tiempos,Cuenta corriente,2025-04-25T09:10:00
+1120,360,2,20250424,9,Promotor,Perfecto,CDT,2025-04-24T08:55:00
+1121,125,1,20250419,10,Promotor,Mejorar tiempos,Cuenta corriente,2025-04-19T13:00:00
+1122,434,3,20250421,9,Promotor,Mejorar tiempos,CDT,2025-04-21T17:38:00
+1123,250,2,20250402,10,Promotor,Perfecto,Tarjeta crédito,2025-04-02T08:33:00
+1124,296,1,20250414,9,Promotor,Tardaron mucho,Préstamo personal,2025-04-14T18:26:00
+1125,254,2,20250404,10,Promotor,Muy fácil de usar,CDT,2025-04-04T14:01:00
+1126,372,1,20250410,9,Promotor,Muy fácil de usar,CDT,2025-04-10T11:32:00
+1127,466,3,20250419,9,Promotor,Perfecto,Tarjeta crédito,2025-04-19T12:46:00
+1128,427,4,20250414,10,Promotor,Muy fácil de usar,CDT,2025-04-14T10:39:00
+1129,354,3,20250410,9,Promotor,Perfecto,Tarjeta crédito,2025-04-10T10:12:00
+1130,252,1,20250420,9,Promotor,Mejorar tiempos,CDT,2025-04-20T12:15:00
+1131,25,4,20250418,9,Promotor,Muy fácil de usar,Préstamo personal,2025-04-18T13:43:00
+1132,424,4,20250406,9,Promotor,Muy buena atención,Cuenta corriente,2025-04-06T13:27:00
+1133,117,1,20250420,9,Promotor,Necesito más sucursales,CDT,2025-04-20T12:21:00
+1134,24,3,20250425,10,Promotor,Sin comentario,Tarjeta crédito,2025-04-25T16:38:00
+1135,26,4,20250423,9,Promotor,Perfecto,CDT,2025-04-23T09:06:00
+1136,288,1,20250427,9,Promotor,Tardaron mucho,Tarjeta crédito,2025-04-27T18:07:00
+1137,186,1,20250430,9,Promotor,Sin comentario,CDT,2025-04-30T16:31:00
+1138,332,1,20250405,9,Promotor,Excelente app,Cuenta corriente,2025-04-05T11:28:00
+1139,394,1,20250425,10,Promotor,Perfecto,Préstamo personal,2025-04-25T12:32:00
+1140,137,1,20250403,9,Promotor,Mejorar tiempos,Préstamo personal,2025-04-03T18:42:00
+1141,386,3,20250405,9,Promotor,Mejorar tiempos,Tarjeta crédito,2025-04-05T10:51:00
+1142,471,2,20250414,10,Promotor,Perfecto,Nómina,2025-04-14T18:23:00
+1143,75,3,20250415,9,Promotor,Tardaron mucho,Cuenta corriente,2025-04-15T13:20:00
+1144,85,2,20250425,10,Promotor,Mejorar tiempos,Cuenta corriente,2025-04-25T18:59:00
+1145,295,1,20250429,9,Promotor,Sin comentario,CDT,2025-04-29T14:56:00
+1146,381,1,20250424,10,Promotor,Muy fácil de usar,Cuenta corriente,2025-04-24T12:57:00
+1147,207,2,20250423,9,Promotor,Necesito más sucursales,Nómina,2025-04-23T17:50:00
+1148,177,4,20250423,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-04-23T12:05:00
+1149,172,2,20250418,9,Promotor,Excelente app,Nómina,2025-04-18T16:18:00
+1150,262,2,20250403,9,Promotor,Muy fácil de usar,Tarjeta crédito,2025-04-03T08:01:00
+1151,427,3,20250408,10,Promotor,Mejorar tiempos,Nómina,2025-04-08T09:46:00
+1152,191,1,20250427,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-04-27T08:48:00
+1153,153,2,20250415,9,Promotor,Muy buena atención,CDT,2025-04-15T13:15:00
+1154,154,1,20250412,9,Promotor,Excelente app,CDT,2025-04-12T16:47:00
+1155,168,2,20250404,9,Promotor,Necesito más sucursales,Préstamo personal,2025-04-04T15:06:00
+1156,218,3,20250423,9,Promotor,Tardaron mucho,Cuenta corriente,2025-04-23T08:27:00
+1157,110,2,20250416,9,Promotor,Muy fácil de usar,Nómina,2025-04-16T14:37:00
+1158,136,2,20250428,10,Promotor,Mejorar tiempos,CDT,2025-04-28T15:46:00
+1159,84,1,20250427,10,Promotor,Excelente app,CDT,2025-04-27T15:08:00
+1160,109,2,20250423,9,Promotor,Muy buena atención,Tarjeta crédito,2025-04-23T16:23:00
+1161,437,2,20250420,9,Promotor,Tardaron mucho,Préstamo personal,2025-04-20T17:18:00
+1162,79,1,20250417,9,Promotor,Sin comentario,Préstamo personal,2025-04-17T12:18:00
+1163,406,1,20250401,10,Promotor,Mejorar tiempos,Cuenta corriente,2025-04-01T12:56:00
+1164,94,3,20250407,10,Promotor,Perfecto,Cuenta corriente,2025-04-07T09:35:00
+1165,446,1,20250403,10,Promotor,Perfecto,Nómina,2025-04-03T12:36:00
+1166,173,3,20250429,10,Promotor,Perfecto,Nómina,2025-04-29T10:48:00
+1167,326,2,20250417,9,Promotor,Perfecto,CDT,2025-04-17T10:55:00
+1168,410,2,20250403,10,Promotor,Mejorar tiempos,CDT,2025-04-03T11:57:00
+1169,277,1,20250411,10,Promotor,Perfecto,Préstamo personal,2025-04-11T18:05:00
+1170,13,2,20250423,9,Promotor,Sin comentario,Nómina,2025-04-23T18:07:00
+1171,490,2,20250407,9,Promotor,Muy buena atención,Nómina,2025-04-07T16:12:00
+1172,460,1,20250417,10,Promotor,Excelente app,Cuenta corriente,2025-04-17T12:50:00
+1173,425,3,20250408,9,Promotor,Perfecto,Cuenta corriente,2025-04-08T16:38:00
+1174,302,1,20250413,10,Promotor,Muy buena atención,Préstamo personal,2025-04-13T14:11:00
+1175,441,2,20250401,10,Promotor,Mejorar tiempos,Préstamo personal,2025-04-01T09:07:00
+1176,87,1,20250418,9,Promotor,Excelente app,Préstamo personal,2025-04-18T09:09:00
+1177,348,1,20250414,10,Promotor,Muy fácil de usar,Tarjeta crédito,2025-04-14T08:45:00
+1178,200,1,20250410,9,Promotor,Excelente app,CDT,2025-04-10T13:16:00
+1179,461,1,20250427,10,Promotor,Necesito más sucursales,Tarjeta crédito,2025-04-27T17:37:00
+1180,261,3,20250416,9,Promotor,Mejorar tiempos,Cuenta corriente,2025-04-16T12:03:00
+1181,284,2,20250415,10,Promotor,Perfecto,Cuenta corriente,2025-04-15T14:40:00
+1182,454,1,20250430,9,Promotor,Tardaron mucho,Tarjeta crédito,2025-04-30T16:41:00
+1183,291,2,20250410,9,Promotor,Tardaron mucho,Nómina,2025-04-10T11:50:00
+1184,277,4,20250412,9,Promotor,Necesito más sucursales,Nómina,2025-04-12T14:58:00
+1185,1,3,20250402,10,Promotor,Sin comentario,Tarjeta crédito,2025-04-02T08:03:00
+1186,307,1,20250409,10,Promotor,Mejorar tiempos,Préstamo personal,2025-04-09T18:13:00
+1187,83,3,20250402,10,Promotor,Tardaron mucho,Préstamo personal,2025-04-02T09:25:00
+1188,72,3,20250427,9,Promotor,Sin comentario,CDT,2025-04-27T11:39:00
+1189,350,4,20250429,10,Promotor,Sin comentario,CDT,2025-04-29T12:15:00
+1190,108,2,20250411,10,Promotor,Muy fácil de usar,Cuenta corriente,2025-04-11T10:41:00
+1191,244,1,20250420,9,Promotor,Muy buena atención,Tarjeta crédito,2025-04-20T14:35:00
+1192,202,2,20250425,10,Promotor,Tardaron mucho,Nómina,2025-04-25T08:57:00
+1193,64,1,20250422,10,Promotor,Mejorar tiempos,Nómina,2025-04-22T13:24:00
+1194,394,3,20250427,9,Promotor,Muy buena atención,Cuenta corriente,2025-04-27T15:23:00
+1195,5,1,20250415,9,Promotor,Muy buena atención,Préstamo personal,2025-04-15T18:58:00
+1196,47,3,20250407,10,Promotor,Sin comentario,Tarjeta crédito,2025-04-07T11:31:00
+1197,144,2,20250402,10,Promotor,Necesito más sucursales,Cuenta corriente,2025-04-02T11:52:00
+1198,446,1,20250404,10,Promotor,Perfecto,Tarjeta crédito,2025-04-04T16:12:00
+1199,302,1,20250403,9,Promotor,Tardaron mucho,Tarjeta crédito,2025-04-03T12:59:00
+1200,268,3,20250429,9,Promotor,Sin comentario,Tarjeta crédito,2025-04-29T18:01:00
+1201,287,4,20250422,10,Promotor,Muy buena atención,CDT,2025-04-22T18:43:00
+1202,481,1,20250428,9,Promotor,Mejorar tiempos,Préstamo personal,2025-04-28T09:43:00
+1203,186,2,20250416,10,Promotor,Muy buena atención,Tarjeta crédito,2025-04-16T08:17:00
+1204,230,1,20250418,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-04-18T13:05:00
+1205,116,4,20250424,9,Promotor,Mejorar tiempos,Cuenta corriente,2025-04-24T11:12:00
+1206,160,1,20250411,9,Promotor,Tardaron mucho,Cuenta corriente,2025-04-11T15:27:00
+1207,409,2,20250419,9,Promotor,Muy fácil de usar,Préstamo personal,2025-04-19T11:06:00
+1208,491,1,20250408,10,Promotor,Muy buena atención,Préstamo personal,2025-04-08T16:50:00
+1209,398,2,20250403,9,Promotor,Perfecto,Cuenta corriente,2025-04-03T18:28:00
+1210,499,1,20250403,9,Promotor,Muy buena atención,CDT,2025-04-03T13:56:00
+1211,66,1,20250426,9,Promotor,Perfecto,Cuenta corriente,2025-04-26T12:39:00
+1212,53,3,20250403,10,Promotor,Muy buena atención,Préstamo personal,2025-04-03T14:25:00
+1213,386,2,20250420,9,Promotor,Muy buena atención,CDT,2025-04-20T14:29:00
+1214,318,2,20250429,10,Promotor,Muy fácil de usar,Cuenta corriente,2025-04-29T15:33:00
+1215,99,1,20250419,10,Promotor,Muy buena atención,Nómina,2025-04-19T09:37:00
+1216,294,1,20250429,9,Promotor,Sin comentario,Préstamo personal,2025-04-29T14:30:00
+1217,125,1,20250406,10,Promotor,Muy buena atención,Cuenta corriente,2025-04-06T10:19:00
+1218,492,2,20250417,10,Promotor,Muy fácil de usar,Préstamo personal,2025-04-17T17:56:00
+1219,241,1,20250405,9,Promotor,Muy fácil de usar,Préstamo personal,2025-04-05T13:00:00
+1220,122,2,20250402,9,Promotor,Muy buena atención,CDT,2025-04-02T13:12:00
+1221,466,1,20250421,9,Promotor,Tardaron mucho,Préstamo personal,2025-04-21T11:42:00
+1222,355,4,20250423,10,Promotor,Muy fácil de usar,Nómina,2025-04-23T17:21:00
+1223,169,1,20250414,10,Promotor,Perfecto,Cuenta corriente,2025-04-14T15:14:00
+1224,115,3,20250421,9,Promotor,Perfecto,Nómina,2025-04-21T11:15:00
+1225,394,4,20250424,10,Promotor,Muy fácil de usar,CDT,2025-04-24T11:25:00
+1226,4,1,20250427,9,Promotor,Tardaron mucho,Préstamo personal,2025-04-27T08:35:00
+1227,149,2,20250405,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-04-05T08:12:00
+1228,90,1,20250410,9,Promotor,Sin comentario,Tarjeta crédito,2025-04-10T13:54:00
+1229,101,1,20250406,9,Promotor,Sin comentario,Cuenta corriente,2025-04-06T08:53:00
+1230,336,3,20250413,9,Promotor,Tardaron mucho,Préstamo personal,2025-04-13T11:19:00
+1231,190,3,20250408,10,Promotor,Excelente app,Nómina,2025-04-08T17:56:00
+1232,365,1,20250429,10,Promotor,Excelente app,Tarjeta crédito,2025-04-29T11:12:00
+1233,192,1,20250423,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-04-23T08:48:00
+1234,275,1,20250428,9,Promotor,Excelente app,Préstamo personal,2025-04-28T11:03:00
+1235,65,4,20250428,10,Promotor,Perfecto,Tarjeta crédito,2025-04-28T09:50:00
+1236,340,2,20250426,10,Promotor,Excelente app,Nómina,2025-04-26T14:48:00
+1237,266,2,20250416,10,Promotor,Muy fácil de usar,Préstamo personal,2025-04-16T16:44:00
+1238,490,2,20250423,10,Promotor,Sin comentario,Nómina,2025-04-23T14:40:00
+1239,113,4,20250407,9,Promotor,Perfecto,Tarjeta crédito,2025-04-07T14:13:00
+1240,456,1,20250414,10,Promotor,Excelente app,Préstamo personal,2025-04-14T12:35:00
+1241,385,1,20250405,9,Promotor,Perfecto,Nómina,2025-04-05T13:14:00
+1242,263,2,20250415,9,Promotor,Mejorar tiempos,CDT,2025-04-15T15:27:00
+1243,412,2,20250412,10,Promotor,Sin comentario,CDT,2025-04-12T08:11:00
+1244,136,2,20250408,10,Promotor,Muy fácil de usar,Cuenta corriente,2025-04-08T12:53:00
+1245,142,4,20250426,7,Pasivo,Tardaron mucho,Cuenta corriente,2025-04-26T09:23:00
+1246,103,1,20250418,7,Pasivo,Muy fácil de usar,Préstamo personal,2025-04-18T12:47:00
+1247,362,2,20250407,8,Pasivo,Excelente app,Nómina,2025-04-07T12:00:00
+1248,422,1,20250410,8,Pasivo,Mejorar tiempos,CDT,2025-04-10T17:48:00
+1249,335,2,20250416,7,Pasivo,Excelente app,CDT,2025-04-16T11:14:00
+1250,120,2,20250416,7,Pasivo,Perfecto,CDT,2025-04-16T13:50:00
+1251,434,1,20250411,7,Pasivo,Mejorar tiempos,Tarjeta crédito,2025-04-11T15:28:00
+1252,72,2,20250412,7,Pasivo,Excelente app,Préstamo personal,2025-04-12T08:31:00
+1253,116,2,20250411,8,Pasivo,Mejorar tiempos,Nómina,2025-04-11T12:20:00
+1254,403,1,20250419,7,Pasivo,Excelente app,Tarjeta crédito,2025-04-19T13:36:00
+1255,105,4,20250413,8,Pasivo,Tardaron mucho,Nómina,2025-04-13T14:12:00
+1256,169,2,20250404,8,Pasivo,Perfecto,Préstamo personal,2025-04-04T09:10:00
+1257,284,1,20250422,7,Pasivo,Perfecto,Cuenta corriente,2025-04-22T10:12:00
+1258,494,2,20250430,7,Pasivo,Necesito más sucursales,Tarjeta crédito,2025-04-30T12:42:00
+1259,30,1,20250415,7,Pasivo,Muy buena atención,Tarjeta crédito,2025-04-15T13:55:00
+1260,81,4,20250413,8,Pasivo,Excelente app,Nómina,2025-04-13T14:30:00
+1261,490,4,20250413,7,Pasivo,Necesito más sucursales,Tarjeta crédito,2025-04-13T11:19:00
+1262,364,2,20250427,8,Pasivo,Excelente app,Nómina,2025-04-27T17:19:00
+1263,367,3,20250417,7,Pasivo,Sin comentario,Tarjeta crédito,2025-04-17T08:09:00
+1264,423,2,20250403,8,Pasivo,Necesito más sucursales,Nómina,2025-04-03T13:58:00
+1265,237,2,20250415,8,Pasivo,Tardaron mucho,Préstamo personal,2025-04-15T18:56:00
+1266,359,3,20250412,8,Pasivo,Sin comentario,CDT,2025-04-12T17:52:00
+1267,128,1,20250414,7,Pasivo,Mejorar tiempos,CDT,2025-04-14T14:58:00
+1268,292,1,20250423,7,Pasivo,Muy buena atención,Tarjeta crédito,2025-04-23T10:17:00
+1269,470,1,20250422,8,Pasivo,Necesito más sucursales,CDT,2025-04-22T14:48:00
+1270,40,3,20250412,7,Pasivo,Muy fácil de usar,CDT,2025-04-12T15:10:00
+1271,260,1,20250407,8,Pasivo,Muy buena atención,Cuenta corriente,2025-04-07T18:44:00
+1272,176,3,20250413,8,Pasivo,Necesito más sucursales,CDT,2025-04-13T08:00:00
+1273,364,4,20250404,8,Pasivo,Muy fácil de usar,CDT,2025-04-04T15:29:00
+1274,281,2,20250403,7,Pasivo,Perfecto,Tarjeta crédito,2025-04-03T15:52:00
+1275,83,1,20250427,8,Pasivo,Muy buena atención,Nómina,2025-04-27T09:11:00
+1276,274,3,20250404,8,Pasivo,Excelente app,Cuenta corriente,2025-04-04T18:48:00
+1277,140,1,20250422,7,Pasivo,Muy fácil de usar,Tarjeta crédito,2025-04-22T11:45:00
+1278,346,2,20250429,7,Pasivo,Perfecto,Cuenta corriente,2025-04-29T18:51:00
+1279,354,1,20250413,7,Pasivo,Muy buena atención,Nómina,2025-04-13T08:03:00
+1280,104,4,20250425,8,Pasivo,Muy fácil de usar,Tarjeta crédito,2025-04-25T11:05:00
+1281,15,4,20250414,7,Pasivo,Muy fácil de usar,Tarjeta crédito,2025-04-14T18:42:00
+1282,491,4,20250408,7,Pasivo,Excelente app,Tarjeta crédito,2025-04-08T08:26:00
+1283,168,1,20250427,7,Pasivo,Necesito más sucursales,Nómina,2025-04-27T11:59:00
+1284,62,1,20250414,8,Pasivo,Tardaron mucho,Préstamo personal,2025-04-14T13:11:00
+1285,335,1,20250413,7,Pasivo,Mejorar tiempos,Tarjeta crédito,2025-04-13T15:14:00
+1286,418,1,20250422,7,Pasivo,Muy fácil de usar,Cuenta corriente,2025-04-22T09:56:00
+1287,155,3,20250414,7,Pasivo,Perfecto,Cuenta corriente,2025-04-14T16:50:00
+1288,492,1,20250409,7,Pasivo,Muy fácil de usar,CDT,2025-04-09T18:59:00
+1289,90,2,20250411,7,Pasivo,Muy fácil de usar,CDT,2025-04-11T09:21:00
+1290,467,2,20250420,7,Pasivo,Mejorar tiempos,Nómina,2025-04-20T18:47:00
+1291,301,3,20250417,7,Pasivo,Muy buena atención,Tarjeta crédito,2025-04-17T08:39:00
+1292,122,3,20250410,7,Pasivo,Necesito más sucursales,Nómina,2025-04-10T09:03:00
+1293,256,1,20250412,7,Pasivo,Excelente app,CDT,2025-04-12T11:41:00
+1294,473,3,20250408,7,Pasivo,Perfecto,Préstamo personal,2025-04-08T10:17:00
+1295,403,3,20250421,8,Pasivo,Mejorar tiempos,Préstamo personal,2025-04-21T08:14:00
+1296,125,1,20250411,8,Pasivo,Muy buena atención,Tarjeta crédito,2025-04-11T18:44:00
+1297,447,2,20250420,7,Pasivo,Muy fácil de usar,Tarjeta crédito,2025-04-20T15:40:00
+1298,446,2,20250403,7,Pasivo,Necesito más sucursales,Cuenta corriente,2025-04-03T18:09:00
+1299,47,1,20250405,7,Pasivo,Necesito más sucursales,Tarjeta crédito,2025-04-05T16:05:00
+1300,240,1,20250424,3,Detractor,Necesito más sucursales,Tarjeta crédito,2025-04-24T14:11:00
+1301,156,1,20250408,4,Detractor,Perfecto,Tarjeta crédito,2025-04-08T12:55:00
+1302,41,4,20250416,6,Detractor,Muy fácil de usar,CDT,2025-04-16T14:10:00
+1303,217,2,20250415,3,Detractor,Mejorar tiempos,Tarjeta crédito,2025-04-15T15:01:00
+1304,219,4,20250413,6,Detractor,Sin comentario,Nómina,2025-04-13T16:09:00
+1305,90,1,20250424,4,Detractor,Perfecto,Préstamo personal,2025-04-24T15:18:00
+1306,311,2,20250418,3,Detractor,Muy fácil de usar,Tarjeta crédito,2025-04-18T15:12:00
+1307,98,1,20250430,1,Detractor,Muy fácil de usar,CDT,2025-04-30T14:59:00
+1308,497,3,20250413,3,Detractor,Mejorar tiempos,CDT,2025-04-13T12:41:00
+1309,210,4,20250403,4,Detractor,Tardaron mucho,CDT,2025-04-03T17:10:00
+1310,224,4,20250425,1,Detractor,Muy fácil de usar,Nómina,2025-04-25T15:40:00
+1311,357,1,20250412,5,Detractor,Mejorar tiempos,CDT,2025-04-12T11:15:00
+1312,472,3,20250402,3,Detractor,Muy buena atención,Tarjeta crédito,2025-04-02T12:38:00
+1313,76,1,20250422,3,Detractor,Excelente app,Cuenta corriente,2025-04-22T09:49:00
+1314,365,4,20250421,0,Detractor,Mejorar tiempos,Nómina,2025-04-21T09:33:00
+1315,217,1,20250429,1,Detractor,Mejorar tiempos,Préstamo personal,2025-04-29T12:32:00
+1316,454,2,20250422,4,Detractor,Sin comentario,CDT,2025-04-22T09:06:00
+1317,398,3,20250419,5,Detractor,Excelente app,Préstamo personal,2025-04-19T11:59:00
+1318,358,1,20250413,5,Detractor,Excelente app,CDT,2025-04-13T08:06:00
+1319,357,2,20250425,0,Detractor,Mejorar tiempos,Préstamo personal,2025-04-25T14:10:00
+1320,96,3,20250412,1,Detractor,Necesito más sucursales,CDT,2025-04-12T10:32:00
+1321,291,3,20250415,0,Detractor,Excelente app,Tarjeta crédito,2025-04-15T08:47:00
+1322,389,1,20250426,1,Detractor,Mejorar tiempos,CDT,2025-04-26T18:58:00
+1323,445,2,20250404,4,Detractor,Tardaron mucho,Préstamo personal,2025-04-04T09:24:00
+1324,33,1,20250409,0,Detractor,Necesito más sucursales,CDT,2025-04-09T15:43:00
+1325,5,1,20250404,6,Detractor,Muy buena atención,Nómina,2025-04-04T08:06:00
+1326,406,1,20250417,1,Detractor,Sin comentario,CDT,2025-04-17T15:48:00
+1327,220,1,20250420,2,Detractor,Muy fácil de usar,Préstamo personal,2025-04-20T11:23:00
+1328,194,2,20250413,5,Detractor,Muy fácil de usar,Préstamo personal,2025-04-13T09:00:00
+1329,358,2,20250428,3,Detractor,Excelente app,Cuenta corriente,2025-04-28T17:07:00
+1330,144,4,20250417,6,Detractor,Necesito más sucursales,Préstamo personal,2025-04-17T15:39:00
+1331,446,2,20250422,5,Detractor,Mejorar tiempos,Tarjeta crédito,2025-04-22T08:40:00
+1332,9,2,20250411,6,Detractor,Muy buena atención,Préstamo personal,2025-04-11T18:28:00
+1333,249,2,20250520,9,Promotor,Tardaron mucho,Préstamo personal,2025-05-20T14:59:00
+1334,439,3,20250522,10,Promotor,Tardaron mucho,CDT,2025-05-22T12:38:00
+1335,74,4,20250523,9,Promotor,Muy buena atención,Tarjeta crédito,2025-05-23T15:50:00
+1336,427,3,20250510,9,Promotor,Perfecto,Tarjeta crédito,2025-05-10T15:07:00
+1337,277,1,20250522,10,Promotor,Necesito más sucursales,Tarjeta crédito,2025-05-22T18:44:00
+1338,223,4,20250504,9,Promotor,Muy buena atención,Tarjeta crédito,2025-05-04T13:57:00
+1339,144,1,20250525,10,Promotor,Sin comentario,CDT,2025-05-25T18:07:00
+1340,274,2,20250530,9,Promotor,Perfecto,Cuenta corriente,2025-05-30T13:55:00
+1341,295,3,20250530,9,Promotor,Tardaron mucho,Préstamo personal,2025-05-30T14:58:00
+1342,329,3,20250521,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-05-21T11:16:00
+1343,45,1,20250510,9,Promotor,Muy fácil de usar,Nómina,2025-05-10T11:47:00
+1344,189,1,20250519,9,Promotor,Muy fácil de usar,CDT,2025-05-19T17:47:00
+1345,32,2,20250510,9,Promotor,Necesito más sucursales,CDT,2025-05-10T14:20:00
+1346,348,4,20250526,10,Promotor,Excelente app,Nómina,2025-05-26T18:38:00
+1347,203,1,20250504,9,Promotor,Perfecto,Préstamo personal,2025-05-04T10:52:00
+1348,113,2,20250527,10,Promotor,Perfecto,Tarjeta crédito,2025-05-27T17:18:00
+1349,341,3,20250524,9,Promotor,Muy buena atención,Nómina,2025-05-24T13:19:00
+1350,435,3,20250509,9,Promotor,Perfecto,Tarjeta crédito,2025-05-09T15:18:00
+1351,415,1,20250502,10,Promotor,Necesito más sucursales,Tarjeta crédito,2025-05-02T08:59:00
+1352,250,3,20250528,9,Promotor,Sin comentario,Tarjeta crédito,2025-05-28T08:35:00
+1353,217,3,20250511,10,Promotor,Muy fácil de usar,CDT,2025-05-11T14:04:00
+1354,357,4,20250510,10,Promotor,Mejorar tiempos,Cuenta corriente,2025-05-10T10:20:00
+1355,479,3,20250528,9,Promotor,Perfecto,Tarjeta crédito,2025-05-28T17:08:00
+1356,248,1,20250523,10,Promotor,Excelente app,Tarjeta crédito,2025-05-23T11:51:00
+1357,334,1,20250524,9,Promotor,Tardaron mucho,Tarjeta crédito,2025-05-24T14:27:00
+1358,29,1,20250530,9,Promotor,Perfecto,Tarjeta crédito,2025-05-30T08:07:00
+1359,223,4,20250519,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-05-19T08:07:00
+1360,251,1,20250513,9,Promotor,Excelente app,CDT,2025-05-13T18:42:00
+1361,238,4,20250525,9,Promotor,Mejorar tiempos,Préstamo personal,2025-05-25T18:41:00
+1362,6,1,20250512,10,Promotor,Tardaron mucho,Cuenta corriente,2025-05-12T15:41:00
+1363,301,2,20250501,9,Promotor,Perfecto,Préstamo personal,2025-05-01T09:50:00
+1364,248,4,20250513,9,Promotor,Mejorar tiempos,Préstamo personal,2025-05-13T17:08:00
+1365,33,3,20250511,9,Promotor,Excelente app,CDT,2025-05-11T08:25:00
+1366,266,3,20250503,10,Promotor,Tardaron mucho,Tarjeta crédito,2025-05-03T18:57:00
+1367,442,2,20250506,9,Promotor,Excelente app,Cuenta corriente,2025-05-06T16:28:00
+1368,21,1,20250504,10,Promotor,Necesito más sucursales,Tarjeta crédito,2025-05-04T09:35:00
+1369,386,1,20250528,10,Promotor,Tardaron mucho,Nómina,2025-05-28T12:23:00
+1370,484,2,20250514,9,Promotor,Necesito más sucursales,Préstamo personal,2025-05-14T08:33:00
+1371,274,2,20250522,10,Promotor,Perfecto,Préstamo personal,2025-05-22T16:58:00
+1372,276,2,20250520,10,Promotor,Tardaron mucho,Cuenta corriente,2025-05-20T11:02:00
+1373,154,4,20250505,9,Promotor,Necesito más sucursales,Tarjeta crédito,2025-05-05T17:35:00
+1374,184,1,20250519,9,Promotor,Mejorar tiempos,Cuenta corriente,2025-05-19T16:16:00
+1375,333,4,20250513,10,Promotor,Mejorar tiempos,CDT,2025-05-13T09:16:00
+1376,356,1,20250531,10,Promotor,Necesito más sucursales,Cuenta corriente,2025-05-31T18:46:00
+1377,357,2,20250521,10,Promotor,Muy fácil de usar,Nómina,2025-05-21T18:41:00
+1378,421,1,20250514,9,Promotor,Mejorar tiempos,CDT,2025-05-14T08:38:00
+1379,139,1,20250503,9,Promotor,Tardaron mucho,Nómina,2025-05-03T14:04:00
+1380,46,1,20250521,10,Promotor,Muy fácil de usar,Préstamo personal,2025-05-21T10:55:00
+1381,6,1,20250509,9,Promotor,Necesito más sucursales,CDT,2025-05-09T09:50:00
+1382,270,3,20250506,9,Promotor,Sin comentario,Nómina,2025-05-06T15:06:00
+1383,293,4,20250523,10,Promotor,Sin comentario,Nómina,2025-05-23T09:57:00
+1384,163,4,20250506,9,Promotor,Mejorar tiempos,Tarjeta crédito,2025-05-06T13:51:00
+1385,304,1,20250516,10,Promotor,Muy buena atención,Nómina,2025-05-16T10:42:00
+1386,194,2,20250505,9,Promotor,Sin comentario,Cuenta corriente,2025-05-05T18:23:00
+1387,312,2,20250522,9,Promotor,Perfecto,Tarjeta crédito,2025-05-22T15:22:00
+1388,147,1,20250517,10,Promotor,Mejorar tiempos,Nómina,2025-05-17T11:19:00
+1389,157,2,20250531,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-05-31T18:05:00
+1390,123,4,20250524,9,Promotor,Excelente app,Nómina,2025-05-24T08:05:00
+1391,476,2,20250518,10,Promotor,Muy buena atención,CDT,2025-05-18T18:32:00
+1392,255,2,20250516,9,Promotor,Tardaron mucho,CDT,2025-05-16T08:39:00
+1393,426,3,20250530,9,Promotor,Mejorar tiempos,Nómina,2025-05-30T13:15:00
+1394,230,4,20250520,9,Promotor,Necesito más sucursales,Tarjeta crédito,2025-05-20T09:23:00
+1395,181,4,20250517,9,Promotor,Mejorar tiempos,CDT,2025-05-17T14:10:00
+1396,174,4,20250504,10,Promotor,Necesito más sucursales,Nómina,2025-05-04T09:18:00
+1397,151,1,20250516,10,Promotor,Muy buena atención,Nómina,2025-05-16T14:13:00
+1398,478,4,20250530,10,Promotor,Muy buena atención,CDT,2025-05-30T17:54:00
+1399,183,1,20250502,10,Promotor,Perfecto,Préstamo personal,2025-05-02T12:22:00
+1400,180,4,20250501,9,Promotor,Excelente app,CDT,2025-05-01T13:00:00
+1401,252,1,20250514,9,Promotor,Excelente app,CDT,2025-05-14T09:58:00
+1402,80,3,20250501,10,Promotor,Sin comentario,Tarjeta crédito,2025-05-01T15:25:00
+1403,187,2,20250510,10,Promotor,Excelente app,Nómina,2025-05-10T12:06:00
+1404,430,2,20250522,10,Promotor,Excelente app,Préstamo personal,2025-05-22T14:00:00
+1405,446,3,20250529,10,Promotor,Tardaron mucho,Tarjeta crédito,2025-05-29T12:02:00
+1406,216,3,20250513,9,Promotor,Muy buena atención,Tarjeta crédito,2025-05-13T18:12:00
+1407,341,4,20250531,10,Promotor,Tardaron mucho,CDT,2025-05-31T15:35:00
+1408,350,3,20250526,10,Promotor,Muy fácil de usar,CDT,2025-05-26T16:46:00
+1409,57,4,20250505,10,Promotor,Muy buena atención,Tarjeta crédito,2025-05-05T10:22:00
+1410,351,1,20250525,9,Promotor,Muy fácil de usar,CDT,2025-05-25T17:47:00
+1411,246,1,20250514,9,Promotor,Perfecto,Cuenta corriente,2025-05-14T14:15:00
+1412,262,1,20250524,9,Promotor,Sin comentario,Cuenta corriente,2025-05-24T12:44:00
+1413,421,2,20250522,9,Promotor,Perfecto,Cuenta corriente,2025-05-22T16:39:00
+1414,438,2,20250507,9,Promotor,Excelente app,Tarjeta crédito,2025-05-07T09:08:00
+1415,141,4,20250502,10,Promotor,Excelente app,CDT,2025-05-02T08:39:00
+1416,443,1,20250503,9,Promotor,Mejorar tiempos,Nómina,2025-05-03T12:44:00
+1417,173,2,20250508,9,Promotor,Muy buena atención,Nómina,2025-05-08T14:41:00
+1418,57,1,20250510,9,Promotor,Sin comentario,Préstamo personal,2025-05-10T14:15:00
+1419,25,1,20250529,10,Promotor,Muy buena atención,Cuenta corriente,2025-05-29T18:47:00
+1420,147,2,20250507,10,Promotor,Tardaron mucho,CDT,2025-05-07T10:16:00
+1421,172,1,20250512,10,Promotor,Tardaron mucho,Cuenta corriente,2025-05-12T18:35:00
+1422,185,3,20250511,9,Promotor,Muy fácil de usar,Nómina,2025-05-11T16:38:00
+1423,333,1,20250508,10,Promotor,Mejorar tiempos,Cuenta corriente,2025-05-08T09:08:00
+1424,301,4,20250502,9,Promotor,Necesito más sucursales,Tarjeta crédito,2025-05-02T15:59:00
+1425,483,2,20250503,9,Promotor,Muy fácil de usar,Préstamo personal,2025-05-03T15:48:00
+1426,370,1,20250518,9,Promotor,Excelente app,Tarjeta crédito,2025-05-18T14:35:00
+1427,450,3,20250529,10,Promotor,Muy fácil de usar,Préstamo personal,2025-05-29T15:40:00
+1428,224,1,20250530,9,Promotor,Mejorar tiempos,Nómina,2025-05-30T16:50:00
+1429,307,1,20250506,9,Promotor,Excelente app,Préstamo personal,2025-05-06T08:36:00
+1430,498,3,20250526,9,Promotor,Mejorar tiempos,CDT,2025-05-26T18:34:00
+1431,225,3,20250506,9,Promotor,Mejorar tiempos,Nómina,2025-05-06T14:25:00
+1432,95,1,20250507,10,Promotor,Necesito más sucursales,Nómina,2025-05-07T08:56:00
+1433,363,3,20250517,10,Promotor,Sin comentario,Préstamo personal,2025-05-17T11:18:00
+1434,61,1,20250518,10,Promotor,Muy buena atención,Nómina,2025-05-18T11:18:00
+1435,76,4,20250521,9,Promotor,Sin comentario,Tarjeta crédito,2025-05-21T12:55:00
+1436,128,4,20250521,9,Promotor,Necesito más sucursales,Nómina,2025-05-21T09:00:00
+1437,310,4,20250521,10,Promotor,Muy fácil de usar,Cuenta corriente,2025-05-21T16:16:00
+1438,460,2,20250514,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-05-14T18:52:00
+1439,183,1,20250527,9,Promotor,Sin comentario,Tarjeta crédito,2025-05-27T12:01:00
+1440,382,3,20250524,9,Promotor,Sin comentario,Nómina,2025-05-24T16:13:00
+1441,167,1,20250508,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-05-08T15:14:00
+1442,76,4,20250512,10,Promotor,Tardaron mucho,CDT,2025-05-12T10:29:00
+1443,442,1,20250527,9,Promotor,Perfecto,Tarjeta crédito,2025-05-27T18:18:00
+1444,84,4,20250510,9,Promotor,Mejorar tiempos,Nómina,2025-05-10T11:04:00
+1445,219,1,20250503,9,Promotor,Mejorar tiempos,Cuenta corriente,2025-05-03T16:08:00
+1446,52,1,20250520,9,Promotor,Muy buena atención,Cuenta corriente,2025-05-20T08:48:00
+1447,128,3,20250505,9,Promotor,Sin comentario,Tarjeta crédito,2025-05-05T18:38:00
+1448,495,1,20250526,9,Promotor,Tardaron mucho,Nómina,2025-05-26T13:54:00
+1449,72,2,20250507,9,Promotor,Perfecto,Tarjeta crédito,2025-05-07T12:21:00
+1450,125,1,20250505,10,Promotor,Sin comentario,Nómina,2025-05-05T09:01:00
+1451,279,1,20250504,9,Promotor,Mejorar tiempos,Tarjeta crédito,2025-05-04T08:58:00
+1452,117,2,20250501,9,Promotor,Excelente app,Préstamo personal,2025-05-01T18:18:00
+1453,451,3,20250530,9,Promotor,Tardaron mucho,CDT,2025-05-30T10:07:00
+1454,490,4,20250504,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-05-04T17:21:00
+1455,473,4,20250512,9,Promotor,Tardaron mucho,Cuenta corriente,2025-05-12T17:09:00
+1456,272,1,20250514,9,Promotor,Excelente app,CDT,2025-05-14T10:57:00
+1457,419,1,20250520,10,Promotor,Tardaron mucho,Préstamo personal,2025-05-20T15:42:00
+1458,136,3,20250530,10,Promotor,Tardaron mucho,Cuenta corriente,2025-05-30T10:49:00
+1459,76,2,20250511,9,Promotor,Perfecto,Cuenta corriente,2025-05-11T09:36:00
+1460,373,1,20250531,10,Promotor,Tardaron mucho,Préstamo personal,2025-05-31T10:11:00
+1461,164,2,20250512,10,Promotor,Perfecto,CDT,2025-05-12T17:50:00
+1462,411,4,20250505,10,Promotor,Necesito más sucursales,CDT,2025-05-05T14:35:00
+1463,274,2,20250518,10,Promotor,Necesito más sucursales,CDT,2025-05-18T09:37:00
+1464,296,3,20250517,10,Promotor,Necesito más sucursales,Cuenta corriente,2025-05-17T11:23:00
+1465,436,1,20250507,9,Promotor,Perfecto,Tarjeta crédito,2025-05-07T09:03:00
+1466,435,3,20250512,10,Promotor,Excelente app,Préstamo personal,2025-05-12T15:09:00
+1467,108,3,20250508,10,Promotor,Muy buena atención,Tarjeta crédito,2025-05-08T09:44:00
+1468,376,1,20250513,9,Promotor,Mejorar tiempos,Préstamo personal,2025-05-13T08:44:00
+1469,298,1,20250522,9,Promotor,Excelente app,Cuenta corriente,2025-05-22T10:23:00
+1470,126,1,20250503,9,Promotor,Mejorar tiempos,Tarjeta crédito,2025-05-03T10:30:00
+1471,271,3,20250524,9,Promotor,Sin comentario,CDT,2025-05-24T14:46:00
+1472,401,2,20250515,10,Promotor,Muy buena atención,Préstamo personal,2025-05-15T09:09:00
+1473,329,1,20250529,9,Promotor,Excelente app,Nómina,2025-05-29T10:00:00
+1474,217,3,20250527,10,Promotor,Perfecto,Nómina,2025-05-27T12:58:00
+1475,117,2,20250523,10,Promotor,Excelente app,Préstamo personal,2025-05-23T09:33:00
+1476,65,3,20250531,10,Promotor,Mejorar tiempos,Nómina,2025-05-31T08:14:00
+1477,422,3,20250506,10,Promotor,Tardaron mucho,CDT,2025-05-06T15:20:00
+1478,195,1,20250527,10,Promotor,Muy fácil de usar,CDT,2025-05-27T11:17:00
+1479,40,1,20250504,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-05-04T11:18:00
+1480,55,1,20250518,9,Promotor,Muy buena atención,Préstamo personal,2025-05-18T11:35:00
+1481,476,1,20250521,9,Promotor,Sin comentario,Cuenta corriente,2025-05-21T17:36:00
+1482,405,2,20250519,9,Promotor,Muy buena atención,Préstamo personal,2025-05-19T09:19:00
+1483,385,1,20250512,9,Promotor,Mejorar tiempos,Nómina,2025-05-12T11:20:00
+1484,183,4,20250524,10,Promotor,Tardaron mucho,Préstamo personal,2025-05-24T14:57:00
+1485,414,3,20250517,9,Promotor,Muy buena atención,Nómina,2025-05-17T14:30:00
+1486,83,1,20250510,9,Promotor,Perfecto,Cuenta corriente,2025-05-10T18:05:00
+1487,111,3,20250529,9,Promotor,Excelente app,Tarjeta crédito,2025-05-29T16:33:00
+1488,403,1,20250515,10,Promotor,Sin comentario,Préstamo personal,2025-05-15T17:54:00
+1489,457,3,20250502,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-05-02T11:39:00
+1490,79,2,20250531,9,Promotor,Perfecto,Cuenta corriente,2025-05-31T08:09:00
+1491,445,4,20250518,10,Promotor,Tardaron mucho,CDT,2025-05-18T09:29:00
+1492,479,1,20250506,10,Promotor,Tardaron mucho,Préstamo personal,2025-05-06T17:23:00
+1493,37,1,20250503,10,Promotor,Perfecto,Préstamo personal,2025-05-03T15:16:00
+1494,474,1,20250521,10,Promotor,Tardaron mucho,Nómina,2025-05-21T15:02:00
+1495,147,2,20250528,10,Promotor,Excelente app,CDT,2025-05-28T13:32:00
+1496,43,3,20250512,10,Promotor,Perfecto,Préstamo personal,2025-05-12T18:02:00
+1497,405,1,20250524,9,Promotor,Muy buena atención,Tarjeta crédito,2025-05-24T09:18:00
+1498,292,2,20250506,10,Promotor,Tardaron mucho,Tarjeta crédito,2025-05-06T14:55:00
+1499,48,1,20250522,10,Promotor,Perfecto,Nómina,2025-05-22T15:06:00
+1500,375,1,20250506,9,Promotor,Mejorar tiempos,CDT,2025-05-06T11:25:00
+1501,163,1,20250503,10,Promotor,Perfecto,Tarjeta crédito,2025-05-03T15:07:00
+1502,20,2,20250515,10,Promotor,Perfecto,Tarjeta crédito,2025-05-15T18:13:00
+1503,17,4,20250519,10,Promotor,Mejorar tiempos,Cuenta corriente,2025-05-19T13:50:00
+1504,110,1,20250516,10,Promotor,Muy buena atención,CDT,2025-05-16T12:16:00
+1505,73,1,20250503,9,Promotor,Mejorar tiempos,Cuenta corriente,2025-05-03T12:55:00
+1506,215,2,20250528,10,Promotor,Sin comentario,Tarjeta crédito,2025-05-28T08:05:00
+1507,494,3,20250511,10,Promotor,Excelente app,Tarjeta crédito,2025-05-11T13:26:00
+1508,275,3,20250516,10,Promotor,Excelente app,CDT,2025-05-16T13:58:00
+1509,6,2,20250527,10,Promotor,Necesito más sucursales,Cuenta corriente,2025-05-27T18:37:00
+1510,341,4,20250511,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-05-11T10:57:00
+1511,76,2,20250530,10,Promotor,Muy fácil de usar,Cuenta corriente,2025-05-30T18:26:00
+1512,370,1,20250517,10,Promotor,Perfecto,Tarjeta crédito,2025-05-17T18:28:00
+1513,112,3,20250502,9,Promotor,Necesito más sucursales,CDT,2025-05-02T16:49:00
+1514,194,1,20250520,9,Promotor,Necesito más sucursales,Tarjeta crédito,2025-05-20T18:36:00
+1515,417,1,20250512,9,Promotor,Sin comentario,Préstamo personal,2025-05-12T16:52:00
+1516,256,2,20250523,9,Promotor,Perfecto,CDT,2025-05-23T14:22:00
+1517,278,2,20250527,10,Promotor,Muy fácil de usar,Cuenta corriente,2025-05-27T10:29:00
+1518,91,2,20250512,10,Promotor,Excelente app,Nómina,2025-05-12T14:24:00
+1519,338,3,20250528,10,Promotor,Mejorar tiempos,Préstamo personal,2025-05-28T17:59:00
+1520,413,3,20250503,9,Promotor,Tardaron mucho,Cuenta corriente,2025-05-03T17:59:00
+1521,255,3,20250504,10,Promotor,Tardaron mucho,CDT,2025-05-04T16:37:00
+1522,149,4,20250522,9,Promotor,Necesito más sucursales,Tarjeta crédito,2025-05-22T15:35:00
+1523,101,4,20250504,10,Promotor,Tardaron mucho,Préstamo personal,2025-05-04T15:26:00
+1524,482,1,20250501,10,Promotor,Necesito más sucursales,Nómina,2025-05-01T12:17:00
+1525,430,4,20250510,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-05-10T08:57:00
+1526,8,1,20250502,10,Promotor,Muy fácil de usar,Nómina,2025-05-02T17:20:00
+1527,492,2,20250506,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-05-06T16:25:00
+1528,330,2,20250520,9,Promotor,Muy buena atención,Nómina,2025-05-20T14:08:00
+1529,89,2,20250524,10,Promotor,Muy fácil de usar,Nómina,2025-05-24T10:27:00
+1530,364,3,20250504,9,Promotor,Tardaron mucho,Nómina,2025-05-04T14:53:00
+1531,284,1,20250527,10,Promotor,Muy fácil de usar,Tarjeta crédito,2025-05-27T09:05:00
+1532,6,2,20250514,9,Promotor,Excelente app,Cuenta corriente,2025-05-14T17:45:00
+1533,196,1,20250519,9,Promotor,Excelente app,CDT,2025-05-19T18:40:00
+1534,123,2,20250506,10,Promotor,Necesito más sucursales,Préstamo personal,2025-05-06T11:34:00
+1535,400,3,20250524,9,Promotor,Mejorar tiempos,Préstamo personal,2025-05-24T18:03:00
+1536,479,1,20250503,10,Promotor,Muy buena atención,Nómina,2025-05-03T09:07:00
+1537,306,1,20250530,10,Promotor,Excelente app,Préstamo personal,2025-05-30T12:57:00
+1538,40,2,20250503,9,Promotor,Muy fácil de usar,Tarjeta crédito,2025-05-03T14:06:00
+1539,12,2,20250526,10,Promotor,Perfecto,Cuenta corriente,2025-05-26T11:43:00
+1540,456,1,20250513,10,Promotor,Perfecto,Tarjeta crédito,2025-05-13T10:19:00
+1541,92,2,20250529,9,Promotor,Muy buena atención,Cuenta corriente,2025-05-29T13:22:00
+1542,308,2,20250520,10,Promotor,Excelente app,Nómina,2025-05-20T12:59:00
+1543,311,1,20250507,9,Promotor,Muy buena atención,Nómina,2025-05-07T16:48:00
+1544,444,1,20250507,9,Promotor,Necesito más sucursales,Cuenta corriente,2025-05-07T13:08:00
+1545,373,3,20250503,9,Promotor,Excelente app,Préstamo personal,2025-05-03T12:30:00
+1546,48,1,20250531,9,Promotor,Sin comentario,CDT,2025-05-31T15:27:00
+1547,99,1,20250530,10,Promotor,Necesito más sucursales,Préstamo personal,2025-05-30T14:06:00
+1548,407,1,20250506,10,Promotor,Perfecto,CDT,2025-05-06T15:27:00
+1549,164,2,20250527,10,Promotor,Mejorar tiempos,CDT,2025-05-27T11:36:00
+1550,460,2,20250512,10,Promotor,Tardaron mucho,CDT,2025-05-12T10:56:00
+1551,262,1,20250531,9,Promotor,Mejorar tiempos,Préstamo personal,2025-05-31T17:52:00
+1552,16,1,20250513,10,Promotor,Muy fácil de usar,CDT,2025-05-13T10:22:00
+1553,111,2,20250503,9,Promotor,Muy fácil de usar,Tarjeta crédito,2025-05-03T13:07:00
+1554,353,1,20250511,9,Promotor,Muy fácil de usar,Tarjeta crédito,2025-05-11T15:36:00
+1555,120,2,20250529,10,Promotor,Mejorar tiempos,Préstamo personal,2025-05-29T17:13:00
+1556,288,1,20250504,9,Promotor,Tardaron mucho,Nómina,2025-05-04T18:26:00
+1557,417,1,20250511,10,Promotor,Necesito más sucursales,Cuenta corriente,2025-05-11T15:31:00
+1558,216,1,20250509,9,Promotor,Perfecto,Tarjeta crédito,2025-05-09T17:20:00
+1559,296,1,20250508,10,Promotor,Muy buena atención,Nómina,2025-05-08T08:58:00
+1560,68,3,20250510,10,Promotor,Mejorar tiempos,Cuenta corriente,2025-05-10T16:58:00
+1561,331,1,20250511,9,Promotor,Perfecto,Cuenta corriente,2025-05-11T14:46:00
+1562,163,3,20250509,10,Promotor,Mejorar tiempos,Cuenta corriente,2025-05-09T16:49:00
+1563,314,1,20250516,10,Promotor,Sin comentario,CDT,2025-05-16T15:54:00
+1564,192,4,20250527,9,Promotor,Tardaron mucho,Cuenta corriente,2025-05-27T11:03:00
+1565,54,4,20250505,9,Promotor,Mejorar tiempos,Tarjeta crédito,2025-05-05T10:05:00
+1566,462,3,20250524,9,Promotor,Muy buena atención,Cuenta corriente,2025-05-24T12:56:00
+1567,25,4,20250504,9,Promotor,Tardaron mucho,Préstamo personal,2025-05-04T13:44:00
+1568,358,1,20250509,10,Promotor,Excelente app,Nómina,2025-05-09T15:07:00
+1569,442,1,20250511,9,Promotor,Mejorar tiempos,CDT,2025-05-11T18:07:00
+1570,245,2,20250519,9,Promotor,Sin comentario,Préstamo personal,2025-05-19T15:14:00
+1571,393,1,20250509,9,Promotor,Tardaron mucho,Préstamo personal,2025-05-09T16:53:00
+1572,332,3,20250522,9,Promotor,Necesito más sucursales,Cuenta corriente,2025-05-22T09:31:00
+1573,7,3,20250507,9,Promotor,Perfecto,CDT,2025-05-07T11:31:00
+1574,107,3,20250511,9,Promotor,Muy fácil de usar,Préstamo personal,2025-05-11T15:41:00
+1575,259,1,20250528,9,Promotor,Excelente app,Tarjeta crédito,2025-05-28T13:24:00
+1576,318,2,20250528,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-05-28T09:17:00
+1577,352,1,20250506,10,Promotor,Tardaron mucho,Tarjeta crédito,2025-05-06T15:56:00
+1578,57,1,20250524,9,Promotor,Perfecto,Tarjeta crédito,2025-05-24T12:01:00
+1579,272,2,20250522,10,Promotor,Sin comentario,Cuenta corriente,2025-05-22T16:05:00
+1580,109,1,20250514,10,Promotor,Mejorar tiempos,Nómina,2025-05-14T13:03:00
+1581,190,1,20250509,10,Promotor,Mejorar tiempos,CDT,2025-05-09T11:18:00
+1582,91,2,20250513,9,Promotor,Perfecto,Nómina,2025-05-13T14:06:00
+1583,128,4,20250521,9,Promotor,Necesito más sucursales,Cuenta corriente,2025-05-21T08:57:00
+1584,137,1,20250519,9,Promotor,Tardaron mucho,Préstamo personal,2025-05-19T11:56:00
+1585,202,1,20250513,10,Promotor,Sin comentario,CDT,2025-05-13T11:10:00
+1586,327,1,20250512,9,Promotor,Sin comentario,Cuenta corriente,2025-05-12T09:11:00
+1587,157,4,20250524,10,Promotor,Necesito más sucursales,Tarjeta crédito,2025-05-24T13:43:00
+1588,96,1,20250506,7,Pasivo,Perfecto,Tarjeta crédito,2025-05-06T08:42:00
+1589,172,1,20250514,8,Pasivo,Sin comentario,Cuenta corriente,2025-05-14T10:43:00
+1590,181,4,20250520,7,Pasivo,Muy buena atención,CDT,2025-05-20T11:30:00
+1591,420,1,20250502,7,Pasivo,Sin comentario,Tarjeta crédito,2025-05-02T16:32:00
+1592,76,3,20250525,7,Pasivo,Tardaron mucho,Préstamo personal,2025-05-25T13:28:00
+1593,180,4,20250524,8,Pasivo,Sin comentario,CDT,2025-05-24T12:23:00
+1594,424,1,20250501,8,Pasivo,Muy fácil de usar,Nómina,2025-05-01T18:54:00
+1595,139,3,20250504,8,Pasivo,Muy buena atención,Tarjeta crédito,2025-05-04T14:54:00
+1596,73,1,20250522,7,Pasivo,Muy buena atención,Tarjeta crédito,2025-05-22T17:47:00
+1597,106,3,20250512,8,Pasivo,Necesito más sucursales,CDT,2025-05-12T18:06:00
+1598,321,3,20250529,8,Pasivo,Perfecto,Nómina,2025-05-29T10:16:00
+1599,170,2,20250529,8,Pasivo,Mejorar tiempos,Préstamo personal,2025-05-29T12:12:00
+1600,267,3,20250519,7,Pasivo,Tardaron mucho,CDT,2025-05-19T15:36:00
+1601,57,4,20250510,8,Pasivo,Perfecto,Tarjeta crédito,2025-05-10T15:43:00
+1602,495,1,20250517,7,Pasivo,Excelente app,Préstamo personal,2025-05-17T15:18:00
+1603,151,1,20250526,7,Pasivo,Muy buena atención,Tarjeta crédito,2025-05-26T12:52:00
+1604,251,1,20250502,7,Pasivo,Mejorar tiempos,Préstamo personal,2025-05-02T18:53:00
+1605,129,1,20250502,7,Pasivo,Sin comentario,Nómina,2025-05-02T18:49:00
+1606,45,3,20250531,7,Pasivo,Excelente app,Tarjeta crédito,2025-05-31T14:37:00
+1607,113,1,20250510,7,Pasivo,Muy fácil de usar,Tarjeta crédito,2025-05-10T18:40:00
+1608,205,4,20250514,8,Pasivo,Tardaron mucho,Préstamo personal,2025-05-14T12:38:00
+1609,289,2,20250506,8,Pasivo,Muy fácil de usar,Nómina,2025-05-06T10:43:00
+1610,70,2,20250509,7,Pasivo,Necesito más sucursales,Préstamo personal,2025-05-09T12:05:00
+1611,475,2,20250519,8,Pasivo,Excelente app,CDT,2025-05-19T14:06:00
+1612,227,3,20250517,7,Pasivo,Muy fácil de usar,CDT,2025-05-17T13:27:00
+1613,493,2,20250514,8,Pasivo,Muy buena atención,Nómina,2025-05-14T08:49:00
+1614,387,1,20250503,8,Pasivo,Sin comentario,Tarjeta crédito,2025-05-03T17:32:00
+1615,318,2,20250505,8,Pasivo,Sin comentario,Cuenta corriente,2025-05-05T14:08:00
+1616,4,2,20250522,8,Pasivo,Perfecto,Cuenta corriente,2025-05-22T09:03:00
+1617,333,1,20250527,8,Pasivo,Tardaron mucho,Préstamo personal,2025-05-27T17:30:00
+1618,32,1,20250528,8,Pasivo,Muy buena atención,Tarjeta crédito,2025-05-28T16:09:00
+1619,115,4,20250505,8,Pasivo,Excelente app,Préstamo personal,2025-05-05T18:19:00
+1620,249,2,20250526,7,Pasivo,Necesito más sucursales,Cuenta corriente,2025-05-26T09:00:00
+1621,451,1,20250520,7,Pasivo,Tardaron mucho,Tarjeta crédito,2025-05-20T11:06:00
+1622,427,2,20250501,8,Pasivo,Mejorar tiempos,Cuenta corriente,2025-05-01T09:19:00
+1623,95,3,20250516,8,Pasivo,Sin comentario,Nómina,2025-05-16T18:28:00
+1624,75,2,20250514,7,Pasivo,Excelente app,Tarjeta crédito,2025-05-14T18:15:00
+1625,380,3,20250517,7,Pasivo,Necesito más sucursales,CDT,2025-05-17T15:18:00
+1626,52,4,20250522,8,Pasivo,Perfecto,Préstamo personal,2025-05-22T18:17:00
+1627,358,3,20250513,8,Pasivo,Perfecto,CDT,2025-05-13T14:09:00
+1628,235,1,20250510,7,Pasivo,Mejorar tiempos,Cuenta corriente,2025-05-10T17:19:00
+1629,334,4,20250521,7,Pasivo,Perfecto,Cuenta corriente,2025-05-21T13:08:00
+1630,371,2,20250529,8,Pasivo,Muy buena atención,Tarjeta crédito,2025-05-29T13:32:00
+1631,463,3,20250512,7,Pasivo,Mejorar tiempos,Nómina,2025-05-12T09:11:00
+1632,336,3,20250512,7,Pasivo,Muy fácil de usar,CDT,2025-05-12T10:17:00
+1633,338,1,20250525,6,Detractor,Mejorar tiempos,Cuenta corriente,2025-05-25T18:30:00
+1634,242,2,20250531,3,Detractor,Excelente app,Nómina,2025-05-31T16:49:00
+1635,133,1,20250517,5,Detractor,Muy fácil de usar,Nómina,2025-05-17T17:22:00
+1636,425,2,20250520,4,Detractor,Muy buena atención,Cuenta corriente,2025-05-20T10:14:00
+1637,55,2,20250522,0,Detractor,Perfecto,Préstamo personal,2025-05-22T11:49:00
+1638,376,3,20250530,6,Detractor,Tardaron mucho,Tarjeta crédito,2025-05-30T14:48:00
+1639,33,1,20250530,3,Detractor,Sin comentario,Cuenta corriente,2025-05-30T08:54:00
+1640,227,3,20250503,5,Detractor,Muy buena atención,Tarjeta crédito,2025-05-03T13:06:00
+1641,194,1,20250515,5,Detractor,Necesito más sucursales,Tarjeta crédito,2025-05-15T12:31:00
+1642,147,1,20250522,3,Detractor,Excelente app,CDT,2025-05-22T16:51:00
+1643,45,2,20250507,6,Detractor,Tardaron mucho,Tarjeta crédito,2025-05-07T08:51:00
+1644,3,1,20250529,1,Detractor,Mejorar tiempos,Nómina,2025-05-29T16:55:00
+1645,95,3,20250511,0,Detractor,Perfecto,Tarjeta crédito,2025-05-11T11:36:00
+1646,257,1,20250516,6,Detractor,Excelente app,Cuenta corriente,2025-05-16T15:27:00
+1647,448,1,20250513,5,Detractor,Tardaron mucho,Tarjeta crédito,2025-05-13T16:19:00
+1648,256,1,20250504,0,Detractor,Muy fácil de usar,Cuenta corriente,2025-05-04T11:52:00
+1649,425,1,20250530,2,Detractor,Muy fácil de usar,Cuenta corriente,2025-05-30T10:18:00
+1650,295,1,20250518,0,Detractor,Sin comentario,CDT,2025-05-18T17:03:00
+1651,457,1,20250523,4,Detractor,Perfecto,Préstamo personal,2025-05-23T18:01:00
+1652,216,1,20250511,0,Detractor,Muy fácil de usar,Cuenta corriente,2025-05-11T10:13:00
+1653,376,1,20250527,4,Detractor,Muy buena atención,Tarjeta crédito,2025-05-27T15:04:00
+1654,289,4,20250531,6,Detractor,Muy buena atención,Préstamo personal,2025-05-31T09:26:00
+1655,314,4,20250524,4,Detractor,Perfecto,Tarjeta crédito,2025-05-24T12:46:00
+1656,19,2,20250504,0,Detractor,Necesito más sucursales,Préstamo personal,2025-05-04T14:30:00
+1657,436,4,20250526,2,Detractor,Necesito más sucursales,Cuenta corriente,2025-05-26T08:01:00
+1658,416,1,20250526,6,Detractor,Mejorar tiempos,Cuenta corriente,2025-05-26T16:30:00
+1659,393,1,20250513,0,Detractor,Excelente app,CDT,2025-05-13T14:35:00
+1660,225,1,20250504,1,Detractor,Muy fácil de usar,Préstamo personal,2025-05-04T11:21:00
+1661,30,1,20250530,3,Detractor,Tardaron mucho,Nómina,2025-05-30T08:14:00
+1662,386,4,20250524,3,Detractor,Muy buena atención,Cuenta corriente,2025-05-24T11:52:00
+1663,30,1,20250503,0,Detractor,Excelente app,Préstamo personal,2025-05-03T08:20:00
+1664,336,4,20250520,2,Detractor,Sin comentario,Tarjeta crédito,2025-05-20T17:25:00
+1665,63,2,20250522,3,Detractor,Tardaron mucho,Préstamo personal,2025-05-22T16:13:00
+1666,377,3,20250623,10,Promotor,Necesito más sucursales,CDT,2025-06-23T12:23:00
+1667,335,1,20250628,10,Promotor,Sin comentario,Préstamo personal,2025-06-28T16:32:00
+1668,178,4,20250602,9,Promotor,Perfecto,Préstamo personal,2025-06-02T09:13:00
+1669,500,2,20250627,9,Promotor,Sin comentario,Nómina,2025-06-27T11:07:00
+1670,418,3,20250624,10,Promotor,Muy buena atención,Tarjeta crédito,2025-06-24T15:41:00
+1671,11,2,20250604,10,Promotor,Muy buena atención,Préstamo personal,2025-06-04T12:37:00
+1672,424,4,20250610,10,Promotor,Muy buena atención,Préstamo personal,2025-06-10T17:24:00
+1673,442,2,20250601,10,Promotor,Perfecto,Cuenta corriente,2025-06-01T11:13:00
+1674,338,2,20250606,10,Promotor,Muy buena atención,Préstamo personal,2025-06-06T08:34:00
+1675,14,4,20250630,10,Promotor,Muy fácil de usar,Préstamo personal,2025-06-30T17:13:00
+1676,372,3,20250611,9,Promotor,Mejorar tiempos,CDT,2025-06-11T08:51:00
+1677,199,4,20250618,9,Promotor,Sin comentario,Nómina,2025-06-18T15:27:00
+1678,492,2,20250606,10,Promotor,Necesito más sucursales,Tarjeta crédito,2025-06-06T08:17:00
+1679,128,3,20250603,10,Promotor,Sin comentario,Préstamo personal,2025-06-03T17:25:00
+1680,141,1,20250620,9,Promotor,Sin comentario,Nómina,2025-06-20T08:07:00
+1681,339,1,20250619,10,Promotor,Sin comentario,Tarjeta crédito,2025-06-19T15:29:00
+1682,5,2,20250615,9,Promotor,Muy fácil de usar,CDT,2025-06-15T18:54:00
+1683,30,2,20250614,9,Promotor,Tardaron mucho,Préstamo personal,2025-06-14T17:35:00
+1684,226,1,20250603,10,Promotor,Sin comentario,Préstamo personal,2025-06-03T15:08:00
+1685,90,1,20250621,9,Promotor,Muy buena atención,Tarjeta crédito,2025-06-21T09:41:00
+1686,351,2,20250606,9,Promotor,Perfecto,Nómina,2025-06-06T13:02:00
+1687,488,3,20250602,9,Promotor,Sin comentario,Préstamo personal,2025-06-02T08:43:00
+1688,368,1,20250618,10,Promotor,Necesito más sucursales,Préstamo personal,2025-06-18T09:04:00
+1689,262,1,20250604,10,Promotor,Necesito más sucursales,Préstamo personal,2025-06-04T17:23:00
+1690,329,2,20250603,10,Promotor,Sin comentario,Tarjeta crédito,2025-06-03T08:20:00
+1691,500,2,20250611,10,Promotor,Muy fácil de usar,CDT,2025-06-11T12:39:00
+1692,189,1,20250606,9,Promotor,Excelente app,Nómina,2025-06-06T08:06:00
+1693,161,2,20250626,9,Promotor,Muy fácil de usar,Tarjeta crédito,2025-06-26T14:53:00
+1694,372,1,20250622,9,Promotor,Tardaron mucho,Cuenta corriente,2025-06-22T11:36:00
+1695,376,1,20250618,10,Promotor,Muy buena atención,Nómina,2025-06-18T15:42:00
+1696,138,1,20250611,10,Promotor,Sin comentario,Tarjeta crédito,2025-06-11T13:15:00
+1697,234,1,20250608,10,Promotor,Tardaron mucho,Tarjeta crédito,2025-06-08T15:46:00
+1698,41,1,20250612,10,Promotor,Tardaron mucho,Préstamo personal,2025-06-12T18:30:00
+1699,403,2,20250615,9,Promotor,Excelente app,Nómina,2025-06-15T11:49:00
+1700,300,2,20250622,10,Promotor,Sin comentario,Préstamo personal,2025-06-22T13:20:00
+1701,210,2,20250603,9,Promotor,Excelente app,Nómina,2025-06-03T15:40:00
+1702,93,4,20250629,9,Promotor,Muy buena atención,Tarjeta crédito,2025-06-29T09:26:00
+1703,284,3,20250625,10,Promotor,Perfecto,Cuenta corriente,2025-06-25T10:55:00
+1704,221,1,20250627,9,Promotor,Excelente app,Cuenta corriente,2025-06-27T10:32:00
+1705,217,1,20250629,10,Promotor,Mejorar tiempos,Nómina,2025-06-29T11:45:00
+1706,173,4,20250604,10,Promotor,Muy fácil de usar,Nómina,2025-06-04T17:39:00
+1707,24,1,20250624,9,Promotor,Muy fácil de usar,CDT,2025-06-24T14:40:00
+1708,428,2,20250624,10,Promotor,Perfecto,Tarjeta crédito,2025-06-24T10:46:00
+1709,459,1,20250605,9,Promotor,Muy fácil de usar,CDT,2025-06-05T14:20:00
+1710,261,3,20250606,10,Promotor,Sin comentario,Cuenta corriente,2025-06-06T11:19:00
+1711,25,2,20250611,10,Promotor,Mejorar tiempos,Préstamo personal,2025-06-11T13:24:00
+1712,92,4,20250625,10,Promotor,Muy buena atención,Tarjeta crédito,2025-06-25T14:33:00
+1713,451,2,20250619,10,Promotor,Tardaron mucho,Préstamo personal,2025-06-19T12:10:00
+1714,141,2,20250610,9,Promotor,Necesito más sucursales,Tarjeta crédito,2025-06-10T12:58:00
+1715,386,1,20250620,10,Promotor,Necesito más sucursales,Préstamo personal,2025-06-20T10:06:00
+1716,430,2,20250618,9,Promotor,Excelente app,Cuenta corriente,2025-06-18T17:57:00
+1717,277,2,20250629,9,Promotor,Necesito más sucursales,Cuenta corriente,2025-06-29T15:53:00
+1718,105,1,20250612,9,Promotor,Mejorar tiempos,CDT,2025-06-12T16:08:00
+1719,471,1,20250610,10,Promotor,Tardaron mucho,CDT,2025-06-10T14:31:00
+1720,443,1,20250603,10,Promotor,Sin comentario,Cuenta corriente,2025-06-03T13:51:00
+1721,407,1,20250624,9,Promotor,Tardaron mucho,Préstamo personal,2025-06-24T10:32:00
+1722,233,2,20250609,10,Promotor,Tardaron mucho,Préstamo personal,2025-06-09T08:27:00
+1723,362,3,20250630,9,Promotor,Muy fácil de usar,Tarjeta crédito,2025-06-30T16:42:00
+1724,322,1,20250621,9,Promotor,Excelente app,Nómina,2025-06-21T14:55:00
+1725,101,1,20250622,9,Promotor,Excelente app,CDT,2025-06-22T10:46:00
+1726,68,1,20250610,10,Promotor,Tardaron mucho,Nómina,2025-06-10T11:00:00
+1727,252,2,20250603,10,Promotor,Necesito más sucursales,Tarjeta crédito,2025-06-03T08:26:00
+1728,195,2,20250620,10,Promotor,Necesito más sucursales,Préstamo personal,2025-06-20T15:33:00
+1729,154,3,20250629,9,Promotor,Sin comentario,CDT,2025-06-29T15:50:00
+1730,183,2,20250620,10,Promotor,Sin comentario,Cuenta corriente,2025-06-20T11:07:00
+1731,497,2,20250614,10,Promotor,Necesito más sucursales,CDT,2025-06-14T09:11:00
+1732,339,1,20250611,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-06-11T15:53:00
+1733,211,3,20250620,10,Promotor,Muy buena atención,Préstamo personal,2025-06-20T12:32:00
+1734,436,3,20250629,9,Promotor,Muy buena atención,Nómina,2025-06-29T13:16:00
+1735,201,3,20250614,10,Promotor,Mejorar tiempos,CDT,2025-06-14T12:58:00
+1736,249,3,20250609,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-06-09T12:28:00
+1737,294,4,20250608,10,Promotor,Necesito más sucursales,Cuenta corriente,2025-06-08T17:39:00
+1738,310,2,20250605,10,Promotor,Muy buena atención,CDT,2025-06-05T09:49:00
+1739,181,3,20250630,10,Promotor,Tardaron mucho,Cuenta corriente,2025-06-30T16:13:00
+1740,102,4,20250618,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-06-18T12:51:00
+1741,192,1,20250630,9,Promotor,Necesito más sucursales,Nómina,2025-06-30T11:00:00
+1742,11,3,20250628,9,Promotor,Tardaron mucho,Nómina,2025-06-28T14:50:00
+1743,81,1,20250602,10,Promotor,Muy buena atención,Tarjeta crédito,2025-06-02T18:49:00
+1744,140,3,20250602,9,Promotor,Mejorar tiempos,CDT,2025-06-02T10:52:00
+1745,44,1,20250628,10,Promotor,Mejorar tiempos,Cuenta corriente,2025-06-28T08:47:00
+1746,377,2,20250604,9,Promotor,Mejorar tiempos,Tarjeta crédito,2025-06-04T17:54:00
+1747,166,2,20250626,10,Promotor,Muy buena atención,Préstamo personal,2025-06-26T12:29:00
+1748,136,4,20250604,9,Promotor,Perfecto,CDT,2025-06-04T12:27:00
+1749,496,2,20250608,9,Promotor,Sin comentario,CDT,2025-06-08T12:58:00
+1750,9,4,20250613,9,Promotor,Mejorar tiempos,Préstamo personal,2025-06-13T16:45:00
+1751,115,2,20250615,9,Promotor,Muy buena atención,CDT,2025-06-15T11:28:00
+1752,289,1,20250616,10,Promotor,Sin comentario,Préstamo personal,2025-06-16T10:51:00
+1753,288,1,20250604,9,Promotor,Perfecto,Nómina,2025-06-04T11:05:00
+1754,316,3,20250613,9,Promotor,Necesito más sucursales,Cuenta corriente,2025-06-13T15:16:00
+1755,380,1,20250610,10,Promotor,Excelente app,Cuenta corriente,2025-06-10T13:44:00
+1756,3,1,20250628,10,Promotor,Necesito más sucursales,Nómina,2025-06-28T15:34:00
+1757,492,2,20250611,10,Promotor,Muy fácil de usar,CDT,2025-06-11T15:32:00
+1758,54,2,20250630,9,Promotor,Tardaron mucho,CDT,2025-06-30T10:48:00
+1759,267,3,20250606,9,Promotor,Excelente app,Tarjeta crédito,2025-06-06T15:55:00
+1760,454,2,20250602,9,Promotor,Excelente app,Nómina,2025-06-02T15:08:00
+1761,5,1,20250613,10,Promotor,Mejorar tiempos,Préstamo personal,2025-06-13T18:17:00
+1762,456,1,20250620,10,Promotor,Excelente app,Tarjeta crédito,2025-06-20T12:33:00
+1763,315,4,20250626,9,Promotor,Muy fácil de usar,Nómina,2025-06-26T17:16:00
+1764,108,4,20250615,10,Promotor,Excelente app,Tarjeta crédito,2025-06-15T16:45:00
+1765,163,2,20250601,10,Promotor,Excelente app,CDT,2025-06-01T09:00:00
+1766,97,1,20250623,10,Promotor,Tardaron mucho,Nómina,2025-06-23T15:21:00
+1767,320,2,20250602,9,Promotor,Excelente app,Cuenta corriente,2025-06-02T13:40:00
+1768,322,1,20250612,9,Promotor,Necesito más sucursales,Préstamo personal,2025-06-12T12:52:00
+1769,374,1,20250619,10,Promotor,Mejorar tiempos,Préstamo personal,2025-06-19T16:34:00
+1770,304,1,20250603,9,Promotor,Necesito más sucursales,Préstamo personal,2025-06-03T10:16:00
+1771,409,2,20250605,9,Promotor,Mejorar tiempos,Préstamo personal,2025-06-05T17:49:00
+1772,378,4,20250626,10,Promotor,Perfecto,Tarjeta crédito,2025-06-26T10:00:00
+1773,47,4,20250607,9,Promotor,Excelente app,Tarjeta crédito,2025-06-07T10:30:00
+1774,40,4,20250611,9,Promotor,Muy buena atención,Tarjeta crédito,2025-06-11T16:51:00
+1775,341,2,20250614,10,Promotor,Sin comentario,Nómina,2025-06-14T09:15:00
+1776,397,2,20250613,10,Promotor,Perfecto,Préstamo personal,2025-06-13T12:53:00
+1777,41,4,20250617,10,Promotor,Necesito más sucursales,Tarjeta crédito,2025-06-17T18:53:00
+1778,74,3,20250623,10,Promotor,Perfecto,CDT,2025-06-23T12:43:00
+1779,461,2,20250618,9,Promotor,Muy fácil de usar,Tarjeta crédito,2025-06-18T08:55:00
+1780,239,3,20250628,10,Promotor,Muy fácil de usar,CDT,2025-06-28T11:39:00
+1781,192,1,20250613,9,Promotor,Muy buena atención,Tarjeta crédito,2025-06-13T15:23:00
+1782,301,1,20250601,9,Promotor,Tardaron mucho,Préstamo personal,2025-06-01T12:32:00
+1783,140,1,20250620,9,Promotor,Sin comentario,CDT,2025-06-20T14:02:00
+1784,321,1,20250609,10,Promotor,Muy buena atención,CDT,2025-06-09T17:40:00
+1785,89,2,20250616,10,Promotor,Tardaron mucho,Cuenta corriente,2025-06-16T13:01:00
+1786,377,1,20250623,9,Promotor,Excelente app,Cuenta corriente,2025-06-23T14:53:00
+1787,228,2,20250602,9,Promotor,Muy buena atención,Préstamo personal,2025-06-02T09:54:00
+1788,100,2,20250628,10,Promotor,Muy buena atención,Préstamo personal,2025-06-28T18:54:00
+1789,364,1,20250629,10,Promotor,Muy fácil de usar,Nómina,2025-06-29T08:42:00
+1790,429,2,20250614,10,Promotor,Muy buena atención,Cuenta corriente,2025-06-14T11:52:00
+1791,137,1,20250624,9,Promotor,Perfecto,Cuenta corriente,2025-06-24T12:38:00
+1792,259,2,20250623,9,Promotor,Muy buena atención,Préstamo personal,2025-06-23T12:35:00
+1793,175,2,20250604,10,Promotor,Tardaron mucho,Nómina,2025-06-04T15:05:00
+1794,47,1,20250630,9,Promotor,Tardaron mucho,Tarjeta crédito,2025-06-30T13:37:00
+1795,87,3,20250625,9,Promotor,Necesito más sucursales,Préstamo personal,2025-06-25T15:05:00
+1796,429,3,20250610,9,Promotor,Necesito más sucursales,Tarjeta crédito,2025-06-10T12:03:00
+1797,147,1,20250623,10,Promotor,Excelente app,Nómina,2025-06-23T13:26:00
+1798,97,1,20250627,9,Promotor,Necesito más sucursales,Tarjeta crédito,2025-06-27T12:16:00
+1799,48,2,20250609,10,Promotor,Muy fácil de usar,Préstamo personal,2025-06-09T18:33:00
+1800,324,3,20250627,10,Promotor,Excelente app,Cuenta corriente,2025-06-27T17:24:00
+1801,292,1,20250618,9,Promotor,Mejorar tiempos,Préstamo personal,2025-06-18T18:51:00
+1802,176,3,20250607,10,Promotor,Sin comentario,Cuenta corriente,2025-06-07T16:49:00
+1803,112,2,20250609,9,Promotor,Muy buena atención,Cuenta corriente,2025-06-09T16:42:00
+1804,72,2,20250616,9,Promotor,Muy fácil de usar,Préstamo personal,2025-06-16T17:24:00
+1805,360,1,20250611,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-06-11T10:26:00
+1806,173,2,20250611,10,Promotor,Tardaron mucho,Tarjeta crédito,2025-06-11T13:19:00
+1807,280,1,20250615,9,Promotor,Muy buena atención,CDT,2025-06-15T17:29:00
+1808,205,2,20250624,10,Promotor,Necesito más sucursales,Préstamo personal,2025-06-24T13:38:00
+1809,348,2,20250616,10,Promotor,Muy buena atención,Tarjeta crédito,2025-06-16T16:06:00
+1810,397,1,20250614,10,Promotor,Mejorar tiempos,Nómina,2025-06-14T08:10:00
+1811,154,4,20250630,9,Promotor,Necesito más sucursales,Nómina,2025-06-30T10:08:00
+1812,492,1,20250626,10,Promotor,Tardaron mucho,Préstamo personal,2025-06-26T10:51:00
+1813,203,1,20250615,10,Promotor,Muy buena atención,Tarjeta crédito,2025-06-15T11:56:00
+1814,158,1,20250610,9,Promotor,Necesito más sucursales,Tarjeta crédito,2025-06-10T14:05:00
+1815,351,2,20250605,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-06-05T15:10:00
+1816,242,2,20250604,10,Promotor,Mejorar tiempos,Tarjeta crédito,2025-06-04T15:42:00
+1817,238,3,20250627,10,Promotor,Tardaron mucho,CDT,2025-06-27T10:20:00
+1818,396,1,20250613,9,Promotor,Sin comentario,CDT,2025-06-13T17:25:00
+1819,251,2,20250612,9,Promotor,Muy buena atención,Tarjeta crédito,2025-06-12T17:11:00
+1820,186,1,20250612,9,Promotor,Muy buena atención,Nómina,2025-06-12T17:48:00
+1821,40,2,20250630,10,Promotor,Excelente app,CDT,2025-06-30T11:02:00
+1822,223,1,20250610,9,Promotor,Mejorar tiempos,Tarjeta crédito,2025-06-10T14:09:00
+1823,199,3,20250610,10,Promotor,Perfecto,Cuenta corriente,2025-06-10T12:26:00
+1824,204,3,20250606,9,Promotor,Tardaron mucho,CDT,2025-06-06T09:22:00
+1825,442,2,20250621,9,Promotor,Muy buena atención,Tarjeta crédito,2025-06-21T13:08:00
+1826,233,1,20250622,10,Promotor,Mejorar tiempos,CDT,2025-06-22T08:19:00
+1827,380,2,20250609,10,Promotor,Perfecto,Nómina,2025-06-09T13:49:00
+1828,172,3,20250623,10,Promotor,Muy fácil de usar,Cuenta corriente,2025-06-23T10:27:00
+1829,346,1,20250628,10,Promotor,Muy buena atención,Préstamo personal,2025-06-28T17:16:00
+1830,417,2,20250617,9,Promotor,Perfecto,CDT,2025-06-17T08:29:00
+1831,63,4,20250602,10,Promotor,Perfecto,Préstamo personal,2025-06-02T08:56:00
+1832,218,1,20250609,10,Promotor,Sin comentario,Cuenta corriente,2025-06-09T16:17:00
+1833,183,2,20250610,9,Promotor,Perfecto,Préstamo personal,2025-06-10T12:40:00
+1834,58,1,20250620,9,Promotor,Muy buena atención,Nómina,2025-06-20T14:15:00
+1835,274,1,20250603,9,Promotor,Excelente app,CDT,2025-06-03T14:57:00
+1836,498,2,20250612,10,Promotor,Necesito más sucursales,Nómina,2025-06-12T17:29:00
+1837,168,1,20250603,9,Promotor,Excelente app,Nómina,2025-06-03T18:51:00
+1838,263,4,20250613,9,Promotor,Tardaron mucho,Préstamo personal,2025-06-13T18:47:00
+1839,206,1,20250614,10,Promotor,Sin comentario,Cuenta corriente,2025-06-14T14:07:00
+1840,134,4,20250619,9,Promotor,Necesito más sucursales,Cuenta corriente,2025-06-19T13:36:00
+1841,390,4,20250607,10,Promotor,Sin comentario,Tarjeta crédito,2025-06-07T12:32:00
+1842,205,4,20250620,9,Promotor,Sin comentario,Préstamo personal,2025-06-20T08:26:00
+1843,401,2,20250601,9,Promotor,Excelente app,Préstamo personal,2025-06-01T12:29:00
+1844,114,1,20250604,10,Promotor,Muy fácil de usar,Tarjeta crédito,2025-06-04T09:39:00
+1845,365,2,20250624,10,Promotor,Perfecto,Nómina,2025-06-24T14:40:00
+1846,200,2,20250618,10,Promotor,Muy buena atención,Préstamo personal,2025-06-18T13:20:00
+1847,228,1,20250627,10,Promotor,Perfecto,Tarjeta crédito,2025-06-27T16:44:00
+1848,200,1,20250622,9,Promotor,Muy buena atención,Nómina,2025-06-22T09:40:00
+1849,177,1,20250618,10,Promotor,Muy fácil de usar,Préstamo personal,2025-06-18T12:48:00
+1850,346,2,20250615,10,Promotor,Excelente app,Nómina,2025-06-15T17:10:00
+1851,221,2,20250619,10,Promotor,Muy buena atención,Préstamo personal,2025-06-19T16:47:00
+1852,193,4,20250608,10,Promotor,Excelente app,CDT,2025-06-08T17:54:00
+1853,203,1,20250604,9,Promotor,Tardaron mucho,Nómina,2025-06-04T12:11:00
+1854,399,4,20250625,9,Promotor,Mejorar tiempos,Nómina,2025-06-25T14:22:00
+1855,462,2,20250614,9,Promotor,Muy fácil de usar,Préstamo personal,2025-06-14T18:06:00
+1856,275,2,20250617,10,Promotor,Necesito más sucursales,CDT,2025-06-17T15:48:00
+1857,423,4,20250610,10,Promotor,Excelente app,Tarjeta crédito,2025-06-10T14:18:00
+1858,425,1,20250618,9,Promotor,Perfecto,Tarjeta crédito,2025-06-18T18:58:00
+1859,298,2,20250613,9,Promotor,Mejorar tiempos,CDT,2025-06-13T11:40:00
+1860,115,1,20250620,9,Promotor,Tardaron mucho,Nómina,2025-06-20T17:46:00
+1861,167,2,20250601,10,Promotor,Excelente app,Nómina,2025-06-01T18:30:00
+1862,12,3,20250612,9,Promotor,Mejorar tiempos,Nómina,2025-06-12T16:55:00
+1863,468,1,20250628,9,Promotor,Muy fácil de usar,Tarjeta crédito,2025-06-28T10:30:00
+1864,68,1,20250611,9,Promotor,Muy buena atención,Tarjeta crédito,2025-06-11T17:29:00
+1865,351,2,20250608,10,Promotor,Necesito más sucursales,Tarjeta crédito,2025-06-08T15:32:00
+1866,310,3,20250626,9,Promotor,Excelente app,Tarjeta crédito,2025-06-26T15:46:00
+1867,384,1,20250601,9,Promotor,Mejorar tiempos,Nómina,2025-06-01T15:55:00
+1868,401,2,20250603,10,Promotor,Sin comentario,Nómina,2025-06-03T09:45:00
+1869,247,3,20250615,9,Promotor,Muy buena atención,Préstamo personal,2025-06-15T14:53:00
+1870,205,3,20250612,9,Promotor,Perfecto,CDT,2025-06-12T09:06:00
+1871,135,3,20250628,9,Promotor,Tardaron mucho,Tarjeta crédito,2025-06-28T13:26:00
+1872,468,1,20250605,10,Promotor,Perfecto,Tarjeta crédito,2025-06-05T12:06:00
+1873,356,1,20250621,10,Promotor,Perfecto,Tarjeta crédito,2025-06-21T12:21:00
+1874,228,1,20250623,10,Promotor,Perfecto,Préstamo personal,2025-06-23T17:17:00
+1875,72,1,20250625,9,Promotor,Sin comentario,Cuenta corriente,2025-06-25T11:56:00
+1876,186,3,20250619,10,Promotor,Sin comentario,Tarjeta crédito,2025-06-19T17:40:00
+1877,366,2,20250616,10,Promotor,Sin comentario,Tarjeta crédito,2025-06-16T10:09:00
+1878,197,1,20250628,10,Promotor,Necesito más sucursales,Cuenta corriente,2025-06-28T11:37:00
+1879,300,1,20250605,10,Promotor,Muy fácil de usar,Nómina,2025-06-05T16:25:00
+1880,461,1,20250620,10,Promotor,Muy fácil de usar,Tarjeta crédito,2025-06-20T17:54:00
+1881,192,1,20250617,10,Promotor,Perfecto,Tarjeta crédito,2025-06-17T16:30:00
+1882,460,1,20250616,9,Promotor,Tardaron mucho,Préstamo personal,2025-06-16T11:19:00
+1883,77,1,20250608,9,Promotor,Tardaron mucho,Tarjeta crédito,2025-06-08T13:31:00
+1884,468,2,20250619,10,Promotor,Muy buena atención,Nómina,2025-06-19T11:47:00
+1885,341,1,20250612,9,Promotor,Tardaron mucho,Préstamo personal,2025-06-12T16:04:00
+1886,493,2,20250618,10,Promotor,Tardaron mucho,Cuenta corriente,2025-06-18T15:36:00
+1887,132,3,20250608,9,Promotor,Excelente app,Tarjeta crédito,2025-06-08T11:44:00
+1888,21,4,20250606,10,Promotor,Sin comentario,Nómina,2025-06-06T12:05:00
+1889,426,4,20250624,9,Promotor,Excelente app,Nómina,2025-06-24T12:03:00
+1890,125,2,20250608,9,Promotor,Perfecto,CDT,2025-06-08T09:34:00
+1891,405,2,20250611,9,Promotor,Necesito más sucursales,CDT,2025-06-11T09:28:00
+1892,102,1,20250616,9,Promotor,Necesito más sucursales,Nómina,2025-06-16T15:19:00
+1893,221,4,20250619,9,Promotor,Tardaron mucho,CDT,2025-06-19T18:12:00
+1894,129,3,20250601,10,Promotor,Sin comentario,CDT,2025-06-01T18:11:00
+1895,248,2,20250617,10,Promotor,Sin comentario,Préstamo personal,2025-06-17T16:15:00
+1896,348,2,20250609,10,Promotor,Sin comentario,CDT,2025-06-09T09:48:00
+1897,4,1,20250616,9,Promotor,Perfecto,CDT,2025-06-16T10:11:00
+1898,222,3,20250625,9,Promotor,Tardaron mucho,CDT,2025-06-25T13:40:00
+1899,399,1,20250607,9,Promotor,Necesito más sucursales,Tarjeta crédito,2025-06-07T12:32:00
+1900,393,2,20250611,10,Promotor,Tardaron mucho,Préstamo personal,2025-06-11T17:13:00
+1901,81,1,20250611,9,Promotor,Mejorar tiempos,Tarjeta crédito,2025-06-11T10:39:00
+1902,490,2,20250611,9,Promotor,Perfecto,Nómina,2025-06-11T14:49:00
+1903,478,1,20250608,10,Promotor,Sin comentario,Préstamo personal,2025-06-08T10:19:00
+1904,182,3,20250624,10,Promotor,Muy fácil de usar,CDT,2025-06-24T12:27:00
+1905,214,1,20250625,10,Promotor,Mejorar tiempos,Cuenta corriente,2025-06-25T14:22:00
+1906,393,1,20250615,9,Promotor,Necesito más sucursales,Tarjeta crédito,2025-06-15T18:45:00
+1907,427,1,20250610,10,Promotor,Muy fácil de usar,CDT,2025-06-10T14:20:00
+1908,111,2,20250626,9,Promotor,Perfecto,Préstamo personal,2025-06-26T09:04:00
+1909,167,3,20250606,9,Promotor,Perfecto,Cuenta corriente,2025-06-06T18:24:00
+1910,144,4,20250608,10,Promotor,Mejorar tiempos,Cuenta corriente,2025-06-08T09:03:00
+1911,276,1,20250609,10,Promotor,Sin comentario,Cuenta corriente,2025-06-09T15:08:00
+1912,397,3,20250611,9,Promotor,Excelente app,Tarjeta crédito,2025-06-11T17:19:00
+1913,46,2,20250618,9,Promotor,Muy fácil de usar,Nómina,2025-06-18T16:48:00
+1914,272,3,20250618,10,Promotor,Muy buena atención,Tarjeta crédito,2025-06-18T09:55:00
+1915,185,4,20250628,10,Promotor,Perfecto,Tarjeta crédito,2025-06-28T10:20:00
+1916,236,1,20250608,10,Promotor,Necesito más sucursales,Préstamo personal,2025-06-08T12:38:00
+1917,62,2,20250605,9,Promotor,Mejorar tiempos,CDT,2025-06-05T15:51:00
+1918,271,1,20250627,9,Promotor,Muy fácil de usar,Cuenta corriente,2025-06-27T17:27:00
+1919,448,3,20250617,9,Promotor,Perfecto,Préstamo personal,2025-06-17T17:21:00
+1920,39,2,20250624,9,Promotor,Tardaron mucho,Nómina,2025-06-24T10:51:00
+1921,473,2,20250619,9,Promotor,Necesito más sucursales,Cuenta corriente,2025-06-19T18:27:00
+1922,232,4,20250615,10,Promotor,Excelente app,Préstamo personal,2025-06-15T09:11:00
+1923,271,3,20250615,10,Promotor,Mejorar tiempos,Cuenta corriente,2025-06-15T14:36:00
+1924,320,3,20250601,10,Promotor,Muy buena atención,Cuenta corriente,2025-06-01T11:20:00
+1925,133,4,20250605,10,Promotor,Muy fácil de usar,Nómina,2025-06-05T15:41:00
+1926,421,2,20250625,9,Promotor,Muy fácil de usar,Nómina,2025-06-25T10:12:00
+1927,158,1,20250607,9,Promotor,Muy buena atención,Nómina,2025-06-07T17:54:00
+1928,66,2,20250625,9,Promotor,Tardaron mucho,Préstamo personal,2025-06-25T13:59:00
+1929,107,1,20250622,9,Promotor,Excelente app,CDT,2025-06-22T12:14:00
+1930,182,1,20250625,9,Promotor,Perfecto,Cuenta corriente,2025-06-25T14:01:00
+1931,381,4,20250628,8,Pasivo,Necesito más sucursales,CDT,2025-06-28T08:28:00
+1932,102,1,20250613,8,Pasivo,Mejorar tiempos,Nómina,2025-06-13T09:05:00
+1933,468,2,20250617,7,Pasivo,Tardaron mucho,Tarjeta crédito,2025-06-17T11:07:00
+1934,310,1,20250624,8,Pasivo,Muy fácil de usar,CDT,2025-06-24T11:13:00
+1935,260,1,20250626,7,Pasivo,Sin comentario,Nómina,2025-06-26T09:29:00
+1936,195,3,20250601,7,Pasivo,Mejorar tiempos,Cuenta corriente,2025-06-01T13:23:00
+1937,34,2,20250627,8,Pasivo,Sin comentario,Tarjeta crédito,2025-06-27T09:41:00
+1938,242,1,20250629,8,Pasivo,Sin comentario,Préstamo personal,2025-06-29T08:09:00
+1939,290,1,20250606,7,Pasivo,Excelente app,Tarjeta crédito,2025-06-06T15:48:00
+1940,306,3,20250602,7,Pasivo,Sin comentario,Préstamo personal,2025-06-02T17:26:00
+1941,89,1,20250614,7,Pasivo,Excelente app,Tarjeta crédito,2025-06-14T13:56:00
+1942,84,1,20250626,7,Pasivo,Necesito más sucursales,Préstamo personal,2025-06-26T14:40:00
+1943,431,1,20250630,8,Pasivo,Muy fácil de usar,Cuenta corriente,2025-06-30T08:21:00
+1944,241,1,20250629,7,Pasivo,Excelente app,CDT,2025-06-29T08:34:00
+1945,307,3,20250625,8,Pasivo,Excelente app,Tarjeta crédito,2025-06-25T09:00:00
+1946,115,1,20250629,8,Pasivo,Tardaron mucho,Cuenta corriente,2025-06-29T15:29:00
+1947,460,2,20250628,8,Pasivo,Excelente app,Nómina,2025-06-28T18:00:00
+1948,241,4,20250616,8,Pasivo,Sin comentario,Tarjeta crédito,2025-06-16T13:42:00
+1949,343,3,20250620,8,Pasivo,Perfecto,CDT,2025-06-20T17:12:00
+1950,264,1,20250608,7,Pasivo,Excelente app,Tarjeta crédito,2025-06-08T18:05:00
+1951,207,1,20250623,7,Pasivo,Tardaron mucho,Tarjeta crédito,2025-06-23T11:16:00
+1952,338,1,20250624,7,Pasivo,Perfecto,Nómina,2025-06-24T16:33:00
+1953,461,1,20250625,8,Pasivo,Mejorar tiempos,Préstamo personal,2025-06-25T18:09:00
+1954,464,3,20250624,7,Pasivo,Muy buena atención,Tarjeta crédito,2025-06-24T10:00:00
+1955,18,3,20250621,7,Pasivo,Necesito más sucursales,Tarjeta crédito,2025-06-21T14:20:00
+1956,247,2,20250619,7,Pasivo,Muy fácil de usar,Tarjeta crédito,2025-06-19T18:55:00
+1957,110,2,20250615,8,Pasivo,Sin comentario,Nómina,2025-06-15T15:07:00
+1958,394,2,20250621,8,Pasivo,Muy fácil de usar,Préstamo personal,2025-06-21T10:16:00
+1959,447,2,20250626,8,Pasivo,Perfecto,Cuenta corriente,2025-06-26T18:54:00
+1960,266,1,20250625,8,Pasivo,Muy fácil de usar,CDT,2025-06-25T18:01:00
+1961,117,4,20250604,7,Pasivo,Tardaron mucho,Cuenta corriente,2025-06-04T16:45:00
+1962,448,1,20250605,8,Pasivo,Perfecto,CDT,2025-06-05T16:05:00
+1963,420,4,20250613,7,Pasivo,Necesito más sucursales,Tarjeta crédito,2025-06-13T18:14:00
+1964,376,3,20250607,7,Pasivo,Excelente app,Nómina,2025-06-07T16:33:00
+1965,273,1,20250626,7,Pasivo,Necesito más sucursales,Nómina,2025-06-26T10:23:00
+1966,349,1,20250604,1,Detractor,Necesito más sucursales,Tarjeta crédito,2025-06-04T16:39:00
+1967,104,1,20250628,3,Detractor,Mejorar tiempos,Préstamo personal,2025-06-28T14:57:00
+1968,458,2,20250614,4,Detractor,Muy fácil de usar,Tarjeta crédito,2025-06-14T12:00:00
+1969,363,2,20250609,0,Detractor,Sin comentario,Tarjeta crédito,2025-06-09T17:38:00
+1970,387,2,20250602,0,Detractor,Excelente app,CDT,2025-06-02T10:48:00
+1971,201,3,20250608,6,Detractor,Mejorar tiempos,CDT,2025-06-08T17:12:00
+1972,180,1,20250627,1,Detractor,Sin comentario,Tarjeta crédito,2025-06-27T14:07:00
+1973,300,4,20250624,5,Detractor,Excelente app,Tarjeta crédito,2025-06-24T15:09:00
+1974,390,1,20250609,5,Detractor,Tardaron mucho,Nómina,2025-06-09T12:33:00
+1975,322,2,20250625,0,Detractor,Necesito más sucursales,CDT,2025-06-25T12:52:00
+1976,381,2,20250618,0,Detractor,Excelente app,Cuenta corriente,2025-06-18T13:56:00
+1977,196,3,20250602,2,Detractor,Sin comentario,Cuenta corriente,2025-06-02T18:29:00
+1978,87,4,20250619,3,Detractor,Perfecto,Préstamo personal,2025-06-19T11:33:00
+1979,375,2,20250603,0,Detractor,Muy fácil de usar,Tarjeta crédito,2025-06-03T18:31:00
+1980,494,2,20250623,6,Detractor,Muy buena atención,Cuenta corriente,2025-06-23T12:53:00
+1981,142,4,20250624,5,Detractor,Muy fácil de usar,CDT,2025-06-24T18:53:00
+1982,43,1,20250612,2,Detractor,Perfecto,Tarjeta crédito,2025-06-12T17:31:00
+1983,223,2,20250619,1,Detractor,Tardaron mucho,CDT,2025-06-19T16:38:00
+1984,193,2,20250619,6,Detractor,Mejorar tiempos,Cuenta corriente,2025-06-19T17:06:00
+1985,407,2,20250627,4,Detractor,Tardaron mucho,Nómina,2025-06-27T09:07:00
+1986,185,2,20250608,6,Detractor,Mejorar tiempos,CDT,2025-06-08T08:22:00
+1987,226,4,20250626,5,Detractor,Muy buena atención,CDT,2025-06-26T18:47:00
+1988,343,4,20250614,6,Detractor,Necesito más sucursales,Nómina,2025-06-14T10:01:00
+1989,51,1,20250611,5,Detractor,Mejorar tiempos,Cuenta corriente,2025-06-11T15:54:00
+1990,420,3,20250612,2,Detractor,Muy fácil de usar,Tarjeta crédito,2025-06-12T12:28:00
+1991,167,2,20250602,6,Detractor,Sin comentario,Tarjeta crédito,2025-06-02T11:35:00
+1992,281,2,20250628,6,Detractor,Mejorar tiempos,Préstamo personal,2025-06-28T10:54:00
+1993,46,1,20250628,3,Detractor,Necesito más sucursales,Préstamo personal,2025-06-28T12:06:00
+1994,328,2,20250603,5,Detractor,Perfecto,Tarjeta crédito,2025-06-03T14:12:00
+1995,363,2,20250628,2,Detractor,Muy fácil de usar,CDT,2025-06-28T13:48:00
+1996,166,1,20250606,1,Detractor,Necesito más sucursales,Nómina,2025-06-06T12:58:00
+1997,329,2,20250623,4,Detractor,Excelente app,CDT,2025-06-23T17:44:00
+1998,48,1,20250607,0,Detractor,Mejorar tiempos,Préstamo personal,2025-06-07T10:45:00

@@ -1,0 +1,501 @@
+cliente_id,segmento,antiguedad_anos,canal_principal,region,activo
+1,Premium,1.0,Web,Santa Ana,1
+2,Nómina,3.2,App,La Libertad,1
+3,Premium,12.0,App,San Salvador,1
+4,Premium,4.8,App,La Libertad,1
+5,Nómina,14.5,Sucursal,Santa Ana,1
+6,Pymes,12.0,App,Santa Ana,1
+7,Pymes,7.1,Call Center,Santa Ana,1
+8,Personas,2.5,Sucursal,San Salvador,1
+9,Personas,17.0,Web,San Salvador,1
+10,Pymes,11.0,Sucursal,San Salvador,1
+11,Digital,6.2,Web,La Libertad,1
+12,Nómina,14.2,App,Santa Ana,1
+13,Personas,19.7,Call Center,San Salvador,1
+14,Pymes,5.9,Web,Santa Ana,1
+15,Personas,7.4,Web,San Salvador,1
+16,Digital,12.9,Call Center,Santa Ana,1
+17,Pymes,7.9,Call Center,San Miguel,1
+18,Premium,5.0,App,San Miguel,1
+19,Pymes,5.7,Call Center,La Libertad,1
+20,Personas,4.6,Sucursal,Sonsonate,1
+21,Pymes,3.3,Call Center,Santa Ana,1
+22,Digital,11.0,Sucursal,La Libertad,1
+23,Pymes,7.6,Call Center,La Libertad,1
+24,Pymes,2.3,App,San Salvador,1
+25,Nómina,12.7,Sucursal,La Libertad,1
+26,Premium,8.0,Sucursal,La Libertad,1
+27,Personas,19.4,App,San Salvador,1
+28,Digital,15.1,Web,San Salvador,1
+29,Personas,9.0,Sucursal,San Salvador,1
+30,Personas,19.5,Call Center,La Libertad,1
+31,Premium,17.5,Web,La Libertad,1
+32,Digital,4.4,Web,Santa Ana,1
+33,Digital,19.1,App,La Libertad,1
+34,Personas,10.0,App,San Miguel,1
+35,Personas,5.2,Call Center,La Libertad,1
+36,Premium,2.2,Sucursal,San Salvador,1
+37,Digital,15.4,Call Center,Sonsonate,1
+38,Digital,3.7,Sucursal,Santa Ana,1
+39,Digital,15.2,Call Center,San Miguel,1
+40,Pymes,19.9,Web,Sonsonate,1
+41,Digital,9.3,Call Center,Santa Ana,1
+42,Premium,7.1,Call Center,La Libertad,1
+43,Nómina,0.6,App,Santa Ana,1
+44,Premium,18.2,Web,San Salvador,1
+45,Digital,5.1,Sucursal,Santa Ana,1
+46,Digital,3.1,Sucursal,Santa Ana,1
+47,Pymes,16.2,Call Center,San Salvador,1
+48,Premium,13.4,Web,Sonsonate,1
+49,Pymes,9.6,App,San Salvador,1
+50,Premium,8.4,Web,San Salvador,1
+51,Nómina,4.2,Sucursal,Santa Ana,1
+52,Pymes,4.1,Sucursal,Santa Ana,1
+53,Premium,9.1,App,San Salvador,1
+54,Digital,16.8,App,Santa Ana,1
+55,Nómina,8.4,Sucursal,Santa Ana,1
+56,Pymes,18.1,Call Center,Sonsonate,1
+57,Premium,19.7,Web,Sonsonate,1
+58,Personas,8.7,Sucursal,Santa Ana,1
+59,Nómina,6.3,App,La Libertad,1
+60,Digital,1.7,Web,San Salvador,1
+61,Premium,11.9,Call Center,San Salvador,1
+62,Digital,2.1,Call Center,San Salvador,1
+63,Digital,1.8,Call Center,Sonsonate,1
+64,Premium,18.9,Call Center,La Libertad,1
+65,Digital,1.3,App,Sonsonate,1
+66,Digital,11.5,Web,San Miguel,1
+67,Nómina,13.6,Web,Santa Ana,1
+68,Personas,8.2,Web,Sonsonate,1
+69,Personas,18.6,App,San Salvador,1
+70,Pymes,12.6,App,San Salvador,1
+71,Digital,4.7,Web,Santa Ana,1
+72,Personas,17.7,Call Center,San Miguel,1
+73,Personas,3.6,Web,La Libertad,1
+74,Digital,0.7,Web,San Salvador,1
+75,Nómina,5.7,App,La Libertad,1
+76,Nómina,5.8,Call Center,San Miguel,1
+77,Nómina,13.9,Web,La Libertad,1
+78,Pymes,5.4,App,San Salvador,1
+79,Pymes,16.7,App,San Salvador,1
+80,Personas,15.5,Web,Santa Ana,1
+81,Pymes,11.3,Sucursal,La Libertad,1
+82,Premium,2.7,Call Center,La Libertad,1
+83,Premium,16.8,Call Center,Sonsonate,1
+84,Nómina,1.3,Web,San Salvador,1
+85,Personas,4.6,Call Center,San Salvador,1
+86,Personas,15.7,Sucursal,La Libertad,1
+87,Nómina,18.6,Call Center,Santa Ana,1
+88,Nómina,17.7,App,Santa Ana,1
+89,Personas,15.8,Sucursal,Santa Ana,1
+90,Personas,3.6,App,Sonsonate,1
+91,Premium,17.2,Call Center,Santa Ana,1
+92,Pymes,7.3,Call Center,Santa Ana,1
+93,Premium,13.4,Sucursal,San Miguel,1
+94,Personas,17.4,Web,San Miguel,1
+95,Digital,8.3,Web,San Salvador,1
+96,Premium,17.6,Web,Santa Ana,1
+97,Digital,19.3,Web,San Salvador,1
+98,Premium,12.1,Web,San Miguel,1
+99,Pymes,12.3,App,Sonsonate,1
+100,Digital,4.2,App,Sonsonate,1
+101,Premium,10.6,Call Center,San Miguel,1
+102,Pymes,1.9,Web,La Libertad,1
+103,Personas,13.4,App,San Miguel,1
+104,Digital,6.5,Sucursal,San Miguel,1
+105,Pymes,14.1,Call Center,Santa Ana,1
+106,Pymes,13.5,Sucursal,Santa Ana,1
+107,Digital,11.6,Sucursal,La Libertad,1
+108,Premium,6.4,Call Center,Sonsonate,1
+109,Digital,12.3,Web,Sonsonate,1
+110,Pymes,9.1,Call Center,La Libertad,1
+111,Pymes,16.0,Call Center,San Salvador,1
+112,Personas,10.6,Web,San Salvador,1
+113,Nómina,13.6,Call Center,Santa Ana,1
+114,Nómina,1.0,Call Center,Sonsonate,1
+115,Digital,17.1,App,Sonsonate,1
+116,Pymes,17.8,Call Center,Sonsonate,1
+117,Pymes,8.3,Call Center,San Salvador,1
+118,Premium,15.7,Call Center,Santa Ana,1
+119,Digital,9.6,Call Center,San Salvador,1
+120,Pymes,3.1,Sucursal,La Libertad,1
+121,Digital,12.1,Sucursal,La Libertad,1
+122,Digital,8.8,Sucursal,Santa Ana,1
+123,Pymes,9.3,Call Center,San Miguel,1
+124,Digital,9.9,Call Center,San Miguel,1
+125,Pymes,2.0,Web,Santa Ana,1
+126,Personas,7.0,App,Santa Ana,1
+127,Nómina,5.0,Call Center,Santa Ana,1
+128,Premium,8.6,Web,La Libertad,1
+129,Pymes,8.6,Call Center,Sonsonate,1
+130,Pymes,18.1,App,La Libertad,1
+131,Pymes,9.8,Web,San Miguel,1
+132,Pymes,17.1,Sucursal,La Libertad,1
+133,Digital,16.1,Call Center,Sonsonate,1
+134,Nómina,5.8,Sucursal,San Salvador,1
+135,Pymes,7.1,Sucursal,Santa Ana,1
+136,Pymes,18.4,App,Sonsonate,1
+137,Digital,11.5,App,San Salvador,1
+138,Pymes,3.1,Sucursal,Santa Ana,1
+139,Premium,5.6,Web,Santa Ana,1
+140,Pymes,6.9,Sucursal,San Miguel,1
+141,Pymes,5.4,App,Sonsonate,1
+142,Premium,15.1,App,San Miguel,1
+143,Nómina,13.2,App,San Salvador,1
+144,Nómina,4.4,App,La Libertad,1
+145,Nómina,5.2,Sucursal,San Salvador,1
+146,Digital,19.0,Sucursal,San Miguel,1
+147,Personas,3.8,App,Santa Ana,1
+148,Personas,2.6,App,San Miguel,1
+149,Digital,13.7,Sucursal,Sonsonate,1
+150,Nómina,2.0,Call Center,San Salvador,1
+151,Personas,17.1,App,La Libertad,1
+152,Premium,7.3,Sucursal,San Miguel,1
+153,Premium,10.4,Web,San Salvador,1
+154,Pymes,16.5,App,Sonsonate,1
+155,Personas,12.9,Sucursal,Santa Ana,1
+156,Pymes,3.9,Web,La Libertad,1
+157,Digital,15.6,Sucursal,Sonsonate,1
+158,Digital,5.7,Call Center,San Salvador,1
+159,Personas,17.7,Call Center,Sonsonate,1
+160,Digital,12.4,Sucursal,San Miguel,1
+161,Premium,10.1,Web,Santa Ana,1
+162,Pymes,4.6,Web,San Miguel,1
+163,Personas,17.7,Web,La Libertad,1
+164,Premium,10.6,Call Center,San Salvador,1
+165,Nómina,14.5,Sucursal,La Libertad,1
+166,Nómina,14.0,Sucursal,Sonsonate,1
+167,Premium,2.3,Call Center,Sonsonate,1
+168,Nómina,6.5,Web,Sonsonate,1
+169,Digital,10.9,Sucursal,La Libertad,1
+170,Personas,7.4,Sucursal,San Miguel,1
+171,Personas,5.4,App,Santa Ana,1
+172,Personas,2.8,Call Center,Santa Ana,1
+173,Nómina,14.9,Web,La Libertad,1
+174,Digital,12.1,App,Santa Ana,1
+175,Personas,4.9,Call Center,San Miguel,1
+176,Premium,14.3,Call Center,San Miguel,1
+177,Premium,19.5,Web,Santa Ana,1
+178,Pymes,2.5,App,La Libertad,1
+179,Personas,9.7,Sucursal,San Miguel,1
+180,Nómina,19.3,Web,Sonsonate,1
+181,Premium,16.5,Sucursal,Sonsonate,1
+182,Premium,11.8,App,Santa Ana,1
+183,Nómina,16.3,Web,San Salvador,1
+184,Nómina,2.8,Sucursal,La Libertad,1
+185,Digital,15.9,Call Center,La Libertad,1
+186,Pymes,9.3,Sucursal,San Miguel,1
+187,Digital,19.8,Web,La Libertad,1
+188,Digital,1.7,App,Santa Ana,1
+189,Nómina,5.7,App,Santa Ana,1
+190,Nómina,3.9,App,Santa Ana,1
+191,Premium,8.5,Sucursal,San Miguel,1
+192,Premium,5.0,Web,Sonsonate,1
+193,Premium,13.9,Web,La Libertad,1
+194,Nómina,8.8,Call Center,Santa Ana,1
+195,Personas,16.6,App,San Salvador,1
+196,Nómina,16.0,Web,Sonsonate,1
+197,Premium,9.6,Web,Sonsonate,1
+198,Personas,10.3,Sucursal,Sonsonate,1
+199,Premium,12.2,Sucursal,San Miguel,1
+200,Digital,5.4,App,Santa Ana,1
+201,Digital,11.9,App,San Miguel,1
+202,Digital,1.3,Call Center,Sonsonate,1
+203,Digital,13.2,Web,Santa Ana,1
+204,Digital,9.0,Sucursal,San Salvador,1
+205,Pymes,7.3,Web,San Miguel,1
+206,Premium,17.2,Web,Sonsonate,1
+207,Pymes,6.1,Sucursal,La Libertad,1
+208,Premium,9.4,Web,San Miguel,1
+209,Personas,2.8,Sucursal,La Libertad,1
+210,Premium,13.3,Sucursal,Sonsonate,1
+211,Premium,4.2,Web,La Libertad,1
+212,Pymes,12.7,App,Santa Ana,1
+213,Personas,11.2,Web,Sonsonate,1
+214,Pymes,2.9,Call Center,Santa Ana,1
+215,Personas,11.2,Sucursal,San Salvador,1
+216,Nómina,19.8,App,Sonsonate,1
+217,Premium,13.1,Call Center,Sonsonate,1
+218,Personas,10.4,Web,Sonsonate,1
+219,Pymes,19.6,Call Center,Sonsonate,1
+220,Digital,3.3,Call Center,La Libertad,1
+221,Digital,15.1,Call Center,San Salvador,1
+222,Personas,15.6,Sucursal,San Miguel,1
+223,Digital,5.7,App,San Miguel,1
+224,Personas,16.8,Sucursal,Santa Ana,1
+225,Pymes,11.0,Web,San Miguel,1
+226,Digital,15.4,Sucursal,Sonsonate,1
+227,Personas,17.5,Call Center,La Libertad,1
+228,Pymes,5.1,Sucursal,San Salvador,1
+229,Personas,15.0,Sucursal,Sonsonate,1
+230,Nómina,10.2,App,Santa Ana,1
+231,Digital,19.3,Web,San Salvador,1
+232,Pymes,2.4,Sucursal,San Salvador,1
+233,Nómina,8.5,Call Center,San Salvador,1
+234,Pymes,15.7,Web,San Miguel,1
+235,Digital,14.0,App,San Miguel,1
+236,Digital,7.9,Web,Sonsonate,1
+237,Digital,1.2,App,Santa Ana,1
+238,Personas,19.9,App,Sonsonate,1
+239,Premium,15.3,App,Sonsonate,1
+240,Nómina,14.0,App,San Salvador,1
+241,Personas,16.0,Web,San Miguel,1
+242,Personas,8.9,Call Center,La Libertad,1
+243,Pymes,11.5,Call Center,Santa Ana,1
+244,Nómina,2.0,Sucursal,La Libertad,1
+245,Nómina,10.2,Call Center,Santa Ana,1
+246,Pymes,12.9,Sucursal,San Miguel,1
+247,Premium,18.0,Sucursal,San Miguel,1
+248,Digital,3.6,Sucursal,San Miguel,1
+249,Digital,6.3,Sucursal,San Miguel,1
+250,Pymes,17.0,Call Center,Sonsonate,1
+251,Pymes,2.6,Sucursal,La Libertad,1
+252,Personas,11.7,Web,San Salvador,1
+253,Pymes,5.9,App,La Libertad,1
+254,Pymes,16.7,Web,Santa Ana,1
+255,Digital,16.1,Call Center,Santa Ana,1
+256,Digital,5.4,Call Center,San Salvador,1
+257,Premium,6.5,Sucursal,San Salvador,1
+258,Digital,7.6,Call Center,San Salvador,1
+259,Personas,6.9,Sucursal,Santa Ana,1
+260,Nómina,3.1,Web,La Libertad,1
+261,Digital,18.3,Call Center,San Miguel,1
+262,Pymes,19.4,Web,San Miguel,1
+263,Premium,9.6,App,Santa Ana,1
+264,Nómina,17.3,Sucursal,La Libertad,1
+265,Personas,2.3,Sucursal,San Salvador,1
+266,Personas,11.0,Sucursal,San Miguel,1
+267,Personas,11.9,Web,San Salvador,1
+268,Nómina,9.7,Web,La Libertad,1
+269,Nómina,13.1,Sucursal,San Miguel,1
+270,Pymes,2.8,App,San Salvador,1
+271,Personas,19.9,App,San Salvador,1
+272,Nómina,17.8,Call Center,Sonsonate,1
+273,Pymes,7.7,Sucursal,La Libertad,1
+274,Nómina,17.8,App,Sonsonate,1
+275,Digital,8.5,Web,San Salvador,1
+276,Personas,4.7,Sucursal,Santa Ana,1
+277,Personas,2.4,Web,La Libertad,1
+278,Personas,1.7,Web,Santa Ana,1
+279,Premium,19.0,Sucursal,San Salvador,1
+280,Nómina,13.0,App,San Salvador,1
+281,Personas,5.2,Call Center,La Libertad,1
+282,Nómina,1.8,Call Center,La Libertad,1
+283,Nómina,16.4,Call Center,San Miguel,1
+284,Nómina,15.9,App,San Miguel,1
+285,Nómina,19.8,Web,Santa Ana,1
+286,Premium,13.4,App,Santa Ana,1
+287,Premium,7.5,Call Center,La Libertad,1
+288,Personas,0.8,Web,San Salvador,1
+289,Nómina,15.0,App,San Salvador,1
+290,Pymes,9.2,Web,La Libertad,1
+291,Digital,2.6,Call Center,La Libertad,1
+292,Premium,14.7,Web,Sonsonate,1
+293,Premium,1.7,Sucursal,Sonsonate,1
+294,Pymes,13.9,Sucursal,Sonsonate,1
+295,Premium,18.0,Web,La Libertad,1
+296,Nómina,1.8,Web,La Libertad,1
+297,Digital,11.2,Web,Sonsonate,1
+298,Digital,10.8,Sucursal,La Libertad,1
+299,Digital,8.9,App,La Libertad,1
+300,Nómina,8.9,Call Center,Sonsonate,1
+301,Personas,16.6,Sucursal,Sonsonate,1
+302,Premium,6.6,Web,San Miguel,1
+303,Personas,19.1,Sucursal,San Salvador,1
+304,Premium,16.7,App,Sonsonate,1
+305,Premium,15.0,Web,Santa Ana,1
+306,Digital,1.7,Web,San Salvador,1
+307,Pymes,7.4,Sucursal,San Salvador,1
+308,Personas,12.2,Web,San Salvador,1
+309,Digital,10.4,Call Center,Sonsonate,1
+310,Nómina,17.0,Web,La Libertad,1
+311,Personas,2.7,Web,La Libertad,1
+312,Nómina,16.2,App,La Libertad,1
+313,Personas,1.1,Web,San Miguel,1
+314,Personas,7.3,Call Center,Santa Ana,1
+315,Digital,13.3,App,Santa Ana,1
+316,Premium,2.3,Call Center,Sonsonate,1
+317,Pymes,9.3,Call Center,San Miguel,1
+318,Personas,14.6,App,San Salvador,1
+319,Nómina,3.6,App,San Salvador,1
+320,Personas,9.1,Sucursal,Sonsonate,1
+321,Digital,9.1,Web,Santa Ana,1
+322,Digital,2.7,Sucursal,San Salvador,1
+323,Personas,13.7,Sucursal,La Libertad,1
+324,Personas,1.4,Sucursal,La Libertad,1
+325,Premium,0.6,Web,Santa Ana,1
+326,Nómina,15.4,Web,San Miguel,1
+327,Premium,0.7,Sucursal,Santa Ana,1
+328,Nómina,7.9,Call Center,La Libertad,1
+329,Digital,16.8,Web,San Salvador,1
+330,Pymes,17.3,App,Sonsonate,1
+331,Premium,9.5,App,San Miguel,1
+332,Digital,8.9,Sucursal,Sonsonate,1
+333,Personas,2.7,App,San Miguel,1
+334,Nómina,16.1,Sucursal,San Miguel,1
+335,Premium,9.0,App,Santa Ana,1
+336,Pymes,12.0,App,Sonsonate,1
+337,Personas,15.0,Call Center,San Miguel,1
+338,Nómina,2.0,App,La Libertad,1
+339,Digital,4.3,Web,San Miguel,1
+340,Nómina,5.1,Call Center,San Miguel,1
+341,Nómina,3.9,Call Center,San Salvador,1
+342,Nómina,19.1,Sucursal,Sonsonate,1
+343,Digital,15.3,Sucursal,La Libertad,1
+344,Digital,6.8,Web,Santa Ana,1
+345,Pymes,1.8,Sucursal,San Miguel,1
+346,Personas,12.0,Web,La Libertad,1
+347,Premium,6.6,Sucursal,San Salvador,1
+348,Premium,7.7,Web,San Salvador,1
+349,Premium,12.5,Sucursal,Sonsonate,1
+350,Digital,11.3,App,Sonsonate,1
+351,Digital,13.2,Web,La Libertad,1
+352,Pymes,10.3,App,Sonsonate,1
+353,Premium,16.3,Web,San Salvador,1
+354,Digital,13.1,App,Santa Ana,1
+355,Pymes,19.8,Call Center,San Miguel,1
+356,Personas,18.4,Sucursal,Sonsonate,1
+357,Personas,13.7,App,San Miguel,1
+358,Premium,6.9,Sucursal,San Miguel,1
+359,Personas,14.6,Call Center,San Miguel,1
+360,Premium,11.9,Call Center,San Miguel,1
+361,Personas,19.4,Sucursal,Santa Ana,1
+362,Digital,14.3,App,San Miguel,1
+363,Digital,7.8,Web,Santa Ana,1
+364,Digital,2.3,Sucursal,La Libertad,1
+365,Personas,0.9,Web,Santa Ana,1
+366,Nómina,7.2,Sucursal,Santa Ana,1
+367,Nómina,20.0,Call Center,San Salvador,1
+368,Personas,17.0,App,La Libertad,1
+369,Digital,16.8,App,San Miguel,1
+370,Digital,3.1,Sucursal,Santa Ana,1
+371,Nómina,4.0,Call Center,Sonsonate,1
+372,Premium,8.5,Call Center,Sonsonate,1
+373,Digital,6.1,Sucursal,Santa Ana,1
+374,Digital,5.2,Sucursal,Santa Ana,1
+375,Personas,13.7,Sucursal,Sonsonate,1
+376,Personas,15.7,Sucursal,Santa Ana,1
+377,Nómina,16.1,Call Center,San Miguel,1
+378,Premium,13.0,Web,La Libertad,1
+379,Premium,14.4,App,San Miguel,1
+380,Premium,15.4,Web,Sonsonate,1
+381,Digital,3.4,Sucursal,San Salvador,1
+382,Nómina,16.4,Web,San Salvador,1
+383,Pymes,1.5,Web,Santa Ana,1
+384,Pymes,19.9,Web,Santa Ana,1
+385,Premium,6.7,App,San Miguel,1
+386,Nómina,3.2,Web,Sonsonate,1
+387,Nómina,15.3,Sucursal,Sonsonate,1
+388,Digital,0.6,App,San Salvador,1
+389,Personas,4.7,Call Center,La Libertad,1
+390,Digital,10.8,App,San Miguel,1
+391,Nómina,6.4,App,Santa Ana,1
+392,Pymes,13.0,Sucursal,San Salvador,1
+393,Premium,16.8,Sucursal,La Libertad,1
+394,Digital,0.8,Call Center,Santa Ana,1
+395,Personas,8.9,Web,Santa Ana,1
+396,Digital,8.6,App,La Libertad,1
+397,Personas,1.8,App,Sonsonate,1
+398,Pymes,1.3,Sucursal,San Miguel,1
+399,Personas,15.1,Web,San Salvador,1
+400,Personas,5.2,App,La Libertad,1
+401,Personas,3.1,Web,La Libertad,1
+402,Personas,16.4,Call Center,Sonsonate,1
+403,Pymes,12.8,Call Center,San Salvador,1
+404,Pymes,1.2,Call Center,San Salvador,1
+405,Nómina,17.8,Web,San Miguel,1
+406,Digital,8.3,Sucursal,San Miguel,1
+407,Premium,15.2,Call Center,San Miguel,1
+408,Personas,17.3,App,San Miguel,1
+409,Personas,2.9,Web,Sonsonate,1
+410,Pymes,15.0,Sucursal,San Miguel,1
+411,Nómina,10.2,Sucursal,San Miguel,1
+412,Digital,5.7,App,Sonsonate,1
+413,Premium,8.9,Call Center,La Libertad,1
+414,Personas,6.8,App,San Miguel,1
+415,Personas,6.5,Sucursal,Santa Ana,1
+416,Pymes,7.4,App,San Miguel,1
+417,Digital,20.0,Web,San Salvador,1
+418,Premium,13.6,Sucursal,San Miguel,1
+419,Digital,16.1,Call Center,San Salvador,1
+420,Nómina,17.0,Sucursal,San Salvador,1
+421,Nómina,1.8,Web,San Miguel,1
+422,Pymes,19.0,App,La Libertad,1
+423,Nómina,13.7,Web,San Miguel,1
+424,Pymes,15.4,Call Center,La Libertad,1
+425,Personas,8.3,Web,Santa Ana,1
+426,Premium,1.0,Call Center,Sonsonate,1
+427,Digital,8.0,App,San Miguel,1
+428,Personas,14.2,Call Center,La Libertad,1
+429,Personas,14.0,Sucursal,Santa Ana,1
+430,Premium,3.1,App,Sonsonate,1
+431,Nómina,18.0,Sucursal,San Salvador,1
+432,Personas,13.5,App,La Libertad,1
+433,Digital,6.2,Web,Santa Ana,1
+434,Nómina,16.0,Call Center,San Salvador,1
+435,Nómina,15.9,Call Center,Sonsonate,1
+436,Premium,7.5,Web,Sonsonate,1
+437,Digital,3.0,App,San Salvador,1
+438,Personas,8.3,Sucursal,La Libertad,1
+439,Pymes,15.5,App,Santa Ana,1
+440,Personas,13.0,Sucursal,Sonsonate,1
+441,Digital,7.2,Call Center,Santa Ana,1
+442,Pymes,10.3,App,San Salvador,1
+443,Digital,3.5,Call Center,Santa Ana,1
+444,Personas,18.7,Call Center,San Miguel,1
+445,Digital,18.0,App,San Miguel,1
+446,Nómina,12.9,Web,Santa Ana,1
+447,Personas,12.5,App,La Libertad,1
+448,Nómina,12.0,Call Center,Santa Ana,1
+449,Digital,14.6,Web,La Libertad,1
+450,Premium,16.6,App,San Salvador,1
+451,Premium,19.0,Web,Santa Ana,1
+452,Digital,8.6,App,Sonsonate,1
+453,Digital,6.1,Web,Sonsonate,1
+454,Nómina,16.2,Sucursal,San Miguel,1
+455,Pymes,1.9,App,Santa Ana,1
+456,Pymes,8.6,Sucursal,Santa Ana,1
+457,Personas,12.3,Web,San Miguel,1
+458,Personas,19.5,Call Center,San Miguel,1
+459,Digital,11.5,Web,Santa Ana,1
+460,Pymes,2.9,Sucursal,Santa Ana,1
+461,Nómina,2.4,Web,Sonsonate,1
+462,Digital,8.7,Call Center,San Miguel,1
+463,Digital,14.6,Call Center,Santa Ana,1
+464,Pymes,19.9,Sucursal,Sonsonate,1
+465,Personas,10.2,App,Sonsonate,1
+466,Digital,9.4,Call Center,Santa Ana,1
+467,Digital,7.4,App,San Miguel,1
+468,Pymes,12.2,Sucursal,San Miguel,1
+469,Digital,0.7,App,Sonsonate,1
+470,Nómina,17.7,Web,Sonsonate,1
+471,Personas,1.4,App,La Libertad,1
+472,Digital,4.3,Web,San Salvador,1
+473,Pymes,10.3,Web,La Libertad,1
+474,Digital,2.8,App,Sonsonate,1
+475,Personas,16.0,Web,La Libertad,1
+476,Personas,15.2,Call Center,La Libertad,1
+477,Digital,8.3,App,San Salvador,1
+478,Premium,3.2,Web,Sonsonate,1
+479,Digital,9.4,Call Center,San Miguel,1
+480,Digital,6.7,Sucursal,La Libertad,1
+481,Personas,12.1,Sucursal,La Libertad,1
+482,Personas,9.8,App,San Miguel,1
+483,Personas,13.6,Sucursal,La Libertad,1
+484,Personas,16.0,App,La Libertad,1
+485,Pymes,5.7,Call Center,San Salvador,1
+486,Digital,9.9,Sucursal,Santa Ana,1
+487,Nómina,1.1,App,Santa Ana,1
+488,Premium,9.1,Sucursal,Santa Ana,1
+489,Pymes,14.0,Sucursal,La Libertad,1
+490,Digital,18.5,App,Santa Ana,1
+491,Digital,4.5,Web,Sonsonate,1
+492,Digital,7.8,Call Center,Sonsonate,1
+493,Digital,7.2,Web,San Miguel,1
+494,Digital,9.9,Call Center,San Miguel,1
+495,Digital,6.3,Web,San Miguel,1
+496,Nómina,14.0,Sucursal,San Miguel,1
+497,Pymes,7.3,Web,San Miguel,1
+498,Premium,11.7,Sucursal,Sonsonate,1
+499,Personas,19.1,Call Center,San Miguel,1
+500,Premium,6.1,App,San Miguel,1
