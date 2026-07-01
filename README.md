@@ -1,8 +1,8 @@
-# Panel de Experiencia del Cliente — Davivienda (Dashboard interactivo en Power BI)
+# Panel de Experiencia del Cliente — Banco Nova (Dashboard interactivo en Power BI)
 
 ## Objetivo del proyecto
 
-Banco Davivienda necesita un sistema de inteligencia que integre las señales de experiencia del cliente de múltiples fuentes (encuestas, call center, app, sucursal) en una sola vista ejecutiva. El objetivo es que los equipos de CX y gerencia puedan detectar clientes en riesgo de churn antes de que se vayan, identificar qué procesos generan más insatisfacción y tomar decisiones basadas en datos para mejorar el NPS, CSAT y FCR de forma continua.
+Banco Nova necesita un sistema de inteligencia que integre las señales de experiencia del cliente de múltiples fuentes (encuestas, call center, app, sucursal) en una sola vista ejecutiva. El objetivo es que los equipos de CX y gerencia puedan detectar clientes en riesgo de churn antes de que se vayan, identificar qué procesos generan más insatisfacción y tomar decisiones basadas en datos para mejorar el NPS, CSAT y FCR de forma continua.
 
 ---
 
@@ -62,7 +62,7 @@ Banco Davivienda necesita un sistema de inteligencia que integre las señales de
 
 ## Conclusión final
 
-Para mejorar la experiencia del cliente en Davivienda, la estrategia debe enfocarse en tres frentes simultáneos: automatizar los motivos de contacto de alto volumen y bajo valor (consulta de saldo, transferencias) para liberar capacidad del call center; intervenir proactivamente en el segmento Digital con mejoras de UX en la app, dado que concentra alto volumen pero el CSAT más bajo; y activar el modelo de churn scoring para que el equipo de retención contacte esta semana a los clientes con NPS histórico menor a 4 antes de que migren a la competencia. Estas tres acciones, ejecutadas en paralelo, tienen el mayor potencial de impacto medible en NPS, CSAT y FCR en el corto plazo.
+Para mejorar la experiencia del cliente en Banco Nova, la estrategia debe enfocarse en tres frentes simultáneos: automatizar los motivos de contacto de alto volumen y bajo valor (consulta de saldo, transferencias) para liberar capacidad del call center; intervenir proactivamente en el segmento Digital con mejoras de UX en la app, dado que concentra alto volumen pero el CSAT más bajo; y activar el modelo de churn scoring para que el equipo de retención contacte esta semana a los clientes con NPS histórico menor a 4 antes de que migren a la competencia. Estas tres acciones, ejecutadas en paralelo, tienen el mayor potencial de impacto medible en NPS, CSAT y FCR en el corto plazo.
 
 ---
 
